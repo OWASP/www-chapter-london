@@ -16,21 +16,21 @@ The following are the list of OWASP Corporate Members who have generously aligne
 
 </td>
 <td>
-![](https://github.com/OWASP/www-chapter-london/raw/master/assets/images/IEDigital-logo.png)
+![test](https://github.com/OWASP/www-chapter-london/raw/master/assets/images/IEDigital-logo.png)
 
 </td>
 </tr>
 <tr>
 <td>
-![](https://github.com/OWASP/www-chapter-london/raw/master/assets/images/NetSparker_Logo_New.jpg "NetSparker_Logo_New.jpg")
+![t](https://github.com/OWASP/www-chapter-london/raw/master/assets/images/NetSparker_Logo_New.jpg "NetSparker_Logo_New.jpg")
 
 </td>
 <td>
-![](https://github.com/OWASP/www-chapter-london/raw/master/assets/images/GDS_LOGO_SMALL.jpg "GDS_LOGO_SMALL.jpg")
+![t](https://github.com/OWASP/www-chapter-london/raw/master/assets/images/GDS_LOGO_SMALL.jpg "GDS_LOGO_SMALL.jpg")
 
 </td>
 <td>
-![](https://github.com/OWASP/www-chapter-london/raw/master/assets/images/Synack_Logo.jpg "Synack_Logo.jpg")
+![t](https://github.com/OWASP/www-chapter-london/raw/master/assets/images/Synack_Logo.jpg "Synack_Logo.jpg")
 
 </td>
 </tr>
