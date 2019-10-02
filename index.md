@@ -49,7 +49,7 @@ The following are the list of OWASP Corporate Members who have generously aligne
 
 </td>
 <td>
-<img src="assets/images/HackerOneLogo.png"" alt="HackerOneLogo.png""/>
+<img src="assets/images/HackerOneLogo.png" alt="HackerOneLogo.png"/>
 
 </td>
 <td>
@@ -74,7 +74,7 @@ The following are the list of OWASP Corporate Members who have generously aligne
 <tr>
 </tr>
 </table>
-</ul>
+
 
 Meeting Sponsors
 ----------------
@@ -152,7 +152,7 @@ The following is the list of organisations who have generously provided us with 
 </td>
 </tr>
 </table>
-</ul>
+
 Speaking at OWASP London Chapter Events
 ---------------------------------------
 
