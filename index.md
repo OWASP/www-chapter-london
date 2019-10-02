@@ -1,6 +1,5 @@
 Chapter Sponsors
 ----------------
-<img src="/assets/images/" alt=""/>
 The following are the list of OWASP Corporate Members who have generously aligned themselves with the London chapter, therefore contributing funds to our chapter:
 
 <table cellpadding="15" cellspacing="0">
