@@ -1,13 +1,13 @@
 Chapter Sponsors
 ----------------
-
+https://github.com/OWASP/www-chapter-london/raw/master/assets/images/
 The following are the list of OWASP Corporate Members who have generously aligned themselves with the London chapter, therefore contributing funds to our chapter:
 
 <table cellpadding="15" cellspacing="0">
 <tr>
 <td>
 
-![test](/assets/images/VeraCode_logo.png‎)
+![test](https://github.com/OWASP/www-chapter-london/raw/master/assets/images/‎)
 
 
 </td>
