@@ -16,7 +16,7 @@ The following are the list of OWASP Corporate Members who have generously aligne
 
 </td>
 <td>
-![](https://github.com/OWASP/www-chapter-london/raw/master/assets/images/IEDigital-logo.png "IEDigital-logo.png‎")
+![](https://github.com/OWASP/www-chapter-london/raw/master/assets/images/IEDigital-logo.png)
 
 </td>
 </tr>
