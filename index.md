@@ -12,7 +12,7 @@ The following are the list of OWASP Corporate Members who have generously aligne
 
 </td>
 <td>
-<embed src="https://github.com/OWASP/www-chapter-london/tree/master/assets/images/ThoughtWorks-logo.png‎" title="ThoughtWorks-logo.png‎" width="200" />
+<embed src="https://github.com/OWASP/www-chapter-london/raw/master/assets/images/ThoughtWorks-logo.png‎" title="ThoughtWorks-logo.png‎" width="200" />
 
 </td>
 <td>
