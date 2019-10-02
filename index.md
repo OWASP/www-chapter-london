@@ -8,6 +8,8 @@ The following are the list of OWASP Corporate Members who have generously aligne
 <td>
 
 ![test](https://github.com/OWASP/www-chapter-london/raw/master/assets/images/VeraCode_logo.png)
+<img src="/assets/images/VeraCode_logo.png" alt="repository template"/>
+
 
 
 </td>
