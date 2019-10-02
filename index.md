@@ -6,11 +6,13 @@ The following are the list of OWASP Corporate Members who have generously aligne
 <table cellpadding="15" cellspacing="0">
 <tr>
 <td>
-![](VeraCode_logo.png‎ "VeraCode_logo.png‎")
+
+![test](/assets/images/VeraCode_logo.png‎)
+
 
 </td>
 <td>
-<embed src="ThoughtWorks-logo.png‎" title="ThoughtWorks-logo.png‎" width="200" />
+<embed src="https://github.com/OWASP/www-chapter-london/tree/master/assets/images/ThoughtWorks-logo.png‎" title="ThoughtWorks-logo.png‎" width="200" />
 
 </td>
 <td>
