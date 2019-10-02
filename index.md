@@ -1,3 +1,12 @@
+---
+
+layout: col-sidebar
+title: OWASP London
+site_side: true
+tags: london
+
+---
+
 Chapter Sponsors
 ----------------
 The following are the list of OWASP Corporate Members who have generously aligned themselves with the London chapter, therefore contributing funds to our chapter:
@@ -6,12 +15,12 @@ The following are the list of OWASP Corporate Members who have generously aligne
 <tr>
 <td>
 
-<img src="/assets/images/VeraCode_logo.png" alt=""/>
+<img src="https//www2.owasp.org/www-chapter-london/assets/images/VeraCode_logo.png" alt=""/>
 
 </td>
 <td>
 
-<img src="/assets/images/ThoughtWorks-logo.png" alt=""/>
+<img src="assets/images/ThoughtWorks-logo.png" alt=""/>
 
 </td>
 <td>
