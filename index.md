@@ -7,7 +7,7 @@ The following are the list of OWASP Corporate Members who have generously aligne
 <tr>
 <td>
 
-![test](https://github.com/OWASP/www-chapter-london/raw/master/assets/images/‎)
+![test](https://github.com/OWASP/www-chapter-london/raw/master/assets/images/VeraCode_logo.png‎)
 
 
 </td>
