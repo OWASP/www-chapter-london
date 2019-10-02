@@ -75,6 +75,7 @@ The following are the list of OWASP Corporate Members who have generously aligne
 </tr>
 </table>
 </ul>
+
 Meeting Sponsors
 ----------------
 
