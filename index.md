@@ -16,59 +16,50 @@ The following are the list of OWASP Corporate Members who have generously aligne
 
 </td>
 <td>
-![test](https://github.com/OWASP/www-chapter-london/raw/master/assets/images/IEDigital-logo.png)
-    <img src="/assets/images/" alt=""/>
+<img src="/assets/images/IEDigital-logo.png" alt=""/>
 
 
 </td>
 </tr>
 <tr>
 <td>
-![t](https://github.com/OWASP/www-chapter-london/raw/master/assets/images/NetSparker_Logo_New.jpg "NetSparker_Logo_New.jpg")
-<img src="/assets/images/" alt=""/>
+<img src="/assets/images/NetSparker_Logo_New.jpg" alt=""/>
 
 </td>
 <td>
-![t](https://github.com/OWASP/www-chapter-london/raw/master/assets/images/GDS_LOGO_SMALL.jpg "GDS_LOGO_SMALL.jpg")
-<img src="/assets/images/" alt=""/>
+<img src="/assets/images/GDS_LOGO_SMALL.jpg" alt=""/>
 
 </td>
 <td>
-![t](https://github.com/OWASP/www-chapter-london/raw/master/assets/images/Synack_Logo.jpg "Synack_Logo.jpg")
-<img src="/assets/images/" alt=""/>
+<img src="/assets/images/Synack_Logo.jpg" alt="Synack Logo"/>
 
 </td>
 </tr>
 <tr>
 <td>
-![](https://github.com/OWASP/www-chapter-london/raw/master/assets/images/KiuwanLogoSmall.png "KiuwanLogoSmall.png")
-<img src="/assets/images/" alt=""/>
+<img src="/assets/images/KiuwanLogoSmall.png" alt="KiuwanLogoSmall.png"/>
 
 </td>
 <td>
-![](https://github.com/OWASP/www-chapter-london/raw/master/assets/images/HackerOneLogo.png "HackerOneLogo.png")
-<img src="/assets/images/" alt=""/>
+<img src="/assets/images/HackerOneLogo.png"" alt="HackerOneLogo.png""/>
 
 </td>
 <td>
-![](https://github.com/OWASP/www-chapter-london/raw/master/assets/images/ImmuniWebLogo.jpg "ImmuniWebLogo.jpg")
-<img src="/assets/images/" alt=""/>
+<img src="/assets/images/ImmuniWebLogo.jpg" alt="ImmuniWebLogo.jpg"/>
 
 </td>
 </tr>
 <tr>
 <td>
-![](https://github.com/OWASP/www-chapter-london/raw/master/assets/images/OxfordWebAppsLogo2.png "OxfordWebAppsLogo2.png")
-<img src="/assets/images/" alt=""/>
+<img src="/assets/images/OxfordWebAppsLogo2.png" alt="OxfordWebAppsLogo2.png"/>
 
 </td>
 <td>
-![](https://github.com/OWASP/www-chapter-london/raw/master/assets/images/FacebookLogoBlue.png "FacebookLogoBlue.png")
+<img src="/assets/images/FacebookLogoBlue.png " alt="FacebookLogoBlue.png "/>
 
 </td>
 <td>
-![](https://github.com/OWASP/www-chapter-london/raw/master/assets/images/AvataoLogoBlue.png "AvataoLogoBlue.png")
-<img src="/assets/images/" alt=""/>
+<img src="/assets/images/AvataoLogoBlue.png" alt="AvataoLogoBlue.png"/>
 
 </td>
 </tr>
@@ -84,13 +75,11 @@ The following is the list of organisations who have generously provided us with 
 <table cellpadding="10" cellspacing="0" border="0">
 <tr>
 <td>
-![](https://github.com/OWASP/www-chapter-london/raw/master/assets/images/Skype_logo_solid.jpg "Skype_logo_solid.jpg")
-<img src="/assets/images/" alt=""/>
+<img src="/assets/images/Skype_logo_solid.jpg" alt="Skype_logo_solid.jpg"/>
 
 </td>
 <td>
-![](https://github.com/OWASP/www-chapter-london/raw/master/assets/images/Expedia_Logo.jpg "Expedia_Logo.jpg")
-<img src="/assets/images/" alt=""/>
+<img src="/assets/images/Expedia_Logo.jpg" alt="Expedia_Logo.jpg"/>
 
 </td>
 <td>
