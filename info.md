@@ -6,12 +6,16 @@
 * [Breaker](#)
 
 ### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
+* [Facebook](https://www.facebook.com/OWASPLondon)
+* [Twitter](https://twitter.com/owasplondon)
+* [Linkedin](https://www.linkedin.com/company/owasplondon)
+* [MeetUp](https://www.meetup.com/OWASP-London/)
+* [EventBrite](https://www.eventbrite.co.uk/o/owasp-london-chapter-9790101329)
+* [YouTube](https://www.youtube.com/channel/UC-CfoAEpdpkB_jYrydYrqSA)
 
 ### Code Repository
-* [repo](#)
+* [repo](https://github.com/OWASP/www-chapter-london)
 
 ### Change Log
-* [changes](#)
+* [changes](https://github.com/OWASP/www-chapter-london/commits/master)
 
