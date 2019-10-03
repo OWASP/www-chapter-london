@@ -15,7 +15,8 @@
 * [YouTube](https://www.youtube.com/channel/UC-CfoAEpdpkB_jYrydYrqSA)
 
 ### Code Repository
-* [repo](https://github.com/OWASP/www-chapter-london)
+* [Page Repo](https://github.com/OWASP/www-chapter-london)
+* [Slides Repo](https://github.com/OWASP/www-chapter-london/tree/master/assets/slides)
 
 ### Change Log
 * [changes](https://github.com/OWASP/www-chapter-london/commits/master)
