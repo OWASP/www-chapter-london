@@ -185,16 +185,16 @@ Welcome and a brief update on OWASP Projects & Events from the OWASP London Chap
 
 OWASP Board of Directors Election 2019 Update
 
--   ''' “Hack the World & Galaxy with OSINT” - Chris Kubecka '''
+-    “Hack the World & Galaxy with OSINT” - Chris Kubecka 
 
 
 The more we strive to connect every part the world with IT, IOT & ICS SCADA assets running on legacy and existing infrastructure with IPv6 and upcoming 5G & 6E. The risk of finding connected, insecure assets containing juicy info which can be leveraged by naughty groups rises. How easy is it to find vulnerable databases, solar panels, smart homes, washing machines, space IOT, maritime assets and critical infrastructure? Using OSINT Open source intelligence gathering, an important part of the reconnaissance phase of a application security penetration test. Learning what sources of information is available to start a penetration test is a crucial step in completing a thorough but effective exploration. Risks associated with leveraging, misusing or selling discovered material are all too real. Get your hoodie out and join us on a journey of discovery and exploitation of high profile industrial controls systems spanning land, sea, air and space using legal tools & techniques. Key takeaways include closing the gaps and securing these systems.
 
--   ''' Lightning Talk - “Using OWASP Security Bot (OSBot) to make Fact Based Security Decisions” - Dinis Cruz '''
+-    Lightning Talk - “Using OWASP Security Bot (OSBot) to make Fact Based Security Decisions” - Dinis Cruz 
 
 <!-- -->
 
--   ''' “Common API Security Pitfalls” - Philippe De Ryck '''
+-    “Common API Security Pitfalls” - Philippe De Ryck
 
 
 The shift towards an API landscape indicates a significant evolution in the way we build applications. The rise of JavaScript and mobile applications have sparked an explosion of easily-accessible REST APIs. But how do you protect access to your API? Which security aspects are no longer relevant? Which security features are an absolutely must-have, and which additional security measures do you need to take into account? These are hard questions, as evidenced by the deployment of numerous insecure APIs. Attend this session to find out about common API security pitfalls, that often result in compromised user accounts and unauthorized access to your data. We expose the problem that lies at the root of each of these pitfalls, and offer actionable advice to address these security problems. After this session, you will know how to assess the security of your APIs, and the best practices to improve them towards the future.
@@ -257,7 +257,7 @@ Revolut has grown to over 5 million customers. This presentation will give an ov
 
 Have you ever wanted to learn more about how payments work? Do you want to know how criminals bypass security mechanisms on Point of Sales terminals, ATM’s and digital wallets? Payment technologies are a transparent part of our lives. They enable us pay for everything from a coffee to a car. In the first part of this talk we take a look at payment technologies past, present and future. Learn how payments have evolved and what transactions look like today.Next we’ll dive into the different attacks that are possible with each transaction type and discuss which areas security teams should be focused on now, and in the future. Learn how hackers gain access to banking endpoints, bypass fraud detection mechanisms, and how they ultimately cash out.
 
--   '''“Advanced Bots and Security Evasion Techniques” - David Warburton ''' ([PDF](Media:OWASPLondon_20190718_AdvancedBots_warburtr0n.pdf "wikilink"))
+-   “Advanced Bots and Security Evasion Techniques” - David Warburton  ([PDF](Media:OWASPLondon_20190718_AdvancedBots_warburtr0n.pdf "wikilink"))
 
 
 Bots are generally seen as a bit of a nuisance and widely regarded as the weapon of choice for DDoS attacks. However, modern bots are capable of much more and are claimed to be behind three quarters of all attacks that hit web sites and APIs. Techniques such as rate limiting, IP blacklisting and even CAPTCHAs often do little to prevent the attacks as they evolve, evading controls which try to differentiate between bots and humans. In this session we’re going to look at what bots are and how they’re created, what they’re now capable of, which industries are most affected by them and how they are evolving to avoid our current defences.
