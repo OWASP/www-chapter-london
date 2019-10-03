@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
+* [Sherif Mansour](mailto://sherif.mansour@owasp.org)
+* [Sam Stepanyan](mailto://sam.stepanyan@owasp.org)
+* [Andra Lezza](mailto://andra.lezza@owasp.org)
