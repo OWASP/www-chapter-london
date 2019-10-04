@@ -185,12 +185,12 @@ Welcome and a brief update on OWASP Projects & Events from the OWASP London Chap
 
 OWASP Board of Directors Election 2019 Update
 
--    “Hack the World & Galaxy with OSINT” - Chris Kubecka 
+-    “Hack the World & Galaxy with OSINT” - Chris Kubecka
 
 
 The more we strive to connect every part the world with IT, IOT & ICS SCADA assets running on legacy and existing infrastructure with IPv6 and upcoming 5G & 6E. The risk of finding connected, insecure assets containing juicy info which can be leveraged by naughty groups rises. How easy is it to find vulnerable databases, solar panels, smart homes, washing machines, space IOT, maritime assets and critical infrastructure? Using OSINT Open source intelligence gathering, an important part of the reconnaissance phase of a application security penetration test. Learning what sources of information is available to start a penetration test is a crucial step in completing a thorough but effective exploration. Risks associated with leveraging, misusing or selling discovered material are all too real. Get your hoodie out and join us on a journey of discovery and exploitation of high profile industrial controls systems spanning land, sea, air and space using legal tools & techniques. Key takeaways include closing the gaps and securing these systems.
 
--    Lightning Talk - “Using OWASP Security Bot (OSBot) to make Fact Based Security Decisions” - Dinis Cruz 
+-    Lightning Talk - “Using OWASP Security Bot (OSBot) to make Fact Based Security Decisions” - Dinis Cruz
 
 <!-- -->
 
@@ -247,17 +247,17 @@ Past Events
 
 Welcome and a brief update on OWASP Projects & Events from the OWASP London Chapter Leaders.
 
--   **Lightning Talk - “Scaling Security - Move fast and make things” - Paul Heffernan** ([PDF](Media:OWASPLondon_20190718_OWASP-Revolut.pdf "wikilink"))
+-   **Lightning Talk - “Scaling Security - Move fast and make things” - Paul Heffernan** ([PDF](assets/slides/OWASPLondon_20190718_OWASP-Revolut.pdf "wikilink"))
 
 
 Revolut has grown to over 5 million customers. This presentation will give an overview of the lessons we have learnt to scaling security that quickly when security fundamentally represents customer trust.
 
--   **“Hack In, Cash Out: Hacking and Securing Payment Technologies” - Tim Yunusov** ([PDF](Media:OWASPLondon_20190718_Hack_IN-Cash_Out-tyunusov.pdf "wikilink"))
+-   **“Hack In, Cash Out: Hacking and Securing Payment Technologies” - Tim Yunusov** ([PDF](assets/slides/OWASPLondon_20190718_Hack_IN-Cash_Out-tyunusov.pdf "wikilink"))
 
 
 Have you ever wanted to learn more about how payments work? Do you want to know how criminals bypass security mechanisms on Point of Sales terminals, ATM’s and digital wallets? Payment technologies are a transparent part of our lives. They enable us pay for everything from a coffee to a car. In the first part of this talk we take a look at payment technologies past, present and future. Learn how payments have evolved and what transactions look like today.Next we’ll dive into the different attacks that are possible with each transaction type and discuss which areas security teams should be focused on now, and in the future. Learn how hackers gain access to banking endpoints, bypass fraud detection mechanisms, and how they ultimately cash out.
 
--   “Advanced Bots and Security Evasion Techniques” - David Warburton  ([PDF](Media:OWASPLondon_20190718_AdvancedBots_warburtr0n.pdf "wikilink"))
+-   “Advanced Bots and Security Evasion Techniques” - David Warburton  ([PDF](assets/slides/OWASPLondon_20190718_AdvancedBots_warburtr0n.pdf "wikilink"))
 
 
 Bots are generally seen as a bit of a nuisance and widely regarded as the weapon of choice for DDoS attacks. However, modern bots are capable of much more and are claimed to be behind three quarters of all attacks that hit web sites and APIs. Techniques such as rate limiting, IP blacklisting and even CAPTCHAs often do little to prevent the attacks as they evolve, evading controls which try to differentiate between bots and humans. In this session we’re going to look at what bots are and how they’re created, what they’re now capable of, which industries are most affected by them and how they are evolving to avoid our current defences.
@@ -312,12 +312,12 @@ Video Recording of this event can be viewed on YouTube: <https://www.youtube.com
 
 Welcome and a brief update on OWASP Projects & Events from the OWASP London Chapter Leaders.
 
--   **“Move Fast and Secure Things (with Static Analysis)” - Ibrahim Mohamed El-Sayed** ([PDF](Media:OWASPLondon_20190404_MoveFast_Static_Analysis_the_st0rm.pdf "wikilink"))
+-   **“Move Fast and Secure Things (with Static Analysis)” - Ibrahim Mohamed El-Sayed** ([PDF](assets/slides/OWASPLondon_20190404_MoveFast_Static_Analysis_the_st0rm.pdf "wikilink"))
 
 
 This talk focuses on how to use static analysis to improve the security posture of a company. Inside the talk, we dive into example of bugs that can be detected with static analysis, the different modes of static analysis being used inside facebook as an example of how to move fast and secure the codebase. We then move into challenges and limitations of static analysis and we end up with some numbers to demonstrate how helpful is static analysis in the detection of security bugs
 
--   **Lightining Talk - “Remediate the Flag: Practical AppSec Training Platform” - Andrea Scaduto** ([PDF](Media:OWASPLondon_20190404_OWASP-RTF.pdf "wikilink"))
+-   **Lightining Talk - “Remediate the Flag: Practical AppSec Training Platform” - Andrea Scaduto** ([PDF](assets/slides/OWASPLondon_20190404_OWASP-RTF.pdf "wikilink"))
 
 
 This lightening talk is about RTF, an open source platform that hosts appsec exercises for developers. Candidates manually remediate the code of a vulnerable application running in a disposable development environment accessed using a web browser. The platform provides automated results, a point system with trophies, and the ability to create time-boxed tournaments. The talk will include a live demo and introduce what’s coming next.
@@ -383,7 +383,7 @@ We hope you enjoy our events, we care deeply about inclusivity and diversity so 
 
 Welcome and a brief update on OWASP Projects & Events from the OWASP London Chapter Leaders.
 
--   *' “Introducing the OWASP Application Security Verification Standard (ASVS) v4.0” - Andrew van der Stock (@vanderaj)*' ([PDF](Media:OWASPLondon_20190225_vanderaj_ASVSv4.pdf "wikilink"))
+-   *' “Introducing the OWASP Application Security Verification Standard (ASVS) v4.0” - Andrew van der Stock (@vanderaj)*' ([PDF](assets/slides/OWASPLondon_20190225_vanderaj_ASVSv4.pdf "wikilink"))
 
 
 Come learn about the completely new OWASP Application Security Verification Standard 4.0: what’s changed, what’s the same, and how you can use it for security architecture, agile security, secure coding and secure code reviews, unit and integration test cases, and now with 100% L1 support for penetration tests. The ASVS is the most comprehensive developer-focused application security standard, developed entirely in the open with contributions from all over the world. Over the last 10 years, adoption of the ASVS has become mainstream and it should replace the OWASP Top 10 in almost all situations. Learn how you can use the ASVS in your day to day life no matter if you’re a coder, a security professional, or a tool vendor. ASVS version 4.0 will be released at the nullcon conference on Friday 1st March 2019, so Andrew will really appreciate constructive heckling, calling him out on vague points or any help to make the final release presentation better.
@@ -433,7 +433,7 @@ Welcome and a brief update on OWASP Projects & Events from the OWASP London Chap
 
 The OWASP Zed Attack Proxy (ZAP) is one of the world’s most popular and best maintained free and open source security tools. It has a powerful desktop UI, a highly functional API and is used by everyone from people new to security, including developers and QA, right up to professional pentesters. It’s also more complex for newcomers than we would like. We are therefore introducing a new Heads Up Display (HUD) interface which overlays data and controls for ZAP over the web based application being tested.
 
--   ''' “Incident Response in Your Pyjamas” - Paco Hope (@pacohope) ''' ([Slides PDF](Media:OWASPLondon-IR-In-Your-Pyjamas-Paco-Hope-20190213-PDF.pdf "wikilink"))
+-   ''' “Incident Response in Your Pyjamas” - Paco Hope (@pacohope) ''' ([Slides PDF](assets/slides/OWASPLondon-IR-In-Your-Pyjamas-Paco-Hope-20190213-PDF.pdf "wikilink"))
 
 
 When security incidents happen, you often have to respond in a hurry to gather forensic data from the resources that were involved. You might need to grab a bunch of hard drives and physically visit the data centre to capture data from the systems. Getting on airplanes and going to data centres means you have to get dressed, and that's a drag. When infrastructure is in the cloud, you have remote access and APIs for managing all your infrastructure, so you can respond to incidents with automation and do your forensic analysis in your bunny slippers. But is it as good as the capabilities you have in a data centre? Is getting dressed the price you have to pay for high quality forensics and incident response? In this talk Paco will explain the two major domains of cloud events (infrastructure domain and service domain) and describe the security and incident response techniques pioneered by AWS customers like Mozilla, Alfresco, and Netflix. He'll explain how to isolate resources to preserve the integrity of the data; get RAM dumps and disk image snapshots; and identify unauthorised changes to cloud resources using API tools and logs. And all of this while wearing pyjamas.
@@ -519,7 +519,7 @@ Welcome and a brief update on OWASP Projects & Events from the OWASP London Chap
 
 In March 2017 hackers took three days to identify and exploit a new vulnerability in Equifax’s web applications. In the post-Equifax world, moving new business requirements (e.g., a non-vulnerable version of Struts2) into production in under three days might just be your new normal. Find out what the analysis of 17,000 applications reveals about the quality and security of software built with open source components. Join this session to better understand how DevSecOps teams are applying lessons from W. Edwards Deming (circa 1982), Malcolm Goldrath (circa 1984) and Gene Kim (circa 2013) to improve their ability to respond to new business requirements and cyber risks.
 
--   ''' “I know what you did last summer: New persistent tracking mechanisms used in the wild” - Dr. Alexios Mylonas ''' ([Slides PDF](Media:OWASPLondon-WebTracking-Dr-Alexios-Mylonas-20181122-PDF.pdf "wikilink")) ([Research Article PDF](Media:TrackingResearchArticle-08457184-PDF.pdf "wikilink"))
+-   ''' “I know what you did last summer: New persistent tracking mechanisms used in the wild” - Dr. Alexios Mylonas ''' ([Slides PDF](assets/slides/OWASPLondon-WebTracking-Dr-Alexios-Mylonas-20181122-PDF.pdf "wikilink")) ([Research Article PDF](assets/slides/TrackingResearchArticle-08457184-PDF.pdf "wikilink"))
 
 
 Web Storage, Indexed Database API and Web SQL Database allow web browsers to store information in the client in a much more advanced way compared to other techniques, such as HTTP Cookies. They were originally introduced with the goal of enhancing the capabilities of websites, however, they are often exploited as a way of tracking users across multiple sessions and websites. The presentation will be divided into two parts. First, it will quantify the usage of these three primitives in the context of user tracking. This is done by performing a large-scale analysis on the usage of these techniques in the wild. The second part reviews the effectiveness of the removal of client-side storage data in modern browsers.
@@ -564,7 +564,7 @@ We hope you enjoy our events, we care deeply about inclusivity and diversity so 
 
 Welcome and a brief update on OWASP Projects & Events from the OWASP London Chapter Leaders.
 
--   *' “If You Liked It, You Should Have Put Security On It” - Zoë Rose*' ([PDF](Media:OWASPLondon-zoerose-20181024-PDF.pdf "wikilink"))
+-   *' “If You Liked It, You Should Have Put Security On It” - Zoë Rose*' ([PDF](assets/slides/OWASPLondon-zoerose-20181024-PDF.pdf "wikilink"))
 
 
 We no longer live in a world where ignorance on security is even remotely okay, you can't breach a data protection act with the defence that 'oops we didn't realise'. Not only will you owe major fines, but your reputational damage will be extravagant. Why is it then, in the media seemingly every day, an insane breach is reported? The reality is, we live in a world of fail by design more than security or privacy by design. The challenge is: \* Security is confusing, it is this confusion that leads to negativity and enables a shift to being a taboo topic. \* We need things to 'just work' across all situations, environments, and work consistently with a quick to market and competitive price. How did we get here? Well, let's face it, we created a no win market, that organisations can't possibly compete with. There is hope, as the world changes it's approach, which we are doing slowly, we can become a safer and more secure world. In this talk, we will be looking at how to make that first step in our personal and professional lives. Including the steps we can take to change the market to value us and our personal data.
@@ -574,7 +574,7 @@ We no longer live in a world where ignorance on security is even remotely okay, 
 
 Look at your job, your colleagues, your industry. Smart people, working hard... and yet it feels like we're losing. Why? Cyber security has always been a technology driven, engineer led industry - vague default strategies have emerged from the tactics and point solutions chosen by self-taught practitioners based on what fits in with their preferred ways of working and studying. We need better strategies, we can learn them from other contexts and conflicts to improve our own methods and practices.Would you like to start winning?
 
--   *' “A Holistic View On Cyber Security In Evolutionary Terms (food-for-thought)” - Dr. Grigorios Fragkos*' ([PDF](Media:OWASPLondon-drgfragkos-20181024-PDF.pdf "wikilink"))
+-   *' “A Holistic View On Cyber Security In Evolutionary Terms (food-for-thought)” - Dr. Grigorios Fragkos*' ([PDF](assets/slides/OWASPLondon-drgfragkos-20181024-PDF.pdf "wikilink"))
 
 
 The Red Queen hypothesis, also referred to as the Red Queen effect, is an evolutionary hypothesis which proposes that organisms must constantly adapt, evolve, and proliferate not merely to gain a reproductive advantage, but also simply to survive while pitted against ever-evolving rival organisms in a continuously changing environment. Let's explore under a Cyber lens this evolutionary hypothesis in contrast to the evolving (cyber)threats and our adaptation (as professionals) to equally evolve our Cyber Resiliency capabilities (as an industry). This presentation is an opportunity to explore as professionals our security mindset and draw some personal conclusions on our Cyber Security culture in order to better ourselves. From user awareness all the way to Cyber Resilience, from developing by writing secure code to the effort it takes in breaking it, from gaps in hiring talents to hiring for the right reasons, this brief session is intended to spark a personal “eureka” moment in the mindmap of each security professional inside and outside the room.
@@ -626,7 +626,7 @@ Welcome and a brief update on OWASP Projects & Events from the OWASP London Chap
 
 Facebook's Whitehat bug bounty program receives 1000's of security bug reports annually, covering a wide range of issues and products. Come listen to some of the interesting bugs Facebook's Whitehat program team handled over the past year, and some pro-tips when looking for bugs outside of “facebook.com”.
 
--   **Lightning Talk - “Open Source for Young Coders” - Hackerfemo** ([PDF](Media:OWASPLondon-hackerfemo-20180906-PDF.pdf "wikilink"))
+-   **Lightning Talk - “Open Source for Young Coders” - Hackerfemo** ([PDF](assets/slides/OWASPLondon-hackerfemo-20180906-PDF.pdf "wikilink"))
 
 
 Inspirational 12 year old Hackerfemo will tell us all about how open source helps him run coding and robot workshops for 10-16 year olds throughout the world.
@@ -636,7 +636,7 @@ Inspirational 12 year old Hackerfemo will tell us all about how open source help
 
 As developers start using front-end frameworks such as React they must be made aware of any related security issues. Whilst React provides developers with proactive measures such as output encoding, there still exist edge cases which can lead to cross-site scripting issues. This talk explores common security issues in the framework and how to defend against them
 
--   **Ligthning Talk - “Introducing OWASP Amass Project” - Jeff Foley (remote)** ([PDF](Media:OWASPLondon-OWASP-Amass-Project-20180906-PDF.pdf "wikilink"))
+-   **Ligthning Talk - “Introducing OWASP Amass Project” - Jeff Foley (remote)** ([PDF](assets/slides/OWASPLondon-OWASP-Amass-Project-20180906-PDF.pdf "wikilink"))
 
 
 Jeff will introduce the OWASP Amass project - a tool which obtains subdomain names by scraping data sources, recursive brute forcing, crawling web archives, permuting/altering names and reverse DNS sweeping. All the information is then used to build maps of the target networks.
@@ -690,17 +690,17 @@ Video recordings of talks from this event can be viewed here: <https://www.youtu
 
 Welcome and a brief update on OWASP Projects & Events from the OWASP London Chapter Leaders.
 
--   *' “From zero to hero: building security from scratch” - Anthi Gilligan*' ([PDF](Media:OWASPLondon-Zero-to-Hero-20180830-PDF.pdf "wikilink"))
+-   *' “From zero to hero: building security from scratch” - Anthi Gilligan*' ([PDF](assets/slides/OWASPLondon-Zero-to-Hero-20180830-PDF.pdf "wikilink"))
 
 
 Breaches mean financial, regulatory, legal, and above all reputational repercussions. Organisations are quick to react, however with security professionals in high demand and low supply, there has been an increase in individuals jumping on the “cybersecurity” bandwagon. In this talk, we discuss the pitfalls of the inadequately qualified “cybersecurity expert”, and examine the building blocks of a solid information security management system
 
--   **“Smart Contract Security” - Evangelos Deirmentzoglou** ([PDF](Media:OWASPLondon-Smart-ContractSecurity-edeirme_-20180830-PDF.pdf "wikilink"))
+-   **“Smart Contract Security” - Evangelos Deirmentzoglou** ([PDF](assets/slides/OWASPLondon-Smart-ContractSecurity-edeirme_-20180830-PDF.pdf "wikilink"))
 
 
 Dapps and many Initial Coin Offerings (ICOs) run on smart contracts and tend to process a substantial amount of funds. This makes them a target, and therefore they often undergo attacks. Combined with the blockchain immutability, vulnerabilities undiscovered during development will exist forever in the blockchain. This talk will dive into the most common smart contract security vulnerabilities and provide in-depth knowledge on how these issues occur and their mitigation. Real world examples will be discussed and vulnerabilities like re-entrancy, overflows, gas limit attacks etc. will be demonstrated
 
--   '''Lightning Talk: “Driving OWASP ZAP using Selenium” - Mark Torrens ([PDF](Media:OWASPLondon-OWASP-ZAP-Selenium-20180830-PDF.pdf "wikilink"))
+-   '''Lightning Talk: “Driving OWASP ZAP using Selenium” - Mark Torrens ([PDF](assets/slides/OWASPLondon-OWASP-ZAP-Selenium-20180830-PDF.pdf "wikilink"))
 
 
 OWASP ZAP is great tool but it's not magic! When used in a CI/CD pipeline, ZAP needs some help to discover the routes through a web application. Basic authentication, user logins and form validation can all stop ZAP in its tracks. I show how to drive ZAP using Selenium scripts and increase the security coverage of a web application.
@@ -749,7 +749,7 @@ Video recordings of talks presented at this event can be found here: <https://ww
 
 Welcome and a brief update on OWASP Projects & Events from the OWASP London Chapter Leaders. Welcome from Ian McCaw, Associate Partner​,​ Operational Transaction Services, EY.
 
--   **“Is There Room for SecArch in DevSecOps?” - Dimitrios Petropoulos** ([PDF](Media:OWASPLondon-SecArch-DevSecOps_-DP20180426-PDF.pdf "wikilink"))
+-   **“Is There Room for SecArch in DevSecOps?” - Dimitrios Petropoulos** ([PDF](assets/slides/OWASPLondon-SecArch-DevSecOps_-DP20180426-PDF.pdf "wikilink"))
 
 
 If security is (still?) an afterthought, is shifting security to the left with automation enough for DevSecOps to deliver on its promises in the era of software at the speed of thought?
@@ -759,12 +759,12 @@ If security is (still?) an afterthought, is shifting security to the left with a
 
 Developers aren’t born knowing how to code securely and AppSec training often lacks provide practical examples. This talk introduces, RTF an open source AppSec training platform that offers hands-on exploitation, remediation, and secure coding exercises
 
--   **“SCADA and Other Dangerous Things” - Professor Andrew Blyth** ([PDF](Media:OWASPLondon-SCADA-Forensics-Prof-Andrew-Blyth-20180426-PDF.pdf "wikilink"))
+-   **“SCADA and Other Dangerous Things” - Professor Andrew Blyth** ([PDF](assets/slides/OWASPLondon-SCADA-Forensics-Prof-Andrew-Blyth-20180426-PDF.pdf "wikilink"))
 
 
 This talk will discuss a forensic readiness approach to SCADA and IPCS. Through a series of case studies we will discuss forensic requirements as they relate to SCADA and IPCS. We will also define a forensic readiness model in response to these requirements.
 
--   **Lightning Talk:" Security Testing Automation via Jenkins and Threadfix" - Lucian Corlan & Nikos Savvidis** ([PDF](Media:OWASPLondon-Security-Testing-Automation-20160426-PDF.pdf "wikilink"))
+-   **Lightning Talk:" Security Testing Automation via Jenkins and Threadfix" - Lucian Corlan & Nikos Savvidis** ([PDF](assets/slides/OWASPLondon-Security-Testing-Automation-20160426-PDF.pdf "wikilink"))
 
 
 This lightning talk will show you: how we have architected and configured our Security Jenkins pipeline to perform security tests, how Threadfix helps to achieve automation (use cases), how can Security Champions help to achieve the above
@@ -876,12 +876,12 @@ This event is kindly sponsored and hosted by: Capital One
 
 Welcome and a brief update on OWASP Projects & Conferences from the OWASP London Chapter Leader
 
--   **“Application Security Strategy and AST Lifecycle” - Ilia Kolochenko** ([PDF](Media:OWASPLondon_20180222_Ilia_Kolochenko_AST.pdf "wikilink"))
+-   **“Application Security Strategy and AST Lifecycle” - Ilia Kolochenko** ([PDF](assets/slides/OWASPLondon_20180222_Ilia_Kolochenko_AST.pdf "wikilink"))
 
 
 In the era of DevSecOps, CI/CD and Agile development many companies still become victims of disastrous data breaches caused by insecure applications. The presentation explains an application security strategy to reduce costs and assure holistic Application Security Testing (AST) of corporate web and mobile applications. The talk will also encompass application inventory and discovery, vulnerability correlation, virtual patching and practical usage of Machine Learning in application security.
 
--   **“Universal Second Factor authentication, or why 2FA today is wubalubadubdub?” - Yuriy Ackermann** ([PDF](Media:OWASPLondon_20180222_Yuriy_Ackermann_FIDO_U2F_Auth.pdf "wikilink"))
+-   **“Universal Second Factor authentication, or why 2FA today is wubalubadubdub?” - Yuriy Ackermann** ([PDF](assets/slides/OWASPLondon_20180222_Yuriy_Ackermann_FIDO_U2F_Auth.pdf "wikilink"))
 
 
 Today main 2FA solutions are OTP(TOTP, HOTP), RSA keys and SMS. All these solutions lack UX, security and privacy, easy to phish, and mostly not standardised. In this talk we will introduce FIDO U2F protocol, talk about its key strength, overview the protocol, discover how it works, how it mitigates attacks, what solutions there are on the market and who uses it, and for desert do some demos.
@@ -929,17 +929,17 @@ VIdeo Recordings of talks presented at this event are available to watch on OWAS
 
 Welcome and a brief update on OWASP Projects & Conferences from the OWASP London Chapter Leader
 
--   **“How To Buy And Hack an ATM” - Leigh-Anne Galloway and Timur Yunusov** ([PDF](Media:OWASPLondon_20180125Leigh_Anne_Galloway_TYunusov_Buy_Hack_ATM.pdf "wikilink"))
+-   **“How To Buy And Hack an ATM” - Leigh-Anne Galloway and Timur Yunusov** ([PDF](assets/slides/OWASPLondon_20180125Leigh_Anne_Galloway_TYunusov_Buy_Hack_ATM.pdf "wikilink"))
 
 
 In 1967 Barclays introduced the first cash dispenser to London. Some 50 years later contactless payments and online transactions are our go-to methods to pay for goods and services. As we head ever closer to a cashless society, how relevant are threats to ATM’s today? What are the risks and the rewards? If a security professional or bad guy wanted to buy an ATM for research purposes, would it even be possible? We’ll show you how you can buy your own ATM for a lot less money than you may have thought. In this talk we’ll discuss the challenges of acquiring, moving and storing an ATM and just how easy is it to hack an ATM once you have it.
 
--   **Lightning Talk: “Improving the Quality of Your Cyber Security Hires via Pre-Interview Challenges” - Dinis Cruz** ([PDF](Media:OWASPLondon20180125_Dinis_Cruz_Improving_the_Quality_of_Security_Hires.pdf "wikilink"))
+-   **Lightning Talk: “Improving the Quality of Your Cyber Security Hires via Pre-Interview Challenges” - Dinis Cruz** ([PDF](assets/slides/OWASPLondon20180125_Dinis_Cruz_Improving_the_Quality_of_Security_Hires.pdf "wikilink"))
 
 
 Recruiting Cyber Security/Application Security candidates these days is not an easy task. How do you ensure that the potential candidates are going to make a difference to your organisation, become a part of the productive team and most importantly - have the security knowledge, skills and experience you need? CVs aren’t always a good reflection of a person’s capabilities. They can be exaggerated, they don’t always show a person’s true potential. In this talk Dinis will share his experience of using the open-source Capture-The-Flag style pre-interview challenges to drastically improve the hiring process of cyber security candidates.
 
--   **“Securing the Web with TLS v1.3” - Andy Brodie** ([PDF](Media:OWASPLondon20180125_TLSv1.3_Andy_Brodie.pdf "wikilink"))
+-   **“Securing the Web with TLS v1.3” - Andy Brodie** ([PDF](assets/slides/OWASPLondon20180125_TLSv1.3_Andy_Brodie.pdf "wikilink"))
 
 
 Transport Layer Secure (TLS), a.k.a. Secure Sockets Layer (SSL), is probably the most important security protocol used on the Internet today. This talk will cover the basics of TLS 1.3: the goals of the protocol and how it achieves them, what features have been added, removed and changed as well as talking through some of the (successful) attacks on previous versions that resulted in the new proposed standard. All online banking and payment sites as well as most popular websites and web services use TLS today, and the uptake is increasing as consumers demand more protection against both hackers and state agencies trying to monitor or interfere with communications. The TLS v1.3 specification, managed by the Internet Engineering Task Force (IETF) marks the biggest change in the protocol since 1996.
@@ -997,12 +997,12 @@ This event is kindly sponsored and hosted by Just Eat.
 
 Welcome and a brief update on OWASP Projects & Conferences from the OWASP London Chapter Leader
 
--   **Can DevSecOps Prevent the Impending Software Apocalypse? - Jeff Williams** ([PDF](Media:OWASPLondon20171130_3ways_of_Security_Jeff_Williams.pdf "wikilink"))
+-   **Can DevSecOps Prevent the Impending Software Apocalypse? - Jeff Williams** ([PDF](assets/slides/OWASPLondon20171130_3ways_of_Security_Jeff_Williams.pdf "wikilink"))
 
 
 When Marc Andreessen said, “software is eating the world,” he saw business literally reinvented as software. But as software is built faster, becomes more complex and interconnected, and handles more critical functions and data, it’s clear modern software has outstripped our ability to secure it. DevOps has produced stunning results for software speed and quality, but do they translate for security? In this talk, Jeff will present the “Three Ways of Security” – an interpretation of the DevOps classic, “The Phoenix Project” for security. You’ll learn how to get your security work flowing, how to create continuous security feedback, and how to create a culture of security experimentation and learning. Bring your hard questions – Jeff likes a “town hall” style meeting!
 
--   **Cookie Security - Myths and Misconceptions - David Johansson** ([PDF](Media:OWASPLondon20171130_Cookie_Security_Myths_Misconceptions_David_Johansson.pdf "wikilink"))
+-   **Cookie Security - Myths and Misconceptions - David Johansson** ([PDF](assets/slides/OWASPLondon20171130_Cookie_Security_Myths_Misconceptions_David_Johansson.pdf "wikilink"))
 
 
 Cookies are an integral part of any web application and secure management of cookies is essential to web security. However, during my years as a security consultant I've often encountered various myths and misconceptions regarding cookie security from both developers as well as other security professionals. This talk will dive into the details of cookie security and highlight some of the lesser known facts about well-known cookie attributes.This talk will give you a solid understanding of the pitfalls affecting cookie security, the risks associated with these, and how you can leverage modern security specifications to enhance the protection of cookies in your web application.
@@ -1043,7 +1043,7 @@ This event is kindly sponsored and hosted by The Telegraph Media Group.
 
 #### Talks:
 
--   **OWASP Introduction, Welcome and News - Sam Stepanyan and Sherif Mansour** ([PDF](Media:OWASPLondon20171123_WelcomeTalk.pdf "wikilink"))
+-   **OWASP Introduction, Welcome and News - Sam Stepanyan and Sherif Mansour** ([PDF](assets/slides/OWASPLondon20171123_WelcomeTalk.pdf "wikilink"))
 
 
 Welcome and an Update on OWASP Projects & Conferences from the OWASP London Chapter Leaders.
@@ -1053,7 +1053,7 @@ Welcome and an Update on OWASP Projects & Conferences from the OWASP London Chap
 
 HMRC has recently patched two serious security vulnerabilities in its online tax system that allowed hackers to access and steal sensitive financial information belonging to UK tax payers. This talk will cover details of the vulnerability chain as well as the challenging 57-day journey of trying to get them fixed.
 
--   **“SHA-3 vs the World” - David Wong** ([PDF](Media:OWASPLondon20171123_SHA3_vs_the_world.pdf "wikilink"))
+-   **“SHA-3 vs the World” - David Wong** ([PDF](assets/slides/OWASPLondon20171123_SHA3_vs_the_world.pdf "wikilink"))
 
 
 Since Keccak has been selected as the winner of the SHA-3 competition in 2012, a myriad of different hash functions have been trending. From BLAKE2 to KangarooTwelve we'll cover what hash functions are out there, what is being used, and what you should use. Extending hash functions, we’ll also discover STROBE, a symmetric protocol framework derived from SHA-3
@@ -1114,17 +1114,17 @@ This event is kindly sponsored and hosted by John Lewis Partnership.
 
 #### Talks:
 
--   **OWASP Introduction, Welcome and News - Sam Stepanyan and Sherif Mansour** ([PDF](Media:OWASPLondon20170928_Welcome.pdf "wikilink"))
+-   **OWASP Introduction, Welcome and News - Sam Stepanyan and Sherif Mansour** ([PDF](assets/slides/OWASPLondon20170928_Welcome.pdf "wikilink"))
 
 
 Welcome and an Update on OWASP Projects & Conferences from the OWASP London Chapter Leaders
 
--   **Application Level Vulnerabilities in Containerized Applications - Benjy Portnoy** ([PDF](Media:OWASPLondon20170928_ContainerSecurity-BenjyPortnoy.pdf "wikilink"))
+-   **Application Level Vulnerabilities in Containerized Applications - Benjy Portnoy** ([PDF](assets/slides/OWASPLondon20170928_ContainerSecurity-BenjyPortnoy.pdf "wikilink"))
 
 
 Docker containers are transforming the way applications are developed and deployed. Closely tied to DevOps and Continuous Delivery, containers introduce both risks and opportunities to security management in Web applications. This talk will introduce the basic concepts of containers and micro services, how companies use them today, and how to support this technology while elevating the security posture of your application stacks. Various OWASP tools that leverage containers will also be presented.
 
--   **Hunting Security Bugs In Web Apps - Suleman Malik** ([PDF](Media:OWASP-London20170928-Suleman_Malik-PDF.pdf "wikilink"))
+-   **Hunting Security Bugs In Web Apps - Suleman Malik** ([PDF](assets/slides/OWASP-London20170928-Suleman_Malik-PDF.pdf "wikilink"))
 
 
 There are so many web applications that work in the background but it can be difficult to know about them. In this talk I’m going to show you some bug hunting techniques and how I exploited vulnerabilities in some major websites. I will cover some topics, which includes bypassing Content Security Policy (CSP), API endpoint vulnerability, PostMessage vulnerability, CSRF, XSS, Session/Authentication flaws and exploiting some other OWASP Top 10 vulnerabilities
@@ -1206,9 +1206,9 @@ This event was kindly sponsored and hosted by Just Eat.
 -   **OWASP Introduction, Welcome and News - Sam Stepanyan and Sherif Mansour**
 
 
-Welcome and an Update on OWASP Projects & Conferences from the OWASP London Chapter Leaders ([PDF](Media:OWASPLondon20170727_WelcomeTalk.pdf "wikilink"))
+Welcome and an Update on OWASP Projects & Conferences from the OWASP London Chapter Leaders ([PDF](assets/slides/OWASPLondon20170727_WelcomeTalk.pdf "wikilink"))
 
--   **So you thought you were safe using AngularJS? Think again! - Lewis Ardern** ([PDF](Media:OWASPLondon20170727_AngularJS.pdf "wikilink"))
+-   **So you thought you were safe using AngularJS? Think again! - Lewis Ardern** ([PDF](assets/slides/OWASPLondon20170727_AngularJS.pdf "wikilink"))
 
 
 AngularJS is one of those wonderful frameworks that seems to hide so many of JavaScript’s warts. But while Angular adds much-needed features to the language, it also creates a handful of new security problems for developers to discover and work around. Lewis will walk you through an application that illustrates security issues discovered in real-world applications and will explain the problem with usable solutions.
@@ -1218,7 +1218,7 @@ AngularJS is one of those wonderful frameworks that seems to hide so many of Jav
 
 ~~Dinis~~ Sherif will introduce the numerous outcomes delivered during the OWASP Summit 2017 workshops and brain-storming sessions and will discuss the next steps
 
--   **Introducing the OWASP ModSecurity Core Rule Set (CRS) 3.0 - Christian Folini** ([PDF](Media:OWASPLondon20170330_ModSecurity_CRS_v3_Intro.pdf "wikilink")) ([video](https://youtu.be/oCxW966128A))
+-   **Introducing the OWASP ModSecurity Core Rule Set (CRS) 3.0 - Christian Folini** ([PDF](assets/slides/OWASPLondon20170330_ModSecurity_CRS_v3_Intro.pdf "wikilink")) ([video](https://youtu.be/oCxW966128A))
 
 
 The OWASP CRS is a set of generic attack detection rules for use with ModSecurity (or compatible) Web Application Firewall (WAF) that saw a new major release in November 2016. CRS is the 1st line of defense against web application attacks like those summarized in the OWASP Top Ten and all with a minimum of false alerts. This talk demonstrates the installation of the rule set and introduces the most important groups of rules. It covers key concepts like anomaly scoring and thresholds, paranoia levels, stricter siblings and the sampling mode.
@@ -1270,9 +1270,9 @@ This event is kindly sponsored and hosted by Worldpay
 -   **OWASP Introduction, Welcome and News - Sam Stepanyan and Sherif Mansour**
 
 
-Welcome and an Update on OWASP Projects & Conferences from the OWASP London Chapter Leaders. Additionally Dinis Cruz will talk about OWASP Summit 2017 ([PDF](Media:Owasplondon-20170518-welcome.pdf "wikilink")) ([owaspsummit.org](http://owaspsummit.org/)) ([video](https://www.youtube.com/watch?v=NGkRxVFNqGA))
+Welcome and an Update on OWASP Projects & Conferences from the OWASP London Chapter Leaders. Additionally Dinis Cruz will talk about OWASP Summit 2017 ([PDF](assets/slides/Owasplondon-20170518-welcome.pdf "wikilink")) ([owaspsummit.org](http://owaspsummit.org/)) ([video](https://www.youtube.com/watch?v=NGkRxVFNqGA))
 
--   **Threat Modeling Against Payment Systems - Dr. Grigorios Fragkos** ([PDF](Media:DrGFragkos-ThreatModeling-PaymentSystems-OWASP-2017-May-18.pdf "wikilink")) ([video](https://www.youtube.com/watch?v=QgvaDKe0Q2k))
+-   **Threat Modeling Against Payment Systems - Dr. Grigorios Fragkos** ([PDF](assets/slides/DrGFragkos-ThreatModeling-PaymentSystems-OWASP-2017-May-18.pdf "wikilink")) ([video](https://www.youtube.com/watch?v=QgvaDKe0Q2k))
 
 
 Payment systems are part of our everyday lives, with most of the transactions performed through the use of a Point-of-Interaction (POI) device or a Virtual Terminal. Although payment terminals and virtual terminals make use of strong encryption and a secure communications channel, the Point of Sale (POS) is still a target for cyber-criminals. The malware affecting point-of-sale systems seen in previous years has demonstrated that criminals continually adapt to find ways to target card payment channels and keep the cycle going. This presentation however, attempts to go a step further and asses payment systems from a hypothetical attacker's point of view, by undertaking at threat modeling exercise against payment systems. The purpose of the threat modeling is to provide defenders with a number of scenarios (attack vectors) that it is possible to be used by attackers, while their activity remain unnoticed. One of the most important lessons of this Threat Modeling exercise was the discovery of a potential scenario that could allow cyber-criminals to shift from targeting Card Holder Data (CHD) to targeting the money directly,
@@ -1282,7 +1282,7 @@ Payment systems are part of our everyday lives, with most of the transactions pe
 
 Dinis will update us on the latest OWASP Top 10 2017 Release Candidate, the proposed changes and the controversy surrounding the new A7.
 
--   **Unsafe Deserialization Attacks In Java and A New Approach To Protect The JVM - Apostolos Giannakidis** ([PDF](Media:OWASP-London-2017-May-18-ApostolosGiannakidis-JavaDeserializationTalk.pdf "wikilink")) ([video](https://www.youtube.com/watch?v=I09Chd65Cig))
+-   **Unsafe Deserialization Attacks In Java and A New Approach To Protect The JVM - Apostolos Giannakidis** ([PDF](assets/slides/OWASP-London-2017-May-18-ApostolosGiannakidis-JavaDeserializationTalk.pdf "wikilink")) ([video](https://www.youtube.com/watch?v=I09Chd65Cig))
 
 
 A great number of Java applications utilize native Object Serialization to transfer or persist objects. Recently it has become popular the fact that the deserialization process in Java is flawed and if not used properly it can be easily abused by attackers. This talk provides an introduction and detailed overview of the problem of Java deserialization. You will understand the basic concepts of how Java deserialization exploits (gadget chains) work. Additionally, you will learn what solutions exist to the problem and the advantages and disadvantages of each. Finally, a new approach will be presented that protects the JVM from these attacks using a completely different approach than any other existing solution.
@@ -1334,22 +1334,22 @@ This event is kindly sponsored and hosted by The Telegraph Media Group.
 
 #### Talks:
 
--   **OWASP Introduction, Welcome and News - Sam Stepanyan and Sherif Mansour** ([PDF](Media:OWASPLondon20170330_Welcome.pdf "wikilink"))
+-   **OWASP Introduction, Welcome and News - Sam Stepanyan and Sherif Mansour** ([PDF](assets/slides/OWASPLondon20170330_Welcome.pdf "wikilink"))
 
 
 Welcome and an Update on OWASP Projects & Conferences from the OWASP London Chapter Leaders.
 
--   **Heroes vs Villains: Building an Application Security Program that Scales - Kevin Delaney** ([PDF](Media:KevinDelaney_OWASPLondon_03-30-2017.pdf "wikilink")) (video: <https://www.youtube.com/watch?v=OS-6i1_eBNA>)
+-   **Heroes vs Villains: Building an Application Security Program that Scales - Kevin Delaney** ([PDF](assets/slides/KevinDelaney_OWASPLondon_03-30-2017.pdf "wikilink")) (video: <https://www.youtube.com/watch?v=OS-6i1_eBNA>)
 
 
 Many application security teams scramble to pinpoint vulnerabilities and flaws during the testing and release stages while managing limited security resources, a multitude of compliance regulations, and surprise feature requests. Although security teams try to follow the right application security practices, many applications are shipped with fragmented security. The most common denominator is the reliance on dynamic and static testing tools during the final stages of the lifecycle. In this session, learn about the benefits of building security during the requirements phase or the first stage of the software development lifecycle (SDLC).
 
--   **Lightning Talk: Bypassing CSRF Protections: A Double Defeat of the Double-Submit Cookie - David Johansson** ([PDF](Media:David_Johansson-Double_Defeat_of_Double-Submit_Cookie.pdf "wikilink")) (video: <https://www.youtube.com/watch?v=2uvrGQEy8i4>)
+-   **Lightning Talk: Bypassing CSRF Protections: A Double Defeat of the Double-Submit Cookie - David Johansson** ([PDF](assets/slides/David_Johansson-Double_Defeat_of_Double-Submit_Cookie.pdf "wikilink")) (video: <https://www.youtube.com/watch?v=2uvrGQEy8i4>)
 
 
 Double-Submit Cookie Pattern Protection against cross-site request forgeries (CSRF) is a popular option in stateless applications as it doesn't require the server to store a token value between requests. Instead, the server will verify a token value stored in a cookie against a request parameter. Unfortunately, many popular implementations of this defense pattern can be defeated by attackers and this talk will discuss the misconceptions and pitfalls that may render this protection insufficient. We will look at how the CSRF protection in an AngularJS application using the popular Express.js middleware csurf on the server-side can be defeated. We will also show the options for configuring it securely.
 
--   **PostMessage Security in Chrome Extensions - Arseny Reutov** ([PDF](Media:OWASPLondon_PostMessage_Security_in_Chrome_Extensions.pdf "wikilink")) (video: <https://www.youtube.com/watch?v=vWwobVQH6os>)
+-   **PostMessage Security in Chrome Extensions - Arseny Reutov** ([PDF](assets/slides/OWASPLondon_PostMessage_Security_in_Chrome_Extensions.pdf "wikilink")) (video: <https://www.youtube.com/watch?v=vWwobVQH6os>)
 
 
 PostMessage API is a known source of DOM XSS vulnerabilities on web sites. Browser extensions can use messaging too, and if an extension fails to handle incoming messages securely enough it may lead to a universal XSS. This talk will present an analysis of Chrome extensions that aimed at discovering vulnerabilities caused by insecure postMessage listeners in content scripts that are inserted by browser extensions into web pages. The research will demonstrate the examples of vulnerable Chrome extensions and explain the threats which they present to the end-users and how they can be mitigated.
@@ -1385,17 +1385,17 @@ This event was kindly sponsored and hosted by J.P. Morgan
 
 #### Talks
 
--   **OWASP Introduction and News - Sam Stepanyan and Sherif Mansour** ([PDF](Media:OWASPLondon20170126_Welcome.pdf "wikilink"))
+-   **OWASP Introduction and News - Sam Stepanyan and Sherif Mansour** ([PDF](assets/slides/OWASPLondon20170126_Welcome.pdf "wikilink"))
 
 
 Welcome and an Update on OWASP Projects from the OWASP London Chapter Leaders
 
--   **Identities Exposed: How Design Flaws in Authentication Solutions May Compromise Your Privacy - David Johansson** ([PPTX](Media:OWASP_London_2017-01-26_David_Johansson_Identities_Exposed.pptx "wikilink")) (video: <https://www.youtube.com/watch?v=KmchjwkYAOw>)
+-   **Identities Exposed: How Design Flaws in Authentication Solutions May Compromise Your Privacy - David Johansson** ([PPTX](assets/slides/OWASP_London_2017-01-26_David_Johansson_Identities_Exposed.pptx "wikilink")) (video: <https://www.youtube.com/watch?v=KmchjwkYAOw>)
 
 
 Substantial effort has been put into the design of secure solutions for authenticating users. However, the privacy of end users has rarely been given as much attention in these solutions. This often leads to design flaws that let the identities of end users be exposed to parties they not necessarily intended to disclose it to. This talk will present a set of privacy requirements for protecting end users during authentication and show some examples of solutions where the end user’s privacy can be compromised because one or more of these requirements are not met. For example, we will see how design flaws in TLS client certificate authentication can be abused by attackers to identify users in both passive and active network attacks, and look at how the upcoming TLS 1.3 standard addresses this.
 
--   '''Lightning Talk - Introducing OWASP Summit 2017 - Francois Raynaud, Dinis Cruz ''' ([PDF](Media:OWASPSummit2017.pdf "wikilink"))
+-   '''Lightning Talk - Introducing OWASP Summit 2017 - Francois Raynaud, Dinis Cruz ''' ([PDF](assets/slides/OWASPSummit2017.pdf "wikilink"))
 
 
 The organisers of this big event will introduce the tracks and the workshops being planned
@@ -1446,27 +1446,27 @@ This event is kindly sponsored and hosted by Empiric.
 
 #### Talks
 
--   **OWASP Introduction and News - Sam Stepanyan and Sherif Mansour** ([PDF](Media:OWASPLondon20161124_Welcome.pdf "wikilink"))
+-   **OWASP Introduction and News - Sam Stepanyan and Sherif Mansour** ([PDF](assets/slides/OWASPLondon20161124_Welcome.pdf "wikilink"))
 
 
 Welcome and an Update on OWASP Projects from the OWASP London Chapter Leaders
 
--   **PCI - The View from the Bridge - Jeremy King** ([PPTX](Media:OWASPLondon20161124_PCI_View_From_The_Bridge.pptx "wikilink")) (video: <https://www.youtube.com/watch?v=hapZzIKCP0I>)
+-   **PCI - The View from the Bridge - Jeremy King** ([PPTX](assets/slides/OWASPLondon20161124_PCI_View_From_The_Bridge.pptx "wikilink")) (video: <https://www.youtube.com/watch?v=hapZzIKCP0I>)
 
 
 The International Director of the PCI Security Standards Council will take us on a journey around some wonderful sights of Europe using the images to reflect on and relate to the challenges and successes that we all face in protecting data. In his talk Jeremy will talk about the potential impact of Brexit on security and will discuss the latest changes in PCI DSS related to TLS, Multi-Factor Authentication and Secure Software Development Requirements.
 
--   **Lightning Talk 1 - OWASP ZAP Official Jenkins Plugin walkthrough & Demo - Goran Sarenkapa** ([PDF](Media:OWASPLondon20161124_ZAP_Jenkins_Plugin_Intro.pdf "wikilink"))
+-   **Lightning Talk 1 - OWASP ZAP Official Jenkins Plugin walkthrough & Demo - Goran Sarenkapa** ([PDF](assets/slides/OWASPLondon20161124_ZAP_Jenkins_Plugin_Intro.pdf "wikilink"))
 
 
 Goran will walk us through the steps to configure and use the new Official ZAP Plugin for Jenkins and will demo a test run with generated HTML reports.
 
--   '''Lightning Talk 2 - myBBC Security Council - What It Means To You - Shane Kelly ''' ([PPTX](Media:OWASPLondon20161124_SecurityCouncil.pptx "wikilink"))
+-   '''Lightning Talk 2 - myBBC Security Council - What It Means To You - Shane Kelly ''' ([PPTX](assets/slides/OWASPLondon20161124_SecurityCouncil.pptx "wikilink"))
 
 
 Shane will talk about myBBC Security Council and how it demonstrates an organisational approach towards security that ensures the right decisions are made by the right people, and that developers can raise concerns knowing that they will be seen and escalated. It also frames InfoSec as an enabling force rather than a loophole
 
--   **JSON Hijacking - Gareth Heyes** ([PDF](Media:OWASPLondon20161124_JSON_Hijacking_Gareth_Heyes.pdf "wikilink")) (video: <https://www.youtube.com/watch?v=NlLzI7U5L6s>)
+-   **JSON Hijacking - Gareth Heyes** ([PDF](assets/slides/OWASPLondon20161124_JSON_Hijacking_Gareth_Heyes.pdf "wikilink")) (video: <https://www.youtube.com/watch?v=NlLzI7U5L6s>)
 
 
 JSON hijacking is supposedly dead after the Array constructor and “Object.prototype” setter bugs have been patched or is it? This talk will show how it's still possible to steal JSON data cross domain using various browser bugs. Gareth will take us on an epic journey of bug discovery and if we have time he may even bypass CSP for fun.
@@ -1565,27 +1565,27 @@ The videos from this event are available to watch on OWASP London YouTube channe
 
 #### Talks
 
--   **OWASP Introduction and News - Sam Stepanyan and Sherif Mansour** ([PDF](Media:OWASP20160929_Welcome_Intro.pdf "wikilink"))
+-   **OWASP Introduction and News - Sam Stepanyan and Sherif Mansour** ([PDF](assets/slides/OWASP20160929_Welcome_Intro.pdf "wikilink"))
 
 
 Welcome and an Update on OWASP Projects from the OWASP London Chapter Leaders
 
--   **Lightning Talk 1 - Can Your Organisation Survive a Poli-Cyber Breach ? - Khaled Fattal** ([PDF](Media:OWASP20160929_Survive_Cyber_Attack.pdf "wikilink"))
+-   **Lightning Talk 1 - Can Your Organisation Survive a Poli-Cyber Breach ? - Khaled Fattal** ([PDF](assets/slides/OWASP20160929_Survive_Cyber_Attack.pdf "wikilink"))
 
 
 With the rise of the new breed of cyber-terrorism perpetrated by extremist groups such as ISIS/Daesh, an alarming new dimension has been added to the threat landscape
 
--   **The Thermostat, The Hacker, and The Malware - Ken Munro and Andrew Tierney** ([PDF](Media:OWASP20160929_Thermostat_PTP.pdf "wikilink"))
+-   **The Thermostat, The Hacker, and The Malware - Ken Munro and Andrew Tierney** ([PDF](assets/slides/OWASP20160929_Thermostat_PTP.pdf "wikilink"))
 
 
 Following the PoC of thermostat ransomware Ken Munro and Andrew Tierney performed at DefCon 24, this presentation digs even deeper into IoT devices and their apps. Staying with the thermostat Ken and Andrew will walk through the ransomware attack and then move onto general malware - which has no easy method for detection. Even when firewalled these devices are still vulnerable to local attacks so we’ll show you how you can achieve a compromise. We’ll also take a look at CSRF spraying, IoT gear in public areas, supply chain tampering, and malicious firmware updates.
 
--   **Lightning Talk 2 - Telling The Time - Chris Anley** ([PDF](Media:OWASP20160929_Telling_The_Time.pdf "wikilink"))
+-   **Lightning Talk 2 - Telling The Time - Chris Anley** ([PDF](assets/slides/OWASP20160929_Telling_The_Time.pdf "wikilink"))
 
 
 Fairly regularly on consultancy jobs, you encounter a “random” number that is actually just the time, or a PRNG seeded with the time, or a hash of the time, etc.. If you had to guess the time on a remote server to a tolerance of a microsecond, how many requests would it take?
 
--   **Node.js Security - Still Unsafe At Most Speeds ([PDF](Media:OWASP20160929_NodeJS_Security.pdf "wikilink")). Surrogate Dependencies in Node.JS ([PDF](Media:OWASP20160929_NodeJS_Surrogate_Dependencies.pdf "wikilink")) - Dinis Cruz**
+-   **Node.js Security - Still Unsafe At Most Speeds ([PDF](assets/slides/OWASP20160929_NodeJS_Security.pdf "wikilink")). Surrogate Dependencies in Node.JS ([PDF](assets/slides/OWASP20160929_NodeJS_Surrogate_Dependencies.pdf "wikilink")) - Dinis Cruz**
 
 
 Abstract TBC
@@ -1634,19 +1634,19 @@ Video recordings of talks from this event are now available here: <https://www.y
 -   **OWASP London Welcome and Intro - Sherif Mansour and Sam Stepanyan**
 
 
-Welcome and an Update on OWASP Projects from the OWASP London Chapter Leaders ([PDF](Media:OWASP20160728_London_Welcome_Update.pdf "wikilink"))
+Welcome and an Update on OWASP Projects from the OWASP London Chapter Leaders ([PDF](assets/slides/OWASP20160728_London_Welcome_Update.pdf "wikilink"))
 
--   **CSP STS PKP ETC OMG WTF BBQ... - Scott Helme** ([PDF](Media:OWASP20160728_CSP_STS_PKP_ETC.pdf "wikilink"))
+-   **CSP STS PKP ETC OMG WTF BBQ... - Scott Helme** ([PDF](assets/slides/OWASP20160728_CSP_STS_PKP_ETC.pdf "wikilink"))
 
 
 There are a huge number of technologies available to help us better secure our websites, but it can be difficult to know about all of them. In this talk I'm going to show you some of the headline acts in the HTTP Response Header category and just how easy it can be to quickly and effectively boost security and offer better protection to your visitors.
 
--   *' Achieving Secure Continuous Delivery - Lucian Corlan and Chris Rutter*' ([PDF](Media:OWASP20160428_Achieving_Secure_Continuous_Delivery.pdf "wikilink"))
+-   *' Achieving Secure Continuous Delivery - Lucian Corlan and Chris Rutter*' ([PDF](assets/slides/OWASP20160428_Achieving_Secure_Continuous_Delivery.pdf "wikilink"))
 
 
 There's a lot of discussion around achieving application security automation within the development pipeline. In this talk you will experience an approach to using Threadfix and its “Policies” feature to determine the security exposure of a release and using a tool called Donatello to output the result back into the continuous integration and delivery flows. Additionally, the speakers will be presenting some of their ideas for a second version of Donatello which will be taking a lot more static & dynamic attributes into account in the form of an Application Security Passport.
 
--   *' “Lightning Talk” - Jacks Tool Demo - Lewis Ardern*' ([PDF](Media:OWASP20160728_Jacks.pdf "wikilink"))
+-   *' “Lightning Talk” - Jacks Tool Demo - Lewis Ardern*' ([PDF](assets/slides/OWASP20160728_Jacks.pdf "wikilink"))
 
 
 Become a Source Code Hero With New Code Analysis Tool for Developers, Jacks.
@@ -1691,19 +1691,19 @@ This event is kindly sponsored and hosted by Skype (Microsoft) who have been hos
 
 -   **OWASP London Welcome Intro - Sherif Mansour and Sam Stepanyan**
 
-    Welcome and Chapter Update from the OWASP London Chapter Leaders ([PDF](Media:OWASP20160428_Welcome.pdf "wikilink"))
+    Welcome and Chapter Update from the OWASP London Chapter Leaders ([PDF](assets/slides/OWASP20160428_Welcome.pdf "wikilink"))
 
 **Threat Intelligence (“Lightning” Talk) - Sherif Mansour**
 
-\*:Introduction into Threat Intelligence ([PDF](Media:OWASP20160428_Threat_Intel.pdf "wikilink"))
+\*:Introduction into Threat Intelligence ([PDF](assets/slides/OWASP20160428_Threat_Intel.pdf "wikilink"))
 
--   **Drones and their Flaws - Aatif Khan** ([PDF](Media:OWASP201604_Drones.pdf "wikilink"))
+-   **Drones and their Flaws - Aatif Khan** ([PDF](assets/slides/OWASP201604_Drones.pdf "wikilink"))
 
     Drones or Unmanned Aerial Vehicles (UAVs), have undoubtedly attained a prominent position in contemporary and future defense technologies. It has been increasingly used for Surveillance, Reconnaissance and have been planned to stop crude oil theft, to deliver online shopping products and even pizza. It remains important to understand their security and implication. This talk will explore different kind of drones and their associated vulnerabilities hence giving chance to audience to understand their flaws and work for anti-hacking solutions.
 
 <!-- -->
 
--   **How (NOT) to Code Your Ransomware - Liviu Itoafa** ([PDF](Media:OWASP201604_Ransomware.pdf "wikilink"))
+-   **How (NOT) to Code Your Ransomware - Liviu Itoafa** ([PDF](assets/slides/OWASP201604_Ransomware.pdf "wikilink"))
 
     The presentation will start with a history of ransomware from simple lockers to recent trends. Although currently ransomware follows good secure development practices, this is not always the case. We'll see in what circumstances we can get our files back and how. This will make you think twice before paying the ransom and, for some samples, think twice before clicking that tempting link for 'summer photos'.
 
@@ -1850,7 +1850,7 @@ RSVP is now open at Eventbrite - <http://owasp-london.eventbrite.co.uk/>
 
 -   **OWASP Roundup - Colin Watson**
 
-    Information on some recent project releases, conference recordings and AppSec EU 2015. ([PPT](Media:Owasplondon-20140918.pptx "wikilink"))
+    Information on some recent project releases, conference recordings and AppSec EU 2015. ([PPT](assets/slides/Owasplondon-20140918.pptx "wikilink"))
 
 ### Thursday, May 15th 2014 (Central London)
 
@@ -1880,7 +1880,7 @@ RSVP is now open at Eventbrite - <http://owasp-london.eventbrite.co.uk/>
 
 <!-- -->
 
--   **OWASP WebSpa - Yiannis Pavlosoglou** ([PPTX](Media:OWASP_WebSpa_-_The_Concept_of_Web_Knocking_and_a_Tool_to_Go_With_it.pptx "wikilink"))
+-   **OWASP WebSpa - Yiannis Pavlosoglou** ([PPTX](assets/slides/OWASP_WebSpa_-_The_Concept_of_Web_Knocking_and_a_Tool_to_Go_With_it.pptx "wikilink"))
 
     The OWASP WebSpa project is a tool implementing the novel idea of web knocking. The term web knocking stems from port knocking, If port knocking is defined as “a form of host-to-host communication in which information flows across closed ports” then we define web knocking a form of host-to-host communication in which information flows across erroneous URLs. In this talk we introduce web knocking and WebSpa: A tool for single HTTP/S authorisation requests. Similarly to traditional network port-knocking schemes, WebSpa aims to create a covert channel of communication for Operating System (O/S) commands, over the web application layer. Within this presentation the applicability, as well as the hurdles crossed while developing WebSpa will be discussed. The presentation will conclude with a video demo illustrating how a specially crafted URL will be responsible for allowing access to a previous closed TCP port 22 and other services.
 
@@ -1952,7 +1952,7 @@ For full details, including slides and videos of sessions, go to the main [EUTou
 
 <!-- -->
 
--   **The continuously evolving threat landscape call CISOs to consider new application security measures, how OWASP can help? - Marco Morana** ([PPTX](Media:OWASP-London-CISO-Guidevs1.pptx "wikilink"))
+-   **The continuously evolving threat landscape call CISOs to consider new application security measures, how OWASP can help? - Marco Morana** ([PPTX](assets/slides/OWASP-London-CISO-Guidevs1.pptx "wikilink"))
 
     The aim of this 20 minute talk is how to introduce Chief Information Security Officers (CISO) to the OWASP Application Security Guide. OWASP has developed a guidance to specifically to address the needs of CISOs to help them in prioritizing the risk mitigation of web application vulnerabilities might severely and negatively impact the organization and jeopardizing the business.
 
@@ -1970,11 +1970,11 @@ ISSA-UK and OWASP are partnering for the first time to bring you a joint applica
 
 **Speakers**: Jim Manico and Manish Saindane
 
--   **Top 10 Web Defences - Jim Manico** ([PPTX](Media:Developer_Top_Ten_Core_Controls_v4.2.pptx "wikilink"))
+-   **Top 10 Web Defences - Jim Manico** ([PPTX](assets/slides/Developer_Top_Ten_Core_Controls_v4.2.pptx "wikilink"))
 
     We cannot hack or firewall our way secure. Application programmers need to learn to code in a secure fashion if we have any chance of providing organisations with proper defences in the current threatscape. This talk will discuss the 10 most important security-centric computer programming techniques necessary to build low-risk web based applications.
 
--   **IronWASP - Manish Saindane** ([PPTX](Media:IronWASP.pptx "wikilink"))
+-   **IronWASP - Manish Saindane** ([PPTX](assets/slides/IronWASP.pptx "wikilink"))
 
     IronWASP (Iron Web application Advanced Security testing Platform) is an open source system for web application vulnerability testing. It is designed to be customizable to the extent where users can create their own custom security scanners using it. Though an advanced user with Python/Ruby scripting expertise would be able to make full use of the platform, a lot of the tool's features are simple enough to be used by absolute beginners.
 
@@ -2034,7 +2034,7 @@ Abstract: Cryptography is being widely implemented in software to provide securi
 
 **Location**: Royal Holloway University of London, Room BLT2, Egham Hill, Egham, TW20 0EX
 
--   **Wordpress Security - Steve Lord** ([PDF](Media:Wordpress-security-ext.pdf "wikilink"))
+-   **Wordpress Security - Steve Lord** ([PDF](assets/slides/Wordpress-security-ext.pdf "wikilink"))
 
     Wordpress is one if the most popular blogging systems in the world but is routinely used to shoehorn complex sites into a blog shaped box, often because of it's flexibility and ease of use. In this talk, Mandalorian's Steve Lord discusses common Wordpress security snafus and how to avoid them.
 
@@ -2042,7 +2042,7 @@ Abstract: Cryptography is being widely implemented in software to provide securi
 
 **Location**: Charterhouse Bar, 38 Charterhouse Street, Smithfield, London EC1M 6JH
 
--   **Wordpress Security - Steve Lord** ([PDF](Media:Wordpress-security-ext.pdf "wikilink"))
+-   **Wordpress Security - Steve Lord** ([PDF](assets/slides/Wordpress-security-ext.pdf "wikilink"))
 
     Wordpress is one if the most popular blogging systems in the world but is routinely used to shoehorn complex sites into a blog shaped box, often because of it's flexibility and ease of use. In this talk, Mandalorian's Steve Lord discusses common Wordpress security snafus and how to avoid them.
 
@@ -2082,4 +2082,3 @@ The London and [Scotland](Scotland "wikilink") Chapters joint response to the Ce
 title: London
 permalink: /London/
 ---
-
