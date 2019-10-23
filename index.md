@@ -5,6 +5,8 @@ title: OWASP London
 site_side: true
 tags: london
 level: 3
+region: Europe
+
 ---
 OWASP London
 -------------
