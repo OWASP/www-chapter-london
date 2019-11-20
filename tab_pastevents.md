@@ -2,8 +2,8 @@
 title: PastEvents
 displaytext: Past Events
 layout: null
-order: 2
 tab: true
+order: 2
 tags: london
 ---
 
