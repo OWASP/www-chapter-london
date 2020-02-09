@@ -23,23 +23,23 @@ The following are the list of OWASP Corporate Members who have generously aligne
 <tr>
 <td>
 
-<img src="assets/images/VeraCode_logo.png" alt=""/>
+<a href="https://www.veracode.com"><img src="assets/images/VeraCode_logo.png" alt="Veracode"/></a>
 
 </td>
 <td>
 
-<img src="assets/images/ThoughtWorks-logo.png" alt=""/>
+<a href="https://www.thoughtworks.com"><img src="assets/images/ThoughtWorks-logo.png" alt="ThougthWorks"/></a>
 
 </td>
 <td>
-<img src="assets/images/IEDigital-logo.png" alt=""/>
+  <a href="https://www.iedigital.com"><img src="assets/images/IEDigital-logo.png" alt="IEDigital"/></a>
 
 
 </td>
 </tr>
 <tr>
 <td>
-<img src="assets/images/NetSparker_Logo_New.jpg" alt=""/>
+  <a href="https://www.netsparkers.com"><img src="assets/images/NetSparker_Logo_New.jpg" alt="NetSparker_Logo"/></a>
 
 </td>
 <td>
@@ -61,25 +61,33 @@ The following are the list of OWASP Corporate Members who have generously aligne
 
 </td>
 <td>
-<img src="assets/images/ImmuniWebLogo.jpg" alt="ImmuniWebLogo.jpg"/>
-
+<a href="https://www.immuniweb.com"><img src="assets/images/ImmuniWebLogo.jpg" alt="ImmuniWebLogo.jpg"/></a>
 </td>
 </tr>
+
 <tr>
 <td>
-<img src="assets/images/OxfordWebAppsLogo2.png" alt="OxfordWebAppsLogo2.png"/>
-
+<a href="https://www.oxfordwebapps.co.uk"><img src="assets/images/OxfordWebAppsLogo2.png" alt="OxfordWebAppsLogo2.png"/></a>
 </td>
 <td>
-<img src="assets/images/FacebookLogoBlue.png " alt="FacebookLogoBlue.png "/>
-
+<a href="https://www.facebook.com"><img src="assets/images/FacebookLogoBlue.png" alt="FacebookLogoBlue.png"/></a>
 </td>
 <td>
-<img src="assets/images/AvataoLogoBlue.png" alt="AvataoLogoBlue.png"/>
-
-</td>
+<a href="https://www.avatao.com"><img src="assets/images/AvataoLogoBlue.png" alt="AvataoLogoBlue.png"/></a>
+</td>  
 </tr>
+
 <tr>
+  <td>
+   <a href="https://www.apriorit.com"><img src="assets/images/AprioritLogo.png" alt="AprioritLogo"/></a>
+  </td>
+  <td>
+    <a href="https://www.occamsec.com"><img src="assets/images/OccamSecLogo.jpg" alt="OccamSecLogo"/></a>
+  </td>
+   <td>
+      &nbsp;
+    </td>
+
 </tr>
 </table>
 
@@ -100,63 +108,62 @@ The following is the list of organisations who have generously provided us with 
 
 </td>
 <td>
-<img src="assets/images/ThoughtWorks-logo.png" alt=""/>
+<img src="assets/images/ThoughtWorks-logo.png" alt="ThoughtWorks"/>
 
 </td>
 </tr>
 <tr>
 <td>
-<img src="assets/images/Empiric_Logo.jpg" alt=""/>
+<img src="assets/images/Empiric_Logo.jpg" alt="Empiric_Logo"/>
 
 </td>
 <td>
-<img src="assets/images/JPMorgan_Logo.jpg" alt=""/>
+<img src="assets/images/JPMorgan_Logo.jpg" alt="JPMorgan_Logo"/>
 
 </td>
 <td>
-<img src="assets/images/AmazonUKLogo.jpg" alt=""/>
-
-</td>
-</tr>
-<tr>
-<td>
-<img src="assets/images/Telegraph_Logo.png" alt=""/>
-
-</td>
-<td>
-<img src="assets/images/Worldpay_Logo.png" alt=""/>
-
-</td>
-<td>
-
-<img src="assets/images/AzureAdvocatesLogo.png" alt=""/>
+<img src="assets/images/AmazonUKLogo.jpg" alt="AmazonUKLogo"/>
 
 </td>
 </tr>
 <tr>
 <td>
-<img src="assets/images/JustEat_Logo.png " alt=""/>
+<img src="assets/images/Telegraph_Logo.png" alt="Telegraph_Logo"/>
 
 </td>
 <td>
-<img src="assets/images/JohnLewisLogo.jpg" alt=""/>
+<img src="assets/images/Worldpay_Logo.png" alt="Worldpay_Logo"/>
 
 </td>
 <td>
+
+<img src="assets/images/AzureAdvocatesLogo.png" alt="AzureAdvocatesLogo"/>
+
 </td>
 </tr>
 <tr>
 <td>
-<img src="assets/images/GoodmanMassonLogo.jpg" alt=""/>
+<img src="assets/images/JustEat_Logo.png" alt="JustEat_Logo"/>
 
 </td>
 <td>
-<img src="assets/images/CapitalOneLogo.png" alt=""/>
+<img src="assets/images/JohnLewisLogo.jpg" alt="JohnLewisLogo"/>
 
 </td>
 <td>
-<img src="assets/images/EYLogo.png" alt=""/>
+  <img src="assets/images/AonLogo.png" alt="Aon"/>
+</td>
+</tr>
 
+<tr>
+<td>
+<img src="assets/images/GoodmanMassonLogo.jpg" alt="GoodmanMassonLogo"/>
+</td>
+<td>
+<img src="assets/images/CapitalOneLogo.png" alt="CapitalOneLogo"/>
+</td>
+<td>
+<img src="assets/images/EYLogo.png" alt="EY"/>
 </td>
 </tr>
 </table>
