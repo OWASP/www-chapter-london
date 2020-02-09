@@ -14,7 +14,7 @@ tags: london
 
 #### Thursday, 24th October 2019 (Central London)
 
-Video recordings of talks from this event: https://www.youtube.com/playlist?list=PLmfxTKOjvC_cgoCVYWIuaHI0JJQ8vmvWo
+Video recordings of talks from this event:  https://www.youtube.com/playlist?list=PLmfxTKOjvC_cgoCVYWIuaHI0JJQ8vmvWo
 
 
 Location: Aon, The Leadenhall Building, 122 Leadenhall Street, London, EC3V 4AN
@@ -41,9 +41,9 @@ The way to create a modern and empowering security organisation, that both prote
 
 Please note that the following talk will not be delivered due to illness - we wish Chrissy Morgan a speedy recovery
 
-~**"The Good, The Bad and The Ugly of Responsible Disclosure" - Chrissy Morgan**~
+<s>**"The Good, The Bad and The Ugly of Responsible Disclosure" - Chrissy Morgan**</s>
 
-~So what has a JQuery bug that affected thousands of websites with one of the highest starred GitHub repos with 7,800 forks, a Domain Name Registrar vulnerability which allowed for full access to domain owner details (post GDPR) and data protection flaws within Microsoft's Office365 all have in common? ... Answer: Responsible Disclosure. This talk will feature disclosure on each of the bugs and others, the circumstances around these when reporting, to highlight the problems security researchers face today when trying to do the right thing and to raise awareness of the security flaws so we are better protected.~
+<s>So what has a JQuery bug that affected thousands of websites with one of the highest starred GitHub repos with 7,800 forks, a Domain Name Registrar vulnerability which allowed for full access to domain owner details (post GDPR) and data protection flaws within Microsoft's Office365 all have in common? ... Answer: Responsible Disclosure. This talk will feature disclosure on each of the bugs and others, the circumstances around these when reporting, to highlight the problems security researchers face today when trying to do the right thing and to raise awareness of the security flaws so we are better protected.</s>
 
 #### SPEAKERS
 
@@ -56,9 +56,9 @@ Dylan Wheeler is an independent security researcher, recently he and his team at
 Sarah White is a Cyber Security student at the Royal Holloway University of London and a malware analyst working at Emsisoft, a fully remote antivirus company.
 
 
-~**Chrissy Morgan:(@5w0rdFish)**~ - cancelled due to illness
+<s>**Chrissy Morgan:(@5w0rdFish)**</s> - cancelled due to illness
 
-~Chrissy leads the IT Security Operations for a Close Protection company and in her spare time Chrissy has carried out research in the areas of web application security, Steganography, RFID, Physical Cyber Systems Security and is actively involved within the information security community across a wealth of subjects. She also runs The Co-Lab in London, which is a hardware hacking security research workshop. As a recent Napier Masters Graduate, she has accomplished the following successes so far: Winner of Cyber Security Challenge UK (University Challenge - Team Edinburgh Napier), CTF Finalist for the Pragyan CTF (Team Edinburgh Napier) , A BlackHat Challenge Coin winner for OSINT from Social Engineer.org and Black Hat Scholarship, Steelcon Award, WISP Sponsorship, was the BSides London Rookie Track Speaker Winner for 2018 and most recently won the ISC(2) Up and coming Security Professional 2019.~
+<s>Chrissy leads the IT Security Operations for a Close Protection company and in her spare time Chrissy has carried out research in the areas of web application security, Steganography, RFID, Physical Cyber Systems Security and is actively involved within the information security community across a wealth of subjects. She also runs The Co-Lab in London, which is a hardware hacking security research workshop. As a recent Napier Masters Graduate, she has accomplished the following successes so far: Winner of Cyber Security Challenge UK (University Challenge - Team Edinburgh Napier), CTF Finalist for the Pragyan CTF (Team Edinburgh Napier) , A BlackHat Challenge Coin winner for OSINT from Social Engineer.org and Black Hat Scholarship, Steelcon Award, WISP Sponsorship, was the BSides London Rookie Track Speaker Winner for 2018 and most recently won the ISC(2) Up and coming Security Professional 2019.</s>
 
 **Dinis Cruz (@DinisCruz)**
 
