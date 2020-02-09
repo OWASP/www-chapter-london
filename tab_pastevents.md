@@ -10,6 +10,65 @@ tags: london
 ---
 
 ## Past Events
+
+<hr>
+
+#### Thursday, 24th October 2019 (Central London)
+
+Video recordings of talks from this event: https://www.youtube.com/playlist?list=PLmfxTKOjvC_cgoCVYWIuaHI0JJQ8vmvWo
+
+Location: Aon, The Leadenhall Building, 122 Leadenhall Street, London, EC3V 4AN
+
+Nearest Tubes: Bank (6 minute walk), Liverpool Street (9-minute walk), Aldgate(7-minute walk)
+
+Time: Doors Open at 6pm for registration, pizza, drinks and networking, the talks start at 6:30pm (we start on time).
+
+#### TALKS
+
+**OWASP Introduction, Welcome and News - Sam Stepanyan, Sherif Mansour & Andra Lezza**
+
+Welcome and a brief update on OWASP Projects & Events from the OWASP London Chapter Leaders.
+
+**"!Responsible Disclosure" - Dylan Wheeler and Sarah White**
+
+This talk discusses the hostile environments involved in reporting vulnerabilities and the lack of standardisation and laws protecting security researchers reporting vulnerabilities to vendors and organisations. Dylan and Sarah will present some real-world examples and outcomes and discuss common problems, such as what to do when there is no bug bounty program in place. The world of vulnerability disclosure can be treacherous, but if handled correctly it can be beneficial to all parties involved.
+
+
+**"Making Fact-Based Security & Risk Decisions (using OWASP Security bot & Data Science)" - Dinis Cruz**
+
+The way to create a modern and empowering security organisation, that both protects and empowers/enables the business, is to view the entire company and security ecosystem as a graph (where nodes are the multiple players and edges are the hyperlinked connections between them). This presentation will show real-world examples on how to use tools such as Jira, Slack, Jupyter notebooks, Lambda functions , Wardley Maps and OSBost to map and automate vulnerability and incident management workflows and ultimately empower the decision-makers by providing fact-based risk matrices and dashboards. This is the full version of the lightning talk presented at September 19th OWASP London meetup
+
+
+Please note that the following talk will not be delivered due to illness - we wish Chrissy Morgan a speedy recovery
+
+~** "The Good, The Bad and The Ugly of Responsible Disclosure" - Chrissy Morgan**
+
+So what has a JQuery bug that affected thousands of websites with one of the highest starred GitHub repos with 7,800 forks, a Domain Name Registrar vulnerability which allowed for full access to domain owner details (post GDPR) and data protection flaws within Microsoft's Office365 all have in common? ... Answer: Responsible Disclosure. This talk will feature disclosure on each of the bugs and others, the circumstances around these when reporting, to highlight the problems security researchers face today when trying to do the right thing and to raise awareness of the security flaws so we are better protected.~
+
+#### SPEAKERS
+
+**Dylan Wheeler (@degenerateDaE)**
+
+Dylan Wheeler is an independent security researcher, recently he and his team at Day After Exploit discovered many critical vulnerabilities in a major casino vendor, Atrient, leading to complete compromise of systems. This discovery also led to Wheeler being assaulted by Atrient's CFO at the International Casino Expo (ICE) at London's Excel Expo Centre. His work has been featured in numerous magazines and popular news website. Back in 2011 he was a former member of the Xbox Underground international hacking group. Since then he began a career as a white-hat security researcher.
+
+**Sarah White (@PolarToffee)**
+
+Sarah White is a Cyber Security student at the Royal Holloway University of London and a malware analyst working at Emsisoft, a fully remote antivirus company.
+
+
+~**Chrissy Morgan:(@5w0rdFish)**~ - cancelled due to illness
+
+~Chrissy leads the IT Security Operations for a Close Protection company and in her spare time Chrissy has carried out research in the areas of web application security, Steganography, RFID, Physical Cyber Systems Security and is actively involved within the information security community across a wealth of subjects. She also runs The Co-Lab in London, which is a hardware hacking security research workshop. As a recent Napier Masters Graduate, she has accomplished the following successes so far: Winner of Cyber Security Challenge UK (University Challenge - Team Edinburgh Napier), CTF Finalist for the Pragyan CTF (Team Edinburgh Napier) , A BlackHat Challenge Coin winner for OSINT from Social Engineer.org and Black Hat Scholarship, Steelcon Award, WISP Sponsorship, was the BSides London Rookie Track Speaker Winner for 2018 and most recently won the ISC(2) Up and coming Security Professional 2019.~
+
+**Dinis Cruz (@DinisCruz)**
+
+Dinis Cruz is a CISO at Revolut and a renowned application security expert who is passionate about creating Application Security teams and providing Application Security assurance across the Software Development Lifecycle (from development, to operations, to business processes, to board-level decisions).
+
+#### TICKETS
+
+This event is free to attend for both members and non-members of OWASP and is open to anyone interested in application security and cyber security. Please note that spaces are limited - you must register and get a ticket to be admitted to the event by the building security - your name will be checked against the guest list: Get tickets on EventBrite: https://www.microsoftevents.com/profile/form/index.cfm?PKformID=0x7878484abcd
+
+--------
 ### Thursday, 19th September 2019 (Central London)
 
 Video recordings of talks presented at this event now available on YouTube: https://www.youtube.com/playlist?list=PLmfxTKOjvC_dbbuGb_s0ogfAld5spBiXn
@@ -50,16 +109,13 @@ The shift towards an API landscape indicates a significant evolution in the way 
 
 **Chris Kubecka**
 
-
 Christina Kubecka, Security Researcher and CEO of HypaSec. Formerly, setting up several security groups for Saudi Aramco’s affiliates after the Shamoon 1 attacks. Implementing and leading the Security Operations Centre, Network Operation Centre, Joint International Intelligence Group and EU/UK Privacy Group for Aramco Overseas Company. With &gt;20 years of professional experience in the field, her career includes the US Air Force, Space Command, private and public sector. GIAC GPEN certification training & teaches penetration testing on IT, IoT & ICS. Chris has been featured in the media with Viceland News’ Cyber Warfare series, Hacking the Infrastructure, CNN, Fox News, and other news outlets. Chris is currently the Executive Secretary on the board of Geeks Without Bounds, and advises and lectures as an expert for several markets and governments.
 
 **Philippe De Ryck**
 
-
 Philippe De Ryck is the founder of Pragmatic Web Security, where he travels the world to train developers on web security and security engineering. He holds a Ph.D. in web security from KU Leuven. Google recognizes Philippe as a Google Developer Expert for his knowledge of web security and security in Angular applications.
 
 **Dinis Cruz**
-
 
 Dinis Cruz is a renowned application security expert who is passionate about creating Application Security teams and providing Application Security assurance across the Software Development Lifecycle (from development, to operations, to business processes, to board-level decisions). His focus is in the alignment of the business’s risk appetite with the reality created by internally developed applications. He is also an active Developer and Application Security Engineer. A key drive of his is to 'Automate Application Security Knowledge and Workflows'. Dinis is also one of the authors of OWASP SAMM - Software Assurance Maturity Model.
 
@@ -76,9 +132,8 @@ Register to attend this event at Eventbrite:
 
 We hope you enjoy our events, we care deeply about inclusivity and diversity so that OWASP is a comfortable and welcoming community for everyone. Please reach out to one of our chapter leaders if you have any feedback or would like to speak to us, we take these matters very seriously. You can find out more about our policies here: <https://www.owasp.org/index.php/Governance/Conference_Policies>
 
-<hr>
 
-### Thursday, 18h July 2019 (Canary Wharf)
+#### Thursday, 18h July 2019 (Canary Wharf)
 
 **Location:** Revolut , The Columbus Building, 7 Westferry Circus, Canary Wharf, London, E14 4HD
 
@@ -145,7 +200,7 @@ Details and Registration:
 
 Video Recording of this event can be viewed on YouTube: <https://www.youtube.com/playlist?list=PLmfxTKOjvC_eaghkijhbDD4cygolu8bRf>
 
-'''Location: '''Facebook, Facebook London, 1 Rathbone Square, London, W1T 1FB
+**Location:** Facebook, Facebook London, 1 Rathbone Square, London, W1T 1FB
 
 **Nearest Tubes**: Tottenham Court Road (3-minute walk), Oxford Circus (8-minute walk)
 
