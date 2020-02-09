@@ -173,4 +173,4 @@ Call For Speakers is open - if you would like to present a talk on Application S
 Next Meeting/Event(s)
 ---------------------
 
-Please follow OWASP London Chapter on Twiter/Facebook/MeetUp/EventBrite/LinkedIN to be notified when the details of the next event are going to be avalable  
+Please follow OWASP London Chapter on Twiter/Facebook/MeetUp/EventBrite/LinkedIN and sign up to our mailing list to be notified when the details of the next event are going to be published. 
