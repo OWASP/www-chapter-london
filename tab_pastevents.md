@@ -14,7 +14,9 @@ tags: london
 
 #### Thursday, 24th October 2019 (Central London)
 
-Video recordings of talks from this event:  https://www.youtube.com/playlist?list=PLmfxTKOjvC_cgoCVYWIuaHI0JJQ8vmvWo
+
+Video recordings of talks from this event: 
+https://www.youtube.com/playlist?list=PLmfxTKOjvC_cgoCVYWIuaHI0JJQ8vmvWo
 
 
 Location: Aon, The Leadenhall Building, 122 Leadenhall Street, London, EC3V 4AN
