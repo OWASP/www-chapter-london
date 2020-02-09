@@ -181,6 +181,6 @@ Next Meeting/Event(s)
 ---------------------
 OWASP London Chapter meetings are posted on our MeetUp Page:
 
-Please visit http://www.meetup.com/OWASP-London for all chapter event information.
+Please visit <a href="http://www.meetup.com/OWASP-London">http://www.meetup.com/OWASP-London</a> for all chapter event information.
 
 Please follow OWASP London Chapter on <a href="https://twitter.com/OWASPLondon">Twiter</a>/<a href="https://facebook.com/OWASPLondon">Facebook</a>/<a href="https://meetup.com/OWASP-London">MeetUp</a>/<a href="https://owasplondon.eventbrite.com">EventBrite</a>/<a href="https://www.linkedin.com/company/owasplondon">LinkedIN</a> and <a href="https://groups.google.com/a/owasp.org/forum/#!forum/london-chapter/join">sign up to our mailing list</a> to be notified when the details of the next event are be published. 
