@@ -10,12 +10,12 @@ tags: london
 ---
 
 ## Past Events
-
 <hr>
 
 #### Thursday, 24th October 2019 (Central London)
 
 Video recordings of talks from this event: https://www.youtube.com/playlist?list=PLmfxTKOjvC_cgoCVYWIuaHI0JJQ8vmvWo
+
 
 Location: Aon, The Leadenhall Building, 122 Leadenhall Street, London, EC3V 4AN
 
@@ -41,9 +41,9 @@ The way to create a modern and empowering security organisation, that both prote
 
 Please note that the following talk will not be delivered due to illness - we wish Chrissy Morgan a speedy recovery
 
-~** "The Good, The Bad and The Ugly of Responsible Disclosure" - Chrissy Morgan**
+~**"The Good, The Bad and The Ugly of Responsible Disclosure" - Chrissy Morgan**~
 
-So what has a JQuery bug that affected thousands of websites with one of the highest starred GitHub repos with 7,800 forks, a Domain Name Registrar vulnerability which allowed for full access to domain owner details (post GDPR) and data protection flaws within Microsoft's Office365 all have in common? ... Answer: Responsible Disclosure. This talk will feature disclosure on each of the bugs and others, the circumstances around these when reporting, to highlight the problems security researchers face today when trying to do the right thing and to raise awareness of the security flaws so we are better protected.~
+~So what has a JQuery bug that affected thousands of websites with one of the highest starred GitHub repos with 7,800 forks, a Domain Name Registrar vulnerability which allowed for full access to domain owner details (post GDPR) and data protection flaws within Microsoft's Office365 all have in common? ... Answer: Responsible Disclosure. This talk will feature disclosure on each of the bugs and others, the circumstances around these when reporting, to highlight the problems security researchers face today when trying to do the right thing and to raise awareness of the security flaws so we are better protected.~
 
 #### SPEAKERS
 
