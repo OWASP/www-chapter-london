@@ -7,6 +7,9 @@ tags: london
 level: 3
 region: Europe
 currency: gbp
+meetup-group: OWASP-London
+country: United Kingdom
+postal-code: 
 
 ---
 <!-- rebuild -->
