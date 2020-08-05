@@ -70,7 +70,7 @@ The following are the list of OWASP Corporate Members who have generously aligne
 
 <tr>
 <td>
-<a href="https://www.oxfordwebapps.co.uk"><img src="assets/images/OxfordWebAppsLogo2.png" alt="OxfordWebAppsLogo2.png"/></a>
+<a href="https://www.owadigital.co.uk"><img height="48" src="assets/images/owa_logo_2020.png" alt="OxfordWebApps"/></a>
 </td>
 <td>
 <a href="https://www.facebook.com"><img src="assets/images/FacebookLogoBlue.png" alt="FacebookLogoBlue.png"/></a>
