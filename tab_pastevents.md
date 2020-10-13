@@ -10,7 +10,32 @@ tags: london
 ---
 
 ## Past Events
-<hr>
+
+#### Wednesday, 7th October 2020 (online)
+
+Video recording of this event is available on YouTube: 
+
+https://www.youtube.com/watch?v=Mp8RVCDYY38
+
+#### TALK
+**The Cloud Migration Playbook - Part 1: A Simple Primer To Complexity" - Jason Sewell**
+
+In this talk, we will go over an introductory overview on the common areas of AWS an organization should start to focus on as they prepare to migrate to the cloud, including both offensive techniques and defensive mitigation.
+
+Speaker Bio - Jason Sewell
+Jason has over 15 years of experience as a web application and systems developer, in addition to over ten years in DevOps and systems architecture related roles. Jason began his journey into information security through necessity as he built skills and knowledge through his roles in leading internal initiatives for securing application and cloud infrastructure. After years of blue team and developer/devops roles, his interests centre around offensive security and wanting to help organizations actively find problems rather than just follow best practices and hope for the best.
+
+**Pentester Panel - moderated by Andra Lezza, Panelists:**
+* Cayce Mahon
+Has over nine years of experience in Information Security. Originally graduating with an AFA in fine art , she took a unique path of education in regards to her transition into information security. Through persistence and self-study, she was able to obtain a Security+ and OSCP certification on her own. While at OccamSec, she has led and has been a part of a variety of offensive engagements in the realms of cyber and physical security (security/penetration testing of applications, network/physical infrastructure and systems) as well as risk assessment (architecture/policy review, vulnerability assessment, and employee interviews). Finding crucial fault points in an organization’s infrastructure while also adapting to the ever changing demands of the clients she works with.
+
+* Ivano Bianco
+Italian, with a fake Russian accent. Started using computers at the tender age of 11, by the age of 14 he switched from the BASIC language to Assembly and started to circumvent copy protections for fun. Spent the next 20 years working in IT Operations, keeping systems secure and automating deployments before job titles like "IT Security Engineer" and "DevOps Engineer" were a thing.
+Had the opportunity to cover technical hands-on roles for a multitude of SME and multinational companies such as: - Société Générale - H3G - Ericsson - Global Payments – Puppet.
+Nowadays he prefers to focus on penetration testing, web application testing (because breaking things is always fun), threat hunting and security awareness training. He still likes to figure out why a server is down, but will not fix your computer.
+
+* Nicholas Donarski
+Has been a pioneer in the Information Security field for over 20 years. During this time, he’s worked with a diverse client list which includes multinational and global organizations, Federal, State and Local government, and enterprises of all sizes. He is recognized in the international community as a senior authority on PenTesting strategy, operations, tools and training. Over the years, he’s continued to expand his experience in security to include network security, mobile, web, and application security, compliance, high threat physical security and RedTeam Operations. Recently, he’s focused on the development of security architecture and development around machine learning and Artificial Narrow Intelligence (ANI).
 
 #### Thursday, 24th October 2019 (Central London)
 
