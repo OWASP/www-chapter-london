@@ -18,7 +18,7 @@ Video recording of this event is available on YouTube:
 https://www.youtube.com/watch?v=Mp8RVCDYY38
 
 #### TALK
-**The Cloud Migration Playbook - Part 1: A Simple Primer To Complexity" - Jason Sewell**
+**The Cloud Migration Playbook - Part 1: A Simple Primer To Complexity" - Jason Sewell** ([PDF](assets/slides/OWASPLondonSuffolk_Jason_Sewell-The_Cloud_Migration_Playbook_Part1.pdf "wikilink"))
 
 In this talk, we will go over an introductory overview on the common areas of AWS an organization should start to focus on as they prepare to migrate to the cloud, including both offensive techniques and defensive mitigation.
 
