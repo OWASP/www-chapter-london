@@ -1,10 +1,9 @@
 ### London Information
 * [Become a Member](https://www.owasp.org/index.php/Membership)
 * [Join Our Mailing List](https://groups.google.com/a/owasp.org/forum/#!forum/london-chapter)
-* [Local Chapter Support](https://www.owasp.org/index.php/Local_Chapter_Supporter)
-* [Chapter Leader Handbook](https://www.owasp.org/index.php/Chapter_Leader_Handbook)
-* [Speaker Agreement](https://www.owasp.org/index.php/Speaker_Agreement)
-* [Code of Conduct](https://www.owasp.org/index.php/Governance/Conference_Policies)
+* [Local Chapter Support](https://owasp.org/donate)
+* [Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement)
+* [Code of Conduct](https://owasp.org/www-policy/operational/conferences-events.html)
 
 ### Social Links
 * [Facebook](https://www.facebook.com/OWASPLondon)
@@ -19,6 +18,6 @@
 * [Slides Repo](https://github.com/OWASP/www-chapter-london/tree/master/assets/slides)
 * [Legacy Website](https://wiki.owasp.org/index.php/London)
 
-### Change Log
-* [Changes](https://github.com/OWASP/www-chapter-london/commits/master)
+### Twitter Feed
 
+<a class="twitter-timeline" data-width="100%" data-height="600" data-theme="light" href="https://twitter.com/OWASPLondon?ref_src=twsrc%5Etfw">Tweets by OWASP London</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
