@@ -10,6 +10,95 @@ tags: london
 ---
 
 ## Past Events
+#### Thursday, 10th December 2020 (online)
+
+Video Recordings of talks from this event can be found here: https://www.youtube.com/playlist?list=PLmfxTKOjvC_esmFlDmu7pmAMaL-nLxa6z
+
+Event Agenda:
+
+18:30 Introduction, OWASP News & Updates - Sam Stepanyan, Sherif Mansour & Andra Lezza
+
+18:45 Talk 1 : "OpenSource Intelligence (OSINT) - Getting Started" - Siobhan Kelleher
+
+19:30 Q & A
+
+19:45 Talk 2 : "Detect complex code patterns using semantic grep" - Grayson Hardaway
+
+20:30 Q & A
+
+20:45 Closing remarks
+
+Talk abstracts:
+
+**"OpenSource Intelligence (OSINT) - Getting Started":**
+As security professionals we use OpenSource Intelligence (OSINT) in one way or another almost every day of our lives. This talk will focus on
+using OSINT to find information about people. This can be a useful skill
+when trying to track a malicious user from email address to home
+address. It is also a very important topic to discuss in user awareness
+training to help prevent social engineering attacks like spear phishing.
+Additionally, there are opportunities where you can use your analytical
+skills to give back leveraging OSINT.
+
+**"Detect complex code patterns using semantic grep" :**
+Semgrep is a free open-source program analysis toolkit that finds bugs using custom analysis we’ve written and OSS code checks. Semgrep is ideal for security researchers, product security engineers, and developers who want to find complex code patterns without extensive knowledge of ASTs or advanced program analysis concepts.
+
+SPEAKERS:
+
+**Siobhan Kelleher**
+Siobhan Kelleher is a Senior Security Analyst at in the
+education sector. She has been in IT for over 8 years and worked in both
+government and corporate environments before joining higher ed. Prior to her career in Information Security she worked in Business to Business
+sales where OSINT and Social Engineering skills were vital to creating
+sales leads and closing deals. She carried this knowledge with her into
+Information Security and it helps her better educate end users on their
+vulnerability to social engineering attacks. It also comes in handy when
+building out her holiday card list.
+
+**Grayson Hardaway**
+Grayson Hardaway is a security researcher at r2c, a startup working on static analysis tools purpose-built for the modern workflow. At r2c, Grayson authors static analysis tailored for finding security vulnerabilities in open source code. Previously, Grayson worked for the US Department of Defense fuzzing and exploiting obscure protocols. When not submitting patches, Grayson is hefting a heavy pack uphill, crafting guitar solos, or learning something new: currently woodworking.
+
+
+https://www.meetup.com/OWASP-London/events/274901611/
+
+
+#### Tuesday, October 27, 2020
+### OWASP London / OWASP UK Secure Coding Tournament (CTF)
+ARE YOU THE SECUREST OF THEM ALL?
+
+Improve your secure coding skills and compete against the other OWASP chapters by joining the UK Wide OWASP Secure Coding Tournament!
+
+The OWASP team will be kicking off with an opening ceremony at 6pm on Tuesday 27th October 2020. At the end of the tournament, there will be a closing ceremony at 6pm on Tuesday 3rd November.
+
+The tournament allows you to compete against the other participants in a series of vulnerable code challenges that ask you to identify a problem, locate insecure code, and fix a vulnerability. All challenges are based on the OWASP Top 10, and players can choose to compete in a range of software languages including Java EE, Java Spring, C# MVC, C# WebForms, Go, Ruby on Rails, Python Django & Flask, Scala Play, Node.JS, React, and both iOS and Android development languages.
+
+Throughout the tournament, players earn points and watch as they climb to the top of the leaderboard. Individual winners (top three) will win awesome Secure Code Warrior hoodies, and 4th-10th place will all win a t-shirt!
+
+The tournament is run virtually throughout the whole week so you can join through your laptop from the most convenient location and time. We normally recommend an hour or two to complete all of the challenges.
+
+How to Join the Tournament
+
+- Simply complete the form and we will send information with the next steps and your training token to join:
+
+https://discover.securecodewarrior.com/OWASPUKtnmRegistrationLON.html
+
+^Please register using the above URL NOW - once you have registered and create log in, you will have access to the platform and will be able to PRACTICE.
+
+- Please note that we will also send a separate Zoom Meeting invite later, so you could ask any questions and get expert if you get stuck or experience a technical issue with the SCW platform.
+
+- You can find tournament step-by-step guide here: SCW Tournament Guide : https://www.youtube.com/watch?v=0bPFS1tyNbM
+
+- Winners will be announced once the tournament has finished during a live-streamed closing ceremony at 6pm on Tuesday 3rd November. The winners will also be announced by email.
+
+- This is a UK OWASP tournament only. Prizes are only available to those part of OWASP UK chapters. OWASP Code of conduct applies -
+please treat everyone with respect and dignity
+
+LIVE STREAMS:
+
+Opening ceremony : Tuesday 27th Oct 6pm (UK time) - streamed via OWASP WIA YouTube at: https://youtu.be/Jfzm3Gt1GLU
+
+Closing ceremony: Tuesday 3rd Nov 6pm ( UK time) - streamed via OWASP WIA YouTube at: https://youtu.be/2-9zIoen0r8
+
+https://www.meetup.com/OWASP-London/events/273941192/
 
 #### Wednesday, 7th October 2020 (online)
 
