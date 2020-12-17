@@ -12,7 +12,7 @@ tags: london
 ## Past Events
 #### Thursday, 10th December 2020 (online)
 
-Video Recordings of talks from this event can be found here: https://www.youtube.com/playlist?list=PLmfxTKOjvC_esmFlDmu7pmAMaL-nLxa6z
+Video Recordings of talks from this event can be found here: <https://www.youtube.com/playlist?list=PLmfxTKOjvC_esmFlDmu7pmAMaL-nLxa6z>
 
 Event Agenda:
 
