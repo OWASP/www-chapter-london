@@ -50,33 +50,31 @@ The following are the list of OWASP Corporate Members who have generously aligne
 
 </td>
 <td>
-<img src="assets/images/Synack_Logo.jpg" alt="Synack Logo"/>
-
+  <a href="https://www.synack.com"><img src="assets/images/Synack_Logo.jpg" alt="Synack Logo"/></a>
 </td>
 </tr>
 <tr>
 <td>
-<img src="assets/images/KiuwanLogoSmall.png" alt="KiuwanLogoSmall.png"/>
+  <a href="https://www.iriusrisk.com"><img src="assets/images/IriusRisk_logo.png" alt="IriusRiskLogo"/></a>
+</td>
+<td>
+  <a href="https://www.hackerone.com"><img src="assets/images/HackerOneLogo.png" alt="HackerOneLogo.png"/></a>
 
 </td>
 <td>
-<img src="assets/images/HackerOneLogo.png" alt="HackerOneLogo.png"/>
-
-</td>
-<td>
-<a href="https://www.immuniweb.com"><img src="assets/images/ImmuniWebLogo.jpg" alt="ImmuniWebLogo.jpg"/></a>
+  <a href="https://www.immuniweb.com"><img src="assets/images/ImmuniWebLogo.jpg" alt="ImmuniWebLogo.jpg"/></a>
 </td>
 </tr>
 
 <tr>
 <td>
-<a href="https://www.owadigital.co.uk"><img height="48" src="assets/images/owa_logo_2020.png" alt="OxfordWebApps"/></a>
+  <a href="https://www.owadigital.co.uk"><img height="48" src="assets/images/owa_logo_2020.png" alt="OxfordWebApps"/></a>
 </td>
 <td>
-<a href="https://www.facebook.com"><img src="assets/images/FacebookLogoBlue.png" alt="FacebookLogoBlue.png"/></a>
+  <a href="https://www.facebook.com"><img src="assets/images/FacebookLogoBlue.png" alt="FacebookLogoBlue.png"/></a>
 </td>
 <td>
-<a href="https://www.avatao.com"><img src="assets/images/AvataoLogoBlue.png" alt="AvataoLogoBlue.png"/></a>
+  <a href="https://www.avatao.com"><img src="assets/images/AvataoLogoBlue.png" alt="AvataoLogoBlue.png"/></a>
 </td>  
 </tr>
 
@@ -88,7 +86,7 @@ The following are the list of OWASP Corporate Members who have generously aligne
     <a href="https://www.occamsec.com"><img src="assets/images/OccamSecLogo.jpg" alt="OccamSecLogo"/></a>
   </td>
    <td>
-      &nbsp;
+       <a href="https://www.kiuwan.com"><img src="assets/images/KiuwanLogoSmall.png" alt="KiuwanLogoSmall.png"/></a>
     </td>
 
 </tr>
