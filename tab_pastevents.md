@@ -10,6 +10,43 @@ tags: london
 ---
 
 ## Past Events
+#### Thursday, 4th March 2021 (online)
+
+Video Recordings of talks from this event can be found here: https://youtube.com/playlist?list=PLmfxTKOjvC_dYOLF3qfaJ6l1fsAkGUvUT
+
+AGENDA:
+
+- Introduction, OWASP News & Updates - Sam Stepanyan
+
+- Talk 1 : "Teaching the OWASP Top 10 to Beginning Developers" - Olivia Liddell
+
+- - Talk 1 Q & A
+
+- Talk 2 : "Finding Your Next Bug: GraphQL Hacking" - Katie Paxton-Fear
+
+- - Talk 2 Q & A
+
+TALK ABSTRACTS
+
+"Teaching the OWASP Top 10 to Beginning Developers" - Olivia Liddell
+
+For beginning developers who are starting to learn the basics of coding, learning about application security can often feel daunting and overwhelming. To make this process easier, Olivia has created a workbook that beginning developers can use to supplement their study of the OWASP Top 10. Olivia will discuss best practices for teaching security concepts to beginners. She will also cover the approaches that she took in developing her workbook as well as the results of the workbook’s pilot test and some ideas for future development.
+
+"Finding Your Next Bug: GraphQL Hacking" - Katie Paxton-Fear
+
+GraphQL is becoming the next big API technology for developers, but with new technology comes new risk, and for us that means bug bounties! In this talk you will learn everything GraphQL, from how it works to what kind of bugs are common.
+
+SPEAKERS:
+
+OLIVIA LIDDELL (@oliravi)
+
+Olivia Liddell is a Technical Curriculum Developer at Amazon Web Services (AWS), where she creates training courses for AWS Cloud fundamentals. Previously, Olivia worked as a middle school teacher in Chicago Public Schools and as an educational technology consultant to support various colleges and universities. She frequently speaks at conferences on topics such as mentoring, team building, and social engineering.
+
+KATIE PAXTON-FEAR (@InsiderPhD)
+
+Katie is a Lecturer in Cyber Security at Manchester Metropolitan University, however, in her free time, she's a bug bounty hunter and an educational YouTuber. She started out hacking in June 2019 during a HackerOne mentorship program and now hopes to be a mentor to others, creating educational cyber security videos on YouTube. In her videos, she attempts to bridge the gap between "I know what bug bounties are" and "bug bounty hunter" giving advice specifically tailored to bug hunting. She's now produced over 50 videos on bug bounty hunting for an audience of over 25,000 YouTube subscribers. Aimed at a beginner audience these go from finding your first bug, to how to use specific tools, to how to find specific bug classes.
+Katie has discovered and responsibly reported security vulnerabilities to several large organisations such as Verizon Media and the US Department of Defense
+
 #### Thursday, 10th December 2020 (online)
 
 Video Recordings of talks from this event can be found here: <https://www.youtube.com/playlist?list=PLmfxTKOjvC_esmFlDmu7pmAMaL-nLxa6z>
