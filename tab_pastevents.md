@@ -19,21 +19,21 @@ AGENDA:
 
 - Introduction, OWASP News & Updates - Sam Stepanyan
 
-- Talk 1 : "Teaching the OWASP Top 10 to Beginning Developers" - Olivia Liddell
+- Talk 1 : "Teaching the OWASP Top 10 to Beginning Developers" - Olivia Liddell [Slides PDF](https://github.com/OWASP/www-chapter-london/raw/master/assets/slides/Olivia_Liddell-Teaching_OWASP_Top_10.pdf)
 
 - - Talk 1 Q & A
 
-- Talk 2 : "Finding Your Next Bug: GraphQL Hacking" - Katie Paxton-Fear
+- Talk 2 : "Finding Your Next Bug: GraphQL Hacking" - Katie Paxton-Fear [Slides PDF](https://github.com/OWASP/www-chapter-london/raw/master/assets/slides/GraphQL_Hacking-Katie_Paxton_Fear_OWASPLondon.pdf)
 
 - - Talk 2 Q & A
 
 TALK ABSTRACTS
 
-"Teaching the OWASP Top 10 to Beginning Developers" - Olivia Liddell [Slides PDF](https://github.com/OWASP/www-chapter-london/raw/master/assets/slides/Olivia_Liddell-Teaching_OWASP_Top_10.pdf)
+"Teaching the OWASP Top 10 to Beginning Developers" - Olivia Liddell 
 
 For beginning developers who are starting to learn the basics of coding, learning about application security can often feel daunting and overwhelming. To make this process easier, Olivia has created a workbook that beginning developers can use to supplement their study of the OWASP Top 10. Olivia will discuss best practices for teaching security concepts to beginners. She will also cover the approaches that she took in developing her workbook as well as the results of the workbook’s pilot test and some ideas for future development.
 
-"Finding Your Next Bug: GraphQL Hacking" - Katie Paxton-Fear  [Slides PDF](https://github.com/OWASP/www-chapter-london/raw/master/assets/slides/GraphQL_Hacking-Katie_Paxton_Fear_OWASPLondon.pdf)
+"Finding Your Next Bug: GraphQL Hacking" - Katie Paxton-Fear 
 
 GraphQL is becoming the next big API technology for developers, but with new technology comes new risk, and for us that means bug bounties! In this talk you will learn everything GraphQL, from how it works to what kind of bugs are common.
 
