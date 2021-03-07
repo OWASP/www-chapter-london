@@ -12,7 +12,8 @@ tags: london
 ## Past Events
 #### Thursday, 4th March 2021 (online)
 
-Video Recordings of talks from this event can be found here: https://youtube.com/playlist?list=PLmfxTKOjvC_dYOLF3qfaJ6l1fsAkGUvUT
+Video Recordings of talks from this event can be found here: [https://youtube.com/playlist?list=PLmfxTKOjvC_dYOLF3qfaJ6l1fsAkGUvUT
+](https://youtube.com/playlist?list=PLmfxTKOjvC_dYOLF3qfaJ6l1fsAkGUvUT)
 
 AGENDA:
 
@@ -28,11 +29,11 @@ AGENDA:
 
 TALK ABSTRACTS
 
-"Teaching the OWASP Top 10 to Beginning Developers" - Olivia Liddell [Slides PDF](https://github.com/OWASP/www-chapter-london/raw/master/assets/slides/GraphQL_Hacking-Katie_Paxton_Fear_OWASPLondon.pdf)
+"Teaching the OWASP Top 10 to Beginning Developers" - Olivia Liddell [Slides PDF](https://github.com/OWASP/www-chapter-london/raw/master/assets/slides/Olivia_Liddell-Teaching_OWASP_Top_10.pdf)
 
 For beginning developers who are starting to learn the basics of coding, learning about application security can often feel daunting and overwhelming. To make this process easier, Olivia has created a workbook that beginning developers can use to supplement their study of the OWASP Top 10. Olivia will discuss best practices for teaching security concepts to beginners. She will also cover the approaches that she took in developing her workbook as well as the results of the workbook’s pilot test and some ideas for future development.
 
-"Finding Your Next Bug: GraphQL Hacking" - Katie Paxton-Fear
+"Finding Your Next Bug: GraphQL Hacking" - Katie Paxton-Fear  [Slides PDF](https://github.com/OWASP/www-chapter-london/raw/master/assets/slides/GraphQL_Hacking-Katie_Paxton_Fear_OWASPLondon.pdf)
 
 GraphQL is becoming the next big API technology for developers, but with new technology comes new risk, and for us that means bug bounties! In this talk you will learn everything GraphQL, from how it works to what kind of bugs are common.
 
