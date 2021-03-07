@@ -28,7 +28,7 @@ AGENDA:
 
 TALK ABSTRACTS
 
-"Teaching the OWASP Top 10 to Beginning Developers" - Olivia Liddell
+"Teaching the OWASP Top 10 to Beginning Developers" - Olivia Liddell [Slides PDF](https://github.com/OWASP/www-chapter-london/raw/master/assets/slides/GraphQL_Hacking-Katie_Paxton_Fear_OWASPLondon.pdf)
 
 For beginning developers who are starting to learn the basics of coding, learning about application security can often feel daunting and overwhelming. To make this process easier, Olivia has created a workbook that beginning developers can use to supplement their study of the OWASP Top 10. Olivia will discuss best practices for teaching security concepts to beginners. She will also cover the approaches that she took in developing her workbook as well as the results of the workbook’s pilot test and some ideas for future development.
 
