@@ -11,6 +11,8 @@ tags: london
 
 ## Past Events
 #### Thursday, 16th September 2021 (online)
+Video Recordings of talks from this event can be found [here](https://www.youtube.com/playlist?list=PLmfxTKOjvC_eL8GF4Z-72L4ck6H-v-oeq)
+
 "Cryptographic protection of ML models in Mobile Apps" - Anastasiia Voitova [[video]](https://youtu.be/W4SEjPpfycA) [[Slides PDF]](https://github.com/OWASP/www-chapter-london/blob/master/assets/slides/Anastasiia_Voitova_vixentael_Cryptographic_Protection_Mobile_Apps.pdf)
 
 Imagine a system that operates with ML models. These models are unique and work with user-generated content better than anyone else. For various business reasons, instead of running one large sophisticated model on the server, developers have to run models on mobile devices (viva TensorFlow!). Our challenge is to protect these models from leakage and massive accumulation, which leads to reverse engineering of their unique approach. This talk explains building DRM-like protection with application-level encryption using HPKE-like approach on ephemeral keys. Anastasiia will discuss risks, threats, dataflow, cryptographic layer, key management and integration with traditional application security controls for defense-in-depth approach for mobile apps.
