@@ -10,6 +10,25 @@ tags: london
 ---
 
 ## Past Events
+#### Thursday, 16th September 2021 (online)
+"Cryptographic protection of ML models in Mobile Apps" - Anastasiia Voitova
+
+Imagine a system that operates with ML models. These models are unique and work with user-generated content better than anyone else. For various business reasons, instead of running one large sophisticated model on the server, developers have to run models on mobile devices (viva TensorFlow!). Our challenge is to protect these models from leakage and massive accumulation, which leads to reverse engineering of their unique approach. This talk explains building DRM-like protection with application-level encryption using HPKE-like approach on ephemeral keys. Anastasiia will discuss risks, threats, dataflow, cryptographic layer, key management and integration with traditional application security controls for defense-in-depth approach for mobile apps.
+
+"Be Better At InfoSec - 10 Lessons Learned From Moving From The Dark Side To The Light" - Mark Stamford
+
+InfoSec has become a giant, marketing driven, bandwagon affair. However all is not lost, this talk will focus on 10 lessons that can be applied to your job (no matter what it is as long as its InfoSec related) that will help you do it better, stronger, faster etc…Providing information on topics such as: why does no one ever give me the funding I want and how do I get it? How can I do a useful penetration test? How do I build an effective security program that makes my job security > 2 years? And How do bad guys really think and how do I do that? Drawing on personal experience and other sources this talk will provide concrete things you can actually do to keep the organisations we work for secure, not lose our minds, and hopefully navigate the crazy.
+
+SPEAKERS:
+
+ANASTASIIA VOITOVA (@vixentael)
+
+Anastasiia Voitova (@vixentael) is a head of customer solutions at Cossack Labs and a software security engineer with 10+ years of experience, specialising in security engineering, data security, and applied cryptography. Anastasiia is a prominent leader in the Ukrainian cybersecurity community and a co-leader of Women Who Code Kyiv. She also maintains the open-source cryptographic library Themis, conducts secure software development training and speaks at many international conferences.
+
+MARK STAMFORD
+
+Mark Stamford is the founder and CEO of OccamSec, where he works with a fantastic team of security professionals helping protect some of the largest, and smallest, organisations on the planet. Originally beginning his interest in security after watching war-games and deciding that “breaking into computers looks fun” he then proceeded to hack things from the age of 11. Before getting a proper job, which then exposed him to some of the earliest days of corporate espionage. He then worked for a big 4 consulting firm as a senior pen tester, then onto a large bank where he built and ran the threat and vulnerability management program, and finally he started company.
+
 #### Thursday, 4th March 2021 (online)
 
 Video Recordings of talks from this event can be found here: [https://youtube.com/playlist?list=PLmfxTKOjvC_dYOLF3qfaJ6l1fsAkGUvUT
