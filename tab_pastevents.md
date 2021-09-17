@@ -11,11 +11,11 @@ tags: london
 
 ## Past Events
 #### Thursday, 16th September 2021 (online)
-"Cryptographic protection of ML models in Mobile Apps" - Anastasiia Voitova
+"Cryptographic protection of ML models in Mobile Apps" - Anastasiia Voitova [[video]](https://youtu.be/W4SEjPpfycA) [[Slides PDF]](https://github.com/OWASP/www-chapter-london/blob/master/assets/slides/Anastasiia_Voitova_vixentael_Cryptographic_Protection_Mobile_Apps.pdf)
 
 Imagine a system that operates with ML models. These models are unique and work with user-generated content better than anyone else. For various business reasons, instead of running one large sophisticated model on the server, developers have to run models on mobile devices (viva TensorFlow!). Our challenge is to protect these models from leakage and massive accumulation, which leads to reverse engineering of their unique approach. This talk explains building DRM-like protection with application-level encryption using HPKE-like approach on ephemeral keys. Anastasiia will discuss risks, threats, dataflow, cryptographic layer, key management and integration with traditional application security controls for defense-in-depth approach for mobile apps.
 
-"Be Better At InfoSec - 10 Lessons Learned From Moving From The Dark Side To The Light" - Mark Stamford
+"Be Better At InfoSec - 10 Lessons Learned From Moving From The Dark Side To The Light" - Mark Stamford [[video]](https://youtu.be/ug6hySpsOCk) [[Slides PDF]](https://github.com/OWASP/www-chapter-london/blob/master/assets/slides/Mark_Stamford_Be_Better_at_InfoSec_10_Lessons.pdf)
 
 InfoSec has become a giant, marketing driven, bandwagon affair. However all is not lost, this talk will focus on 10 lessons that can be applied to your job (no matter what it is as long as its InfoSec related) that will help you do it better, stronger, faster etc…Providing information on topics such as: why does no one ever give me the funding I want and how do I get it? How can I do a useful penetration test? How do I build an effective security program that makes my job security > 2 years? And How do bad guys really think and how do I do that? Drawing on personal experience and other sources this talk will provide concrete things you can actually do to keep the organisations we work for secure, not lose our minds, and hopefully navigate the crazy.
 
