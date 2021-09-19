@@ -13,7 +13,9 @@ tags: london
 
 OWASP London Chapter upcoming events can be found on Meetup:
 
-https://www.meetup.com/OWASP-London/
+[https://www.meetup.com/OWASP-London/](https://www.meetup.com/OWASP-London/)
+
+---
 
 
 {% include chapter_events.html group=page.meetup-group %}
