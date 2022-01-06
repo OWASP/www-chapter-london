@@ -90,6 +90,19 @@ The following are the list of OWASP Corporate Members who have generously aligne
     </td>
 
 </tr>
+  
+  <tr>
+  <td>
+   <a href="https://www.specialistdata.com/"><img src="https://owasp.org/assets/images/corp-member-logo/SpecialistDataSolutionsLogo.png" alt="SDS Logo"/></a>
+  </td>
+  <td>
+    <a href=""><img src="" alt=""/></a>
+  </td>
+   <td>
+       <a href=""><img src="" alt=""/></a>
+    </td>
+
+</tr>
 </table>
 
 
