@@ -105,6 +105,8 @@ The following are the list of OWASP Corporate Members who have generously aligne
 </tr>
 </table>
 
+<a href="https://www.guidestar.org/profile/20-0963503" target="_blank"><img src="https://widgets.guidestar.org/gximage2?o=6993273&l=v4" /></a>
+
 
 Meeting Supporters
 ----------------
