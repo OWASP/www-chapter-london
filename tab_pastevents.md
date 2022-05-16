@@ -10,6 +10,89 @@ tags: london
 ---
 
 ## Past Events
+
+#### Tuesday, 10th May 2022 (in-person/hybrid)
+
+Video recodrings:  https://www.youtube.com/watch?v=n6EfyC9KUEk&list=PLmfxTKOjvC_dJI0sabzJmmmQzTs2eDu1u
+
+Lightning Talk : "Software signing and verification with Sigstore" - Sherif Clinch
+Talk 1: " Introducing OpenCRE" - Spyros Gasteratos
+Talk 2: "Gamification of Threat Modelling" - Grant Ongers
+
+#### Thursday, 10th March 2022 (online)
+
+Video recodrings:  https://www.youtube.com/watch?v=QV2JcwHpjeQ&list=PLmfxTKOjvC_c9CYu5tzmvreOQiqyu_Ai9
+
+Talk 1 : "Not All SBOMs Are Created Equal" - Jeff Williams
+Talk 2 : "OWASP Dependency Track and CycloneDX SBOM Standard" - Steve Springett
+
+Talk 1: "Not All SBOMs Are Created Equal" - Jeff Williams
+
+OWASP was the first to champion the importance of insecure components in 2013. Since then, organizations have been slowly improving their software supply chain tools and processes. But as the Log4Shell debacle reminded us, we still have a very long way to go. The recent Executive Order on Cybersecurity has mandated the use of “Software Bill of Materials” or SBOM and the idea seems to be catching on rapidly. In this talk, we’ll discuss using SBOMs – both upstream and downstream in your software supply chains. Unfortunately, what shows up in an SBOM depends on how it was created. From a source code repo? A binary? A running application? How far down the stack does it go? Just the app? Application server? Platform? Container? OS? And when was the SBOM created? Latest version? Branch? We’ll also talk about some of the practical problems with using SBOM as a way to understand your supply chain at scale. Come find out how to leverage SBOMs the right way.
+
+Talk 2: "OWASP Dependency Track and CycloneDX SBOM Standard" - Steve Springett
+
+Software Bill of Materials (SBOM) have gained wide-spread support from the software industry, to critical infrastructure, to the White House. In this session, the OWASP CycloneDX SBOM standard will be introduced along with strategies for effectively creating SBOMs. Also introduced will be OWASP Dependency-Track, a platform that consumes and continuously analyzes SBOMs for security, operational, and license risk. Both of these flagship OWASP projects work together to allow organizations to make better risk-based decisions.
+
+SPEAKERS:
+
+Jeff Williams (@planetlevel)
+
+Jeff Williams is the co-founder and major contributor to OWASP, where he served as the Chair of the OWASP Board for 8 years and created the OWASP Top 10, OWASP Enterprise Security API (ESAPI), OWASP Application Security Verification Standard(ASVS), XSS Prevention Cheat Sheet, WebGoat and many other widely adopted free and open projects. Jeff is the co-founder and the CTO of Contrast Security. Jeff has a BA from Virginia, an MA from George Mason, and a JD from Georgetown.
+
+Steve Springett (@stevespringett)
+
+Steve educates teams on the strategy and specifics of developing secure software. He practices security at every stage of the development lifecycle by leading sessions on threat modeling, secure architecture and design, static/dynamic/component analysis, offensive research, and defensive programming techniques.
+Steve's passionate about helping organizations identify and reduce risk from the use of third-party and open source components. He is an open source advocate and leads the OWASP Dependency-Track project, OWASP Software Component Verification Standard (SCVS), and is the Chair of the OWASP CycloneDX Core Working Group, a Software Bill of Materials (SBOM) Standard.
+
+#### Thursday, 18th November 2021 (online)
+
+Video recodrings:
+https://www.youtube.com/watch?v=wS9SF2AT_co and https://www.youtube.com/watch?v=NZOeOmPIkCA
+
+
+OWASP London Chapter is proud to present our Capture the FLAG (CTF) event for 2021 in collaboration with OWASP Diversity and Inclusion Committee and many OWASP UK Chapters (including; Bristol, Cambridge, Dorset , Newcastle, Reading, Suffolk).
+
+The event will be hosted by Security Innovation using their platform and will be instructor lead. It combines with Security Innovation's CMD+Ctrl CTF with a Bootcamp self-paced training course to which all CTF players will have 4-weeks FREE access.
+
+Although the event is online, as this is a live participatory event it will not be recorded.
+
+Want to test your skills in identifying web app vulnerabilities? Join Several OWASP UK Chapters and Security Innovation as members compete in CMD+CTRL, a web application cyber range where players exploit their way through hundreds of vulnerabilities that lurk in business applications today. Success means learning quickly that attack and defence is all about thinking on your feet.
+
+For each vulnerability you uncover, you are awarded points. Climb the interactive leaderboard for a chance to win fantastic prizes! CMD+CTRL is ideal for development teams to train and develop skills.
+
+ATTENTION: Additional registration required in order to gain access to the CTF platform and play:
+
+CTF Event registration link is now live! Form Fields are optional so feel free to put N/A anywhere you do not wish to provide information, although you will need a working email address and the name fields will be used to identify you for the CTF.
+
+#### Thursday, 7th October 2021 (online)
+Video Recordings of talks from this event can be found [here](https://www.youtube.com/watch?v=dWxaSLOVLYc&list=PLmfxTKOjvC_cKCm_C7Du483w9VhdKVFcA)
+
+Talk 1 : "What the Log?! So Many Events, So Little Time!" - Miriam Wiesner (@MiriamXyra)
+Talk 2 : "OWASP Top Ten 2021" - Andrew van der Stock (@OWASPED)
+
+TALK ABSTRACTS:
+
+"What the Log?! So Many Events, So Little Time!" - Miriam Wiesner
+
+Detecting adversaries is not always easy - especially when it comes to correlating Windows Event Logs to real-world attack patterns and techniques. This talk is about EventList - a free and open-source tool which helps to match Windows Event Log IDs with the MITRE ATT&CK framework (and vice-versa) and offers methods to simplify the detection in corporate environments worldwide.
+
+"Introducing OWASP Top Ten 2021" - Andrew van der Stock
+
+Welcome to the latest instalment of the OWASP Top 10. In this talk you will learn about the brand new OWASP Top Ten 2021, the methodology behind it, the categories, the data collection and analysis process and of course how to start an AppSec Program with the OWASP Top 10.
+
+SPEAKERS:
+
+MIRIAM WIESNER (@miriamxyra)
+
+Miriam Wiesner is a Senior Security Program Manager for Microsoft Defender ATP. Besides MDATP, she has a focus on Secure Infrastructure, Windows Event Logs, Active Directory Security, Just Enough Administration, and PowerShell, and many more. In her spare time, she enjoys writing articles for her private blog (miriamxyra.com), also she enjoys developing open-source tools to help the community and speaks on international conferences and events. She's a life-long learner, always excited about new technologies, and empowering others.
+
+ANDREW VAN DER STOCK (@OWASPED / @VANDERAJ)
+
+Andrew van der Stock is an acknowledged leader of the application security field, with nearly 20 years application security experience in Australia and the USA, and over 25 years' experience in the IT and System Administration fields. Andrew joined OWASP in 2002 (!) and served as OWASP Sydney Chapter Leader and OWASP Melbourne Chapter co-leader. Over the years Andrew was involved in leading and working on many OWASP Projects such as OWASP Developer Guide 2.0, OWASP Top 10, ESAPI for PHP, OWASP Application Security Verification Standard(ASVS) as well as starting the OWASP Proactive Controls project. Andrew's corporate world experience includes directorship role at KPMG Australia and Senior Principal Consultant role at Synopsys Inc. Currently Andrew is the Executive Director at OWASP, taking the Foundation through organisational change and taking our mission to the next level
+
+
+
 #### Thursday, 16th September 2021 (online)
 Video Recordings of talks from this event can be found [here](https://www.youtube.com/playlist?list=PLmfxTKOjvC_eL8GF4Z-72L4ck6H-v-oeq)
 
