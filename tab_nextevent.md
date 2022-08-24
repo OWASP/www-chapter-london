@@ -21,7 +21,7 @@ Talk 1: "The Iceberg: Your Attack Surface Just Got Bigger (How to mitigate risks
 
 Talk 2: "Pwning the CI Workflow and How to Prevent It "- Steve Giguere
 
-Full Details and Registration: https://www.eventbrite.co.uk/e/owasp-london-chapter-in-person-meetup-tickets-407116214557
+Full Details and Registration: [https://www.eventbrite.co.uk/e/owasp-london-chapter-in-person-meetup-tickets-407116214557](https://www.eventbrite.co.uk/e/owasp-london-chapter-in-person-meetup-tickets-407116214557)
 
 ---
 OWASP London Chapter upcoming events can be found on Meetup:
