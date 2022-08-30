@@ -105,7 +105,7 @@ The following are the list of OWASP Corporate Members who have generously aligne
 </tr>
 </table>
 
-<a href="https://www.guidestar.org/profile/20-0963503" target="_blank"><img src="https://widgets.guidestar.org/gximage2?o=6993273&l=v4" /></a>
+
 
 
 Meeting Supporters
@@ -195,7 +195,7 @@ Call For Speakers is open - if you would like to present a talk on Application S
 
 Next Meeting/Event(s)
 ---------------------
-{% include chapter_events.html group=page.meetup-group %}
+
 
 ##### Thursday, 8th September 2022 (in-person/hybrid)
 Live-Stream: https://www.youtube.com/OWASPLondon
@@ -212,6 +212,8 @@ OWASP London Chapter meetings are posted on our MeetUp Page:
 
 Please visit <a href="http://www.meetup.com/OWASP-London">http://www.meetup.com/OWASP-London</a> OWASP London MeetUp site for London Chapter event information.
 
+{% include chapter_events.html group=page.meetup-group %}
+
 Video Recordings of Past Events
 --------------------------------
 You can watch the recordings of talks presented at OWASP London events on our YouTube channel: https://www.youtube.com/OWASPLondon
@@ -221,3 +223,6 @@ Please [SUBSCRIBE](https://www.youtube.com/OWASPLondon?sub_confirmation=1) to ou
 Updates on Social Media and Mailing List
 ---------------------
 Please follow OWASP London Chapter on <a href="https://twitter.com/OWASPLondon">Twiter</a>/<a href="https://facebook.com/OWASPLondon">Facebook</a>/<a href="https://meetup.com/OWASP-London">MeetUp</a>/<a href="https://owasplondon.eventbrite.com">EventBrite</a>/<a href="https://www.linkedin.com/company/owasplondon">LinkedIN</a> and <a href="https://groups.google.com/a/owasp.org/forum/#!forum/london-chapter/join">sign up to our mailing list</a> to be notified about the upcoming OWASP London Chapter events.
+
+---
+<a href="https://www.guidestar.org/profile/20-0963503" target="_blank"><img src="https://widgets.guidestar.org/gximage2?o=6993273&l=v4" /></a>
