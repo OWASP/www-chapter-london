@@ -99,7 +99,7 @@ The following are the list of OWASP Corporate Members who have generously aligne
     <a href="https://www.contrastsecurity.com/"><img src="assets/images/contrast_sec_logo.png" alt="ContrastSecurityLogo"/></a>
   </td>
    <td>
-       <a href=""><img src="" alt=""/> </a>
+       <a href="https://zimperium.com"><img src="assets/images/zimperium-logo.png" width="240" alt="ZimperiumLogo"/></a>
     </td>
 
 </tr>
@@ -182,6 +182,12 @@ The following is the list of organisations who have generously provided us with 
 <img src="assets/images/EYLogo.png" alt="EY"/>
 </td>
 </tr>
+  <tr>
+    <td><img src="assets/images/Revolut_White_BG-B-P0.5.png" alt="logo"/></td>
+    <td><img src="assets/images/TM_Logo_Black_200.png" alt="TM logo"</td>
+    <td>your logo?</td>
+  </tr>
+  
 </table>
 
 Speaking at OWASP London Chapter Events
