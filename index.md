@@ -183,9 +183,9 @@ The following is the list of organisations who have generously provided us with 
 </td>
 </tr>
   <tr>
-    <td><img src="assets/images/Revolut_White_BG-B-P0.5.png" alt="logo"/></td>
+    <td><img src="assets/images/Revolut_White_BG-B-P0.5.png" alt="Revolutlogo"/></td>
+    <td><img src="assets/images/Photobox_logo.jpg" alt="Photobox"/></td>
     <td><img src="assets/images/TM_Logo_Black_200.png" alt="TM logo"/></td>
-    <td>your logo?</td>
   </tr>
   
 </table>
