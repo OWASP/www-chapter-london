@@ -11,6 +11,34 @@ tags: london
 
 ## Past Events
 
+#### Thursday, 8th September 2022 (in-person/hybrid)
+
+Live-Stream:  [https://www.youtube.com/OWASPLondon](https://www.youtube.com/watch?v=bDB1IvhtmWI)
+
+Lightning Talk: "Using Trivy and Falco to Detect Malware in a Kubernetes Environment" - Marco Mancini
+
+Talk 1: "The Iceberg: Your Attack Surface Just Got Bigger (How to mitigate risks in your OSS projects)" - Sonya Moisset
+
+Software supply chain attacks are not a new security concern, but recent high-profile attacks such as SolarWinds, CodeCov, and Kaseya have brought the topic to the forefront of cybersecurity awareness across the globe. Supply chain attacks have not only increased in volume and frequency, but have also become more sophisticated. This trend, together with the potentially wide impact of a singular successful supply chain attack, requires maintainers to take dedicated steps to ensure the security and integrity of their projects. You will learn how to secure your CI/CD pipeline by setting up guardrails at each stage and harden your OSS projects.
+
+
+Talk 2: "Pwning the CI Workflow and How to Prevent It "- Steve Giguere
+
+Our journey to open source and GitOps heaven has exposed new security challenges as our CI platforms are exposed to the outside world. The soft underbelly of our development pipeline is visible as much to willing contributors as it is malicious subversives looking for the keys to the backdoor. In this talk, we'll look at some known potential exploits to GitHub Actions workflows to show how simple misconfigurations or straight up bad practices can leave our supply chain wide open to attackers.
+
+SPEAKERS:
+Sonya Moisset (@SonyaMoisset)
+
+Sonya is a Senior Security Advocate at Snyk and a lifelong traveler who lived in the Middle-East, North Africa and Asia. Always looking for new challenges – she made a career change from International Business Consultant in Tunisia, Saudi Arabia and Singapore to Full Stack Software Engineer in South Korea to Cybersecurity in the United Kingdom. She is passionate about Open-Source, DevSecOps and Cloud Computing. She has been listed on the 2022 OpenUK Honours list. She is a mentor and a strong advocate for women in tech. She founded the initiatives Epic Women in Cyber and Epic Women in Tech to highlight amazing women in the industry and share their experiences and journey. The initiative won the Ally of the Year 2021 - People’s Choice award. She was also part of the Diversity & Inclusion Power List 2022 from Girlcode. Sonya is an ambassador at OpenUK, and Girlcode, a GitHub Star, a Lead mentor at CAPSLOCK and CyberGirls and a cybersecurity writer for FreeCodeCamp. She is a DevSecOps/Cloud Security advocate, a public speaker on the world tech scene, and an active member of the tech community in the UK. Her motto is #GetSecure, #BeSecure & #StaySecure.
+
+Steve Giguere (@_SteveGiguere_)
+
+Steve Giguere is a Developer Advocate with Bridgecrew by Prisma Cloud specialising in cloud and infrastructure security automation. Prior to this Steve was a Solution Architect for StackRox and Aqua Security specialising in container and kubernetes security and also previously spent several years at Synopsys establishing DevSecOps best practices for enterprise CI/CD pipelines. Steve runs DevSecOps London Gathering community and several security podcasts including CoSeCast - The Continuous Security Podcast, Twitch/YouTube show C9K, as well as a personal blog and podcast called Codifyre.
+
+Marco Mancini (@ManciniJ)
+
+Marco Mancini is a Security Engineer in the Threat Operations team at Thought Machine. The team works in the detection engineering space and performs Incident Response for all the cloud native technologies Thought Machine employs.
+
 #### Tuesday, 10th May 2022 (in-person/hybrid)
 
 Video recodrings:  https://www.youtube.com/watch?v=n6EfyC9KUEk&list=PLmfxTKOjvC_dJI0sabzJmmmQzTs2eDu1u
