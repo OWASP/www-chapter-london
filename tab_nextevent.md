@@ -11,17 +11,9 @@ tags: london
 
 ## Next Meeting/Event(s)
 
-#### Thursday, 8th September 2022 (in-person/hybrid)
+We are currently looking for a venue in Cental London for our next event which can host OWASP London Chapter meetup with 150+ attendees. 
 
-Live-Stream:  https://www.youtube.com/OWASPLondon
-
-Lightning Talk: "Using Trivy and Falco to Detect Malware in a Kubernetes Environment" - Marco Mancini
-
-Talk 1: "The Iceberg: Your Attack Surface Just Got Bigger (How to mitigate risks in your OSS projects)" - Sonya Moisset
-
-Talk 2: "Pwning the CI Workflow and How to Prevent It "- Steve Giguere
-
-Full Details and Registration: [https://www.eventbrite.co.uk/e/owasp-london-chapter-in-person-meetup-tickets-407116214557](https://www.eventbrite.co.uk/e/owasp-london-chapter-in-person-meetup-tickets-407116214557)
+Please follow OWASP London on [Twitter](https://twitter.com/owasplondon)/[Facebook](https://www.facebook.com/OWASPLondon)/[Meetup](https://www.meetup.com/OWASP-London/)/[EventBrite](https://www.eventbrite.co.uk/o/owasp-london-chapter-9790101329) or join our [Mailing List](https://groups.google.com/a/owasp.org/forum/#!forum/london-chapter) to be notified as soon as the next event date & location is announced
 
 ---
 OWASP London Chapter upcoming events can be found on Meetup:
