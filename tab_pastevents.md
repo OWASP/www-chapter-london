@@ -13,7 +13,7 @@ tags: london
 
 #### Thursday, 8th September 2022 (in-person/hybrid)
 
-Live-Stream:  [https://www.youtube.com/OWASPLondon](https://www.youtube.com/watch?v=bDB1IvhtmWI)
+Video recodrings: [https://www.youtube.com/watch?v=bDB1IvhtmWI](https://youtube.com/playlist?list=PLmfxTKOjvC_f91Ex8ZJfH56lO7GG-dyG4)
 
 Lightning Talk: "Using Trivy and Falco to Detect Malware in a Kubernetes Environment" - Marco Mancini
 
