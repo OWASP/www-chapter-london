@@ -11,6 +11,31 @@ tags: london
 
 ## Past Events
 
+#### Thursday, 17th November 2022 (in-person/hybrid)
+
+Video recording: [https://www.youtube.com/watch?v=W-rsFfAF5IE&t=1070s]
+
+* Intro: Welcome and a brief update on OWASP Projects & Events from the OWASP London Chapter Leaders
+* Talk 1: "Securing DevOps: Where to Start and What to Measure?" - Stefania Chaplin
+* Talk 2: "Will FIDO Passkey help us to move on from Passwords?" - Dario Salice
+
+Talk 1: "Securing DevOps: Where to Start and What to Measure?" - Stefania Chaplin
+
+How do we secure our DevOps processes? Why is shifting left important? How do we get developers to care about security and empower them to make a difference? Where do we start and what do we measure? Often in software development we operate in silos. Different tribes have different priorities and lexicons. How do we break down these preexisting silos and continue innovating and optimising our software development process? Shifting left can help to break down silos and empower developers to take a security first approach. Measuring DevOps can be hard, DORA metrics can help you to become an Elite performer. Join this session to find out more about these and importantly, when it comes to securing DevOps where to start and what to measure.
+
+Talk 2: "Will FIDO Passkey help us to move on from Passwords?" - Dario Salice
+
+Passwords are bad at protecting our digital assets and they make it harder for us to access them. Security: An estimated 22% of US consumers self-identify as having been hacked at least once. A hacked account sells for as little as $1. Access: Forgetting your password seems like merely an annoyance. However, it contributes to churn on consumer platforms and can make up 50% of corporate IT Support calls. All is not lost; Passkey is here to save the day. In this session, I’ll walk you through what passkey is, how it works, and how it can impact your churn and security goals.
+
+SPEAKERS: 
+Stefania Chaplin, Solutions Architect at Gitlab.
+
+Stefania’s experience as a Solutions Architect within Cybersecurity, DevSecOps and OSS governance means she's helped countless organisations understand and implement security throughout their SDLC. She is an active member of OWASP DevSlop, hosting their technical shows. When not at a computer, Stefania enjoys surfing, yoga and looking after all her tropical plants.
+
+Dario Salice
+
+Dario Salice is a seasoned professional in the space of Telecommunications, Security, and Online-Identities. While most recently working at Google and then Meta, he provided the right security tools to billions of users to protect their online accounts. Dario also launched programs to protect highly targeted individuals from attack. Serving as Meta’s representative on the Board of the FIDO Alliance, an industry standards organization working on strong authentication methods, Dario gained a broader perspective on the global authentication market. His current focus is ramping up an independent boutique consulting service to engage with companies of any size who want to benefit from his insights and experience in the Security & Identity space.
+
 #### Thursday, 8th September 2022 (in-person/hybrid)
 
 Video recodrings: [https://www.youtube.com/watch?v=bDB1IvhtmWI](https://youtube.com/playlist?list=PLmfxTKOjvC_f91Ex8ZJfH56lO7GG-dyG4)
