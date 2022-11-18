@@ -10,6 +10,7 @@ tags: london
 ---
 
 ## Next Meeting/Event(s)
+
 [//]: # (Comment: When updating the next event info also update the homepage)
 ### To Be Confirmed
 
