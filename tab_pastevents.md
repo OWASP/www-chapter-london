@@ -2009,7 +2009,7 @@ RSVP is now open at Eventbrite - <http://owasp-london.eventbrite.co.uk/>
 
 -   **Round-up - Colin Watson**
 
-    OWASP news and Christmas gift ([presentation](https://www.owasp.org/index.php/File:Owasplondon-roundup-20141204.pptx))
+    OWASP news and Christmas gift ([presentation](assets/slides/Owasplondon-roundup-20141204.pptx))
 
 <!-- -->
 
@@ -2051,7 +2051,7 @@ RSVP is now open at Eventbrite - <http://owasp-london.eventbrite.co.uk/>
 
 <!-- -->
 
--   **AppSensor 2.0 - Colin Watson** ([PDF](https://www.owasp.org/index.php/File:Owasplondon-colinwatson-appsensor-guide-v2.pdf))
+-   **AppSensor 2.0 - Colin Watson** ([PDF](assets/slides/Owasplondon-colinwatson-appsensor-guide-v2.pdf))
 
     The AppSensor Project defines the concept of application-specific real time attack detection and response. A new AppSensor Guide book has been written to document the cumulative knowledge of the project's contributors, to provide illustrative case studies, and most importantly to showcase several demonstration working implementations. In this presentation Colin Watson will summarise the concept, bring the topic up-to-date, explain alternative architectural models, discuss the newly published implementation guide, demonstrate application security dashboards, and explain the code and web services implementations that attendees will be able to use immediately in their own projects.
 
@@ -2248,24 +2248,21 @@ A special meeting event, in conjunction with [London Geek Nights](http://londong
 Archived Events
 ---------------
 
-For events before 2011, see [Archived OWASP London Events](Archived_OWASP_London_Events "wikilink")
+For events before 2011, see [Archived OWASP London Events](https://wiki.owasp.org/index.php/Archived_OWASP_London_Events)
 
 Other Activities
 ----------------
 
 -   **February 2010 - Personal Information Online COP**
 
-The [Leeds UK](Leeds_UK "wikilink"), London and [Scotland](Scotland "wikilink") Chapters [joint response](http://www.owasp.org/index.php/Industry:Personal_Information_Online_Code_of_Practice) to the UK Information Commissioner's Office draft Personal Information Online Code of Practice.
+The [Leeds UK](https://owasp.org/www-chapter-leeds-uk/), London and [Scotland](https://owasp.org/www-chapter-scotland/) Chapters [joint response](https://wiki.owasp.org/index.php/Industry:Personal_Information_Online_Code_of_Practice) to the UK Information Commissioner's Office draft Personal Information Online Code of Practice.
 
 -   **March 2009 - Entry for Nominet Best Practice Challenge 2009**
 
-Open Web Application Security Project was nominated by OWASP London for the Best Security Initiative Award (![Image:Nominet_best_practice_challenge_2009_owasp_entry.pdf](Nominet_best_practice_challenge_2009_owasp_entry.pdf "fig:Image:Nominet_best_practice_challenge_2009_owasp_entry.pdf")) in the [Nominet Best Practice Challenge 2009](http://www.nominet.org.uk/about/bestpracticechallenge/). Short-listed June 2009. Announcement due 2 July 2009.
+Open Web Application Security Project was nominated by OWASP London for the Best Security Initiative Award [PDF](assets/slides/Nominet_best_practice_challenge_2009_owasp_entry.pdf)) in the Nominet Best Practice Challenge 2009.
 
 -   **16th October 2008 - COI Browser Standards for Public Websites**
 
-The London and [Scotland](Scotland "wikilink") Chapters joint response to the Central Office of Information draft document on [browser standards for public websites](http://www.coi.gov.uk/guidance.php?page=200) (version 0.13) (![Image:OWASP-COI-Browser-Standards.pdf](OWASP-COI-Browser-Standards.pdf "fig:Image:OWASP-COI-Browser-Standards.pdf")).
+The London and [Scotland](https://owasp.org/www-chapter-scotland/) Chapters joint response to the Central Office of Information draft document on [browser standards for public websites](http://www.coi.gov.uk/guidance.php?page=200) (version 0.13) ([PDF](assets/slides/OWASP-COI-Browser-Standards.pdf)).
 
-[Category:United Kingdom](Category:United_Kingdom "wikilink") <Category:Europe>---
-title: London
-permalink: /London/
 ---
