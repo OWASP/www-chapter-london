@@ -2255,17 +2255,14 @@ Other Activities
 
 -   **February 2010 - Personal Information Online COP**
 
-The [Leeds UK](Leeds_UK "wikilink"), London and [Scotland](Scotland "wikilink") Chapters [joint response](http://www.owasp.org/index.php/Industry:Personal_Information_Online_Code_of_Practice) to the UK Information Commissioner's Office draft Personal Information Online Code of Practice.
+The [Leeds UK](https://owasp.org/www-chapter-leeds-uk/), London and [Scotland](https://owasp.org/www-chapter-scotland/) Chapters [joint response](https://wiki.owasp.org/index.php/Industry:Personal_Information_Online_Code_of_Practice) to the UK Information Commissioner's Office draft Personal Information Online Code of Practice.
 
 -   **March 2009 - Entry for Nominet Best Practice Challenge 2009**
 
-Open Web Application Security Project was nominated by OWASP London for the Best Security Initiative Award (![Image:Nominet_best_practice_challenge_2009_owasp_entry.pdf](Nominet_best_practice_challenge_2009_owasp_entry.pdf "fig:Image:Nominet_best_practice_challenge_2009_owasp_entry.pdf")) in the [Nominet Best Practice Challenge 2009](http://www.nominet.org.uk/about/bestpracticechallenge/). Short-listed June 2009. Announcement due 2 July 2009.
+Open Web Application Security Project was nominated by OWASP London for the Best Security Initiative Award [PDF](assets/slides/Nominet_best_practice_challenge_2009_owasp_entry.pdf)) in the Nominet Best Practice Challenge 2009.
 
 -   **16th October 2008 - COI Browser Standards for Public Websites**
 
-The London and [Scotland](Scotland "wikilink") Chapters joint response to the Central Office of Information draft document on [browser standards for public websites](http://www.coi.gov.uk/guidance.php?page=200) (version 0.13) (![Image:OWASP-COI-Browser-Standards.pdf](OWASP-COI-Browser-Standards.pdf "fig:Image:OWASP-COI-Browser-Standards.pdf")).
+The London and [Scotland](https://owasp.org/www-chapter-scotland/) Chapters joint response to the Central Office of Information draft document on [browser standards for public websites](http://www.coi.gov.uk/guidance.php?page=200) (version 0.13) ([PDF](assets/slides/OWASP-COI-Browser-Standards.pdf)).
 
-[Category:United Kingdom](Category:United_Kingdom "wikilink") <Category:Europe>---
-title: London
-permalink: /London/
 ---
