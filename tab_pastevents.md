@@ -13,7 +13,7 @@ tags: london
 
 #### Thursday, 17th November 2022 (in-person/hybrid)
 
-Video recording: [https://www.youtube.com/watch?v=W-rsFfAF5IE&t=1070s]
+Video recording: [https://www.youtube.com/playlist?list=PLmfxTKOjvC_e8X_C9vj69ckFy2GJ8qi6j]
 
 * Intro: Welcome and a brief update on OWASP Projects & Events from the OWASP London Chapter Leaders
 * Talk 1: "Securing DevOps: Where to Start and What to Measure?" - Stefania Chaplin
