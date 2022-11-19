@@ -2248,7 +2248,7 @@ A special meeting event, in conjunction with [London Geek Nights](http://londong
 Archived Events
 ---------------
 
-For events before 2011, see [Archived OWASP London Events](Archived_OWASP_London_Events "wikilink")
+For events before 2011, see [Archived OWASP London Events](https://wiki.owasp.org/index.php/Archived_OWASP_London_Events)
 
 Other Activities
 ----------------
