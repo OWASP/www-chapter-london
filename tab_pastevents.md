@@ -2009,7 +2009,7 @@ RSVP is now open at Eventbrite - <http://owasp-london.eventbrite.co.uk/>
 
 -   **Round-up - Colin Watson**
 
-    OWASP news and Christmas gift ([presentation](https://www.owasp.org/index.php/File:Owasplondon-roundup-20141204.pptx))
+    OWASP news and Christmas gift ([presentation](assets/slides/Owasplondon-roundup-20141204.pptx))
 
 <!-- -->
 
@@ -2051,7 +2051,7 @@ RSVP is now open at Eventbrite - <http://owasp-london.eventbrite.co.uk/>
 
 <!-- -->
 
--   **AppSensor 2.0 - Colin Watson** ([PDF](https://www.owasp.org/index.php/File:Owasplondon-colinwatson-appsensor-guide-v2.pdf))
+-   **AppSensor 2.0 - Colin Watson** ([PDF](assets/slides/Owasplondon-colinwatson-appsensor-guide-v2.pdf))
 
     The AppSensor Project defines the concept of application-specific real time attack detection and response. A new AppSensor Guide book has been written to document the cumulative knowledge of the project's contributors, to provide illustrative case studies, and most importantly to showcase several demonstration working implementations. In this presentation Colin Watson will summarise the concept, bring the topic up-to-date, explain alternative architectural models, discuss the newly published implementation guide, demonstrate application security dashboards, and explain the code and web services implementations that attendees will be able to use immediately in their own projects.
 
