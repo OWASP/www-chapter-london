@@ -16,8 +16,8 @@ tags: london
 Video recordings: [https://www.youtube.com/playlist?list=PLmfxTKOjvC_e8X_C9vj69ckFy2GJ8qi6j](https://www.youtube.com/playlist?list=PLmfxTKOjvC_e8X_C9vj69ckFy2GJ8qi6j)
 
 * Intro: Welcome and a brief update on OWASP Projects & Events from the OWASP London Chapter Leaders
-* Talk 1: "Securing DevOps: Where to Start and What to Measure?" - Stefania Chaplin
-* Talk 2: "Will FIDO Passkey help us to move on from Passwords?" - Dario Salice
+* Talk 1: "Securing DevOps: Where to Start and What to Measure?" - Stefania Chaplin([PDF](assets/slides/OWASPLondon20221117_Securing_DevOps_where_to_start_and_what_to_measure_Stefania_Chaplin.pdf))
+* Talk 2: "Will FIDO Passkey help us to move on from Passwords?" - Dario Salice([PDF](assets/slides/OWASPLondon20221117_Will_FIDO_Passkey_help_us_to_move_on_from_Passwords_Dario_Salice.pdf))
 
 Talk 1: "Securing DevOps: Where to Start and What to Measure?" - Stefania Chaplin
 
