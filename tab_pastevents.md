@@ -13,7 +13,7 @@ tags: london
 
 #### Thursday, 17th November 2022 (in-person/hybrid)
 
-Video recording: [https://www.youtube.com/playlist?list=PLmfxTKOjvC_e8X_C9vj69ckFy2GJ8qi6j]
+Video recordings: [https://www.youtube.com/playlist?list=PLmfxTKOjvC_e8X_C9vj69ckFy2GJ8qi6j](https://www.youtube.com/playlist?list=PLmfxTKOjvC_e8X_C9vj69ckFy2GJ8qi6j)
 
 * Intro: Welcome and a brief update on OWASP Projects & Events from the OWASP London Chapter Leaders
 * Talk 1: "Securing DevOps: Where to Start and What to Measure?" - Stefania Chaplin
@@ -27,7 +27,8 @@ Talk 2: "Will FIDO Passkey help us to move on from Passwords?" - Dario Salice
 
 Passwords are bad at protecting our digital assets and they make it harder for us to access them. Security: An estimated 22% of US consumers self-identify as having been hacked at least once. A hacked account sells for as little as $1. Access: Forgetting your password seems like merely an annoyance. However, it contributes to churn on consumer platforms and can make up 50% of corporate IT Support calls. All is not lost; Passkey is here to save the day. In this session, I’ll walk you through what passkey is, how it works, and how it can impact your churn and security goals.
 
-SPEAKERS: 
+**SPEAKERS:**
+
 Stefania Chaplin, Solutions Architect at Gitlab.
 
 Stefania’s experience as a Solutions Architect within Cybersecurity, DevSecOps and OSS governance means she's helped countless organisations understand and implement security throughout their SDLC. She is an active member of OWASP DevSlop, hosting their technical shows. When not at a computer, Stefania enjoys surfing, yoga and looking after all her tropical plants.
@@ -38,7 +39,7 @@ Dario Salice is a seasoned professional in the space of Telecommunications, Secu
 
 #### Thursday, 8th September 2022 (in-person/hybrid)
 
-Video recodrings: [https://www.youtube.com/watch?v=bDB1IvhtmWI](https://youtube.com/playlist?list=PLmfxTKOjvC_f91Ex8ZJfH56lO7GG-dyG4)
+Video recordrings: [[https://www.youtube.com/watch?v=bDB1IvhtmWI](https://youtube.com/playlist?list=PLmfxTKOjvC_f91Ex8ZJfH56lO7GG-dyG4)](https://youtube.com/playlist?list=PLmfxTKOjvC_f91Ex8ZJfH56lO7GG-dyG4)
 
 Lightning Talk: "Using Trivy and Falco to Detect Malware in a Kubernetes Environment" - Marco Mancini
 
@@ -51,7 +52,8 @@ Talk 2: "Pwning the CI Workflow and How to Prevent It "- Steve Giguere
 
 Our journey to open source and GitOps heaven has exposed new security challenges as our CI platforms are exposed to the outside world. The soft underbelly of our development pipeline is visible as much to willing contributors as it is malicious subversives looking for the keys to the backdoor. In this talk, we'll look at some known potential exploits to GitHub Actions workflows to show how simple misconfigurations or straight up bad practices can leave our supply chain wide open to attackers.
 
-SPEAKERS:
+**SPEAKERS:**
+
 Sonya Moisset (@SonyaMoisset)
 
 Sonya is a Senior Security Advocate at Snyk and a lifelong traveler who lived in the Middle-East, North Africa and Asia. Always looking for new challenges – she made a career change from International Business Consultant in Tunisia, Saudi Arabia and Singapore to Full Stack Software Engineer in South Korea to Cybersecurity in the United Kingdom. She is passionate about Open-Source, DevSecOps and Cloud Computing. She has been listed on the 2022 OpenUK Honours list. She is a mentor and a strong advocate for women in tech. She founded the initiatives Epic Women in Cyber and Epic Women in Tech to highlight amazing women in the industry and share their experiences and journey. The initiative won the Ally of the Year 2021 - People’s Choice award. She was also part of the Diversity & Inclusion Power List 2022 from Girlcode. Sonya is an ambassador at OpenUK, and Girlcode, a GitHub Star, a Lead mentor at CAPSLOCK and CyberGirls and a cybersecurity writer for FreeCodeCamp. She is a DevSecOps/Cloud Security advocate, a public speaker on the world tech scene, and an active member of the tech community in the UK. Her motto is #GetSecure, #BeSecure & #StaySecure.
@@ -66,7 +68,7 @@ Marco Mancini is a Security Engineer in the Threat Operations team at Thought Ma
 
 #### Tuesday, 10th May 2022 (in-person/hybrid)
 
-Video recodrings:  https://www.youtube.com/watch?v=n6EfyC9KUEk&list=PLmfxTKOjvC_dJI0sabzJmmmQzTs2eDu1u
+Video recordings:  https://www.youtube.com/watch?v=n6EfyC9KUEk&list=PLmfxTKOjvC_dJI0sabzJmmmQzTs2eDu1u
 
 Lightning Talk : "Software signing and verification with Sigstore" - Sherif Clinch
 Talk 1: " Introducing OpenCRE" - Spyros Gasteratos
@@ -74,7 +76,7 @@ Talk 2: "Gamification of Threat Modelling" - Grant Ongers
 
 #### Thursday, 10th March 2022 (online)
 
-Video recodrings:  https://www.youtube.com/watch?v=QV2JcwHpjeQ&list=PLmfxTKOjvC_c9CYu5tzmvreOQiqyu_Ai9
+Video recordings:  https://www.youtube.com/watch?v=QV2JcwHpjeQ&list=PLmfxTKOjvC_c9CYu5tzmvreOQiqyu_Ai9
 
 Talk 1 : "Not All SBOMs Are Created Equal" - Jeff Williams
 Talk 2 : "OWASP Dependency Track and CycloneDX SBOM Standard" - Steve Springett
@@ -100,7 +102,7 @@ Steve's passionate about helping organizations identify and reduce risk from the
 
 #### Thursday, 18th November 2021 (online)
 
-Video recodrings:
+Video recordings:
 https://www.youtube.com/watch?v=wS9SF2AT_co and https://www.youtube.com/watch?v=NZOeOmPIkCA
 
 
