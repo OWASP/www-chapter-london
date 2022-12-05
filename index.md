@@ -203,7 +203,7 @@ Next Meeting/Event(s)
 ---------------------
 
 [//]: # (Comment: When updating the next event info also update the next event tab)
-##### To Be Confirmed 
+
 
 OWASP London Chapter meetings are posted on our MeetUp Page:
 
