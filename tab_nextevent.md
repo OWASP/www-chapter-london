@@ -12,7 +12,13 @@ tags: london
 ## Next Meeting/Event(s)
 
 [//]: # (Comment: When updating the next event info also update the homepage)
-### To Be Confirmed
+
+#### Thursday, 15th December 2022 (in-person/hybrid)
+
+Registration: [https://www.eventbrite.co.uk/e/owasp-london-chapter-in-person-meetup-tickets-480818028667](https://www.eventbrite.co.uk/e/owasp-london-chapter-in-person-meetup-tickets-480818028667)
+
+---
+{% include chapter_events.html group=page.meetup-group %}
 
 ---
 Please follow OWASP London on [Twitter](https://twitter.com/owasplondon)/[Facebook](https://www.facebook.com/OWASPLondon)/[Meetup](https://www.meetup.com/OWASP-London/)/[EventBrite](https://www.eventbrite.co.uk/o/owasp-london-chapter-9790101329) or join our [Mailing List](https://groups.google.com/a/owasp.org/forum/#!forum/london-chapter) to be notified as soon as the next event date & location is announced
@@ -24,5 +30,3 @@ OWASP London Chapter upcoming events can be found on Meetup:
 
 ---
 
-
-{% include chapter_events.html group=page.meetup-group %}
