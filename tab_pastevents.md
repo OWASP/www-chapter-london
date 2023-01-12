@@ -10,6 +10,44 @@ tags: london
 ---
 
 ## Past Events
+#### Thursday, 15th December 2022 (in-person/hybrid)
+
+Talks Video Recordings: https://www.youtube.com/watch?v=nw6uR0glJKk&list=PLmfxTKOjvC_eZqQBBualRc55cMCDb4G12
+
+Live-Stream Recording: https://youtu.be/G9ZIeqC1Da8
+
+Venue Location: Thought Machine, 7 Herbrand St, London WC1N 1EX
+
+Nearest Tube: Russell Square (Piccadilly Line) - 2 min walk
+
+
+**TALKS**
+
+OWASP Introduction, Welcome and News - Sam Stepanyan, Sherif Mansour and Andra Lezza
+Welcome and a brief update on OWASP Projects & Events from the OWASP London Chapter Leaders
+
+
+Talk 1: "Preventing Subdomain Takeover with OWASP Domain Protect" - Paul Schwarzenberger [PDF]
+
+Paul Schwarzenberger, project leader of OWASP Domain Protect, describes how the OVO Energy Bug Bounty program led to the launch of a new OWASP project to prevent subdomain takeovers, and gives a live demonstration of detection of vulnerable domain records, followed by automated takeover.
+
+Talk 2: "The Security Tools Crash and the Next Generation of Cloud Native Platform" - Mark Curphey [PDF]
+
+Mark Curphey, founder of OWASP recently wrote an article called The Security Tools Crash is Coming that had a lot of praise from security practitioners and unsurprisingly met with some disdain from some security startup founders and venture capitalists. In this talk Mark will run through the key points of the article and then talk about what he believes in the next generation of tools meeting AppSec and CloudSec into interoperable cloud native platforms.
+
+Talk 3: OWASP 2023 - Listening Tour
+
+Mark Curphey was recently elected to the 2023 OWASP Board on a manifesto to modernize OWASP. He is on a tour of European chapters listening to feedback from members and chapter attendees about what they would like to see OWASP do. This session will be at the end of the night, so we can run over and continue the conversation in the pub
+
+**SPEAKERS**
+
+Paul Schwarzenberger (@paulschwarzen)
+
+Paul Schwarzenberger is a cloud security architect and DevSecOps specialist, using an agile DevSecOps approach to lead the implementation and migration of critical systems to public cloud. Paul has extensive experience leading a wide range of cyber security engagements for customers across sectors including UK Government and financial services. Paul is a speaker on Cloud Security and DevSecOps at conferences such as (ISC)2 Congress, fwd:cloudsec, Security BSides, DevSecCon, 44CON, Enterprise Cloud Computing, CRESTcon, DevSecOps London and now OWASP.
+
+Mark Curphey (@crashappsec), OWASP Founder
+
+Mark is the founder of OWASP, he is also founder and CEO of SourceClear (acquired by Veracode in 2018) and the co-founder of Open Raven (https://www.openraven.com), a data security company. Mark moved to the U.S. in 2000 to join Internet Security Systems (now a part of IBM), he also held roles including director of application security at Charles Schwab, VP of Professional Services at Foundstone, McAfee and lead the security tools team at Microsoft. Mark holds a Masters of Information Security from Royal Holloway University. After having lived for many years in Seattle and San Francisco Mark makes his return to Great Britain where he continues to work on his next big project. Mark is also an avid cyclist.
 
 #### Thursday, 17th November 2022 (in-person/hybrid)
 
