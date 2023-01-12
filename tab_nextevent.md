@@ -13,9 +13,7 @@ tags: london
 
 [//]: # (Comment: When updating the next event info also update the homepage)
 
-#### Thursday, 15th December 2022 (in-person/hybrid)
 
-Registration: [https://www.eventbrite.co.uk/e/owasp-london-chapter-in-person-meetup-tickets-480818028667](https://www.eventbrite.co.uk/e/owasp-london-chapter-in-person-meetup-tickets-480818028667)
 
 ---
 {% include chapter_events.html group=page.meetup-group %}
