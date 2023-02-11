@@ -12,13 +12,12 @@ tags: london
 ## Past Events
 #### Thursday, 15th December 2022 (in-person/hybrid)
 
-Talks Video Recordings: https://www.youtube.com/watch?v=nw6uR0glJKk&list=PLmfxTKOjvC_eZqQBBualRc55cMCDb4G12
+Video recordings: YouTube [playlist](https://www.youtube.com/playlist?list=PLmfxTKOjvC_eZqQBBualRc55cMCDb4G12) & [full live stream](https://youtu.be/G9ZIeqC1Da8)
 
-Live-Stream Recording: https://youtu.be/G9ZIeqC1Da8
-
-Venue Location: Thought Machine, 7 Herbrand St, London WC1N 1EX
-
-Nearest Tube: Russell Square (Piccadilly Line) - 2 min walk
+* Intro: Welcome and a brief update on OWASP Projects & Events from the OWASP London Chapter Leaders
+* Talk 1: "Preventing Subdomain Takeover with OWASP Domain Protect" - Paul Schwarzenberger 
+* Talk 2: "The Security Tools Crash and the Next Generation of Cloud Native Platform" - Mark Curphey 
+* OWASP 2023 - Listening Tour
 
 
 **TALKS**
@@ -51,7 +50,7 @@ Mark is the founder of OWASP, he is also founder and CEO of SourceClear (acquire
 
 #### Thursday, 17th November 2022 (in-person/hybrid)
 
-Video recordings: [https://www.youtube.com/playlist?list=PLmfxTKOjvC_e8X_C9vj69ckFy2GJ8qi6j](https://www.youtube.com/playlist?list=PLmfxTKOjvC_e8X_C9vj69ckFy2GJ8qi6j)
+Video recordings: YouTube [playlist](https://www.youtube.com/playlist?list=PLmfxTKOjvC_e8X_C9vj69ckFy2GJ8qi6j)
 
 * Intro: Welcome and a brief update on OWASP Projects & Events from the OWASP London Chapter Leaders
 * Talk 1: "Securing DevOps: Where to Start and What to Measure?" - Stefania Chaplin([PDF](assets/slides/OWASPLondon20221117_Securing_DevOps_where_to_start_and_what_to_measure_Stefania_Chaplin.pdf))
@@ -77,7 +76,7 @@ Dario Salice is a seasoned professional in the space of Telecommunications, Secu
 
 #### Thursday, 8th September 2022 (in-person/hybrid)
 
-Video recordrings: [[https://www.youtube.com/watch?v=bDB1IvhtmWI](https://youtube.com/playlist?list=PLmfxTKOjvC_f91Ex8ZJfH56lO7GG-dyG4)](https://youtube.com/playlist?list=PLmfxTKOjvC_f91Ex8ZJfH56lO7GG-dyG4)
+Video recordings: YouTube [playlist](https://youtube.com/playlist?list=PLmfxTKOjvC_f91Ex8ZJfH56lO7GG-dyG4)
 
 Lightning Talk: "Using Trivy and Falco to Detect Malware in a Kubernetes Environment" - Marco Mancini
 
@@ -106,7 +105,7 @@ Marco Mancini is a Security Engineer in the Threat Operations team at Thought Ma
 
 #### Tuesday, 10th May 2022 (in-person/hybrid)
 
-Video recordings:  https://www.youtube.com/watch?v=n6EfyC9KUEk&list=PLmfxTKOjvC_dJI0sabzJmmmQzTs2eDu1u
+Video recordings: YouTube [playlist](https://www.youtube.com/playlist?list=PLmfxTKOjvC_dJI0sabzJmmmQzTs2eDu1u)
 
 Lightning Talk : "Software signing and verification with Sigstore" - Sherif Clinch
 Talk 1: " Introducing OpenCRE" - Spyros Gasteratos
@@ -114,7 +113,7 @@ Talk 2: "Gamification of Threat Modelling" - Grant Ongers
 
 #### Thursday, 10th March 2022 (online)
 
-Video recordings:  https://www.youtube.com/watch?v=QV2JcwHpjeQ&list=PLmfxTKOjvC_c9CYu5tzmvreOQiqyu_Ai9
+Video recordings: YouTube [playlist](https://www.youtube.com/playlist?list=PLmfxTKOjvC_c9CYu5tzmvreOQiqyu_Ai9)
 
 Talk 1 : "Not All SBOMs Are Created Equal" - Jeff Williams
 Talk 2 : "OWASP Dependency Track and CycloneDX SBOM Standard" - Steve Springett
