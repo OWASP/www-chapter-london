@@ -189,8 +189,8 @@ The following is the list of organisations who have generously provided us with 
   </tr>
    <tr>
      <td><a href="https://monzo.com"><img src="assets/images/monzo.png" height="88" alt="monzologo"/></a></td>
-    <td>&nbsp</td>
-    <td>&nbsp</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
   </tr>
 </table>
 
