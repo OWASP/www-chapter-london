@@ -30,7 +30,7 @@ Nearest Tube: Liverpool Street - 4 min walk
 
 * Talk2: An AppSec Point of View On Synthetic Identities, Timur Yunusov
 
-Registration: https://www.eventbrite.co.uk/e/owasp-london-chapter-in-person-meetup-tickets-550592004507
+Registration: [https://www.eventbrite.co.uk/e/owasp-london-chapter-in-person-meetup-tickets-550592004507](https://www.eventbrite.co.uk/e/owasp-london-chapter-in-person-meetup-tickets-550592004507)
 
 
 
