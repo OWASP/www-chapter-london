@@ -25,29 +25,21 @@ The following are the list of OWASP Corporate Members who have generously aligne
 <table cellpadding="15" cellspacing="0">
 <tr>
 <td>
-
-<a href="https://www.veracode.com"><img src="assets/images/VeraCode_logo.png" alt="Veracode"/></a>
-
+    <a href="https://www.veracode.com"><img src="assets/images/VeraCode_logo.png" alt="Veracode"/></a>
 </td>
 <td>
-
-<a href="https://www.thoughtworks.com"><img src="assets/images/ThoughtWorks-logo.png" alt="ThougthWorks"/></a>
-
+    <a href="https://www.thoughtworks.com"><img src="assets/images/ThoughtWorks-logo.png" alt="ThougthWorks"/></a>
 </td>
 <td>
-  <a href="https://www.iedigital.com"><img src="assets/images/IEDigital-logo.png" alt="IEDigital"/></a>
-
-
+    <a href="https://www.iedigital.com"><img src="assets/images/IEDigital-logo.png" alt="IEDigital"/></a>
 </td>
 </tr>
 <tr>
 <td>
-  <a href="https://www.netsparkers.com"><img src="assets/images/NetSparker_Logo_New.jpg" alt="NetSparker_Logo"/></a>
-
+  <a href="https://www.invicti.com"><img src="assets/images/InvictiLogo.png" width="240" alt="Invicti_Logo"/></a>
 </td>
 <td>
-<img src="assets/images/GDS_LOGO_SMALL.jpg" alt=""/>
-
+  <a href="https://www.gdssecurity.com/"><img src="assets/images/GDS_LOGO_SMALL.jpg" alt=""/></a>
 </td>
 <td>
   <a href="https://www.synack.com"><img src="assets/images/Synack_Logo.jpg" alt="Synack Logo"/></a>
@@ -59,13 +51,11 @@ The following are the list of OWASP Corporate Members who have generously aligne
 </td>
 <td>
   <a href="https://www.hackerone.com"><img src="assets/images/HackerOneLogo.png" alt="HackerOneLogo.png"/></a>
-
 </td>
 <td>
   <a href="https://www.immuniweb.com"><img src="assets/images/ImmuniWebLogo.jpg" alt="ImmuniWebLogo.jpg"/></a>
 </td>
 </tr>
-
 <tr>
 <td>
   <a href="https://www.owadigital.co.uk"><img height="48" src="assets/images/owa_logo_2020.png" alt="OxfordWebApps"/></a>
@@ -88,7 +78,6 @@ The following are the list of OWASP Corporate Members who have generously aligne
    <td>
        <a href="https://www.kiuwan.com"><img src="assets/images/KiuwanLogoSmall.png" alt="KiuwanLogoSmall.png"/></a>
     </td>
-
 </tr>
   
   <tr>
@@ -101,8 +90,19 @@ The following are the list of OWASP Corporate Members who have generously aligne
    <td>
        <a href="https://zimperium.com"><img src="assets/images/zimperium-logo.png" width="240" alt="ZimperiumLogo"/></a>
     </td>
-
 </tr>
+ 
+<tr>
+    <td>
+       <a href="https://r2c.dev"><img src="assets/images/SemgrepLogo.png" width="240" alt="r2cLogo"/></a>
+    </td>
+   <td>
+      &nbsp;
+    </td>
+     <td>
+       &nbsp;
+    </td>
+  </tr>   
 </table>
 
 
@@ -185,9 +185,13 @@ The following is the list of organisations who have generously provided us with 
   <tr>
     <td><img src="assets/images/Revolut_White_BG-B-P0.5.png" alt="Revolutlogo"/></td>
     <td><img src="assets/images/Photobox_logo.jpg" alt="Photobox"/></td>
-    <td><img src="assets/images/TM_Logo_Black_200.png" alt="TM logo"/></td>
+    <td><a href="https://thoughtmachine.com"><img src="assets/images/TM_Logo_Black_200.png" alt="TM logo"/></a></td>
   </tr>
-  
+   <tr>
+     <td><a href="https://monzo.com"><img src="assets/images/monzo.png" height="88" alt="monzologo"/></a></td>
+    <td>&nbsp</td>
+    <td>&nbsp</td>
+  </tr>
 </table>
 
 Speaking at OWASP London Chapter Events
