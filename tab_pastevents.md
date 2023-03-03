@@ -10,6 +10,45 @@ tags: london
 ---
 
 ## Past Events
+
+#### Tuesday, 28 February 2023 (in-person/hybrid)
+
+Video recordings: YouTube [playlist](https://www.youtube.com/playlist?list=PLmfxTKOjvC_fWxt_SdCJ8Dw_k481ETm2Z) & [full live stream](https://www.youtube.com/watch?v=xtGHg3vegOE)
+
+* Intro: Welcome and a brief update on OWASP Projects & Events from the OWASP London Chapter Leaders
+* Lightning Talk: The Need for Data Security and Why It's Such a Neglected Part, Mike Andrews
+* Talk 1: What I Found When Modelling Threats In The Open (Source), Dan Conn
+* Talk 2: Synthetic Identities - An AppSec Point of View, Timur Yunusov
+
+**TALKS**
+
+Lightning Talk: The Need for Data Security and Why It's Such a Neglected Part, Mike Andrews
+
+We doing security wrong. We’re living in a construct where we chase vulnerabilities, patch-levels, configurations, etc. We chase around the unimportant because it’s what we’ve always done. It wasn’t wrong then, but times have changed. What if I told you there was another way, a way out of the chaos, a way to clear (most) of the alert-fatigue and focus on what is important. Today we need to be data-centric as that’s what attackers are after, and losing control of it gets CISOs fired – be it data-leaks, ransom-ware, or breaches of compliance/privacy. But we’re losing this battle because data is everywhere, so how does one decide what is or isn’t important?
+
+Talk 1: What I Found When Modelling Threats In The Open (Source), Dan Conn
+
+Secure development is hard. Throughout the entire development of an open source project, security needs to be top of mind due to a potential myriad threats. Some open source orgs are starting to ask for security matrices, and expect some threat modelling to have taken place, so that the threats of a system can be evaluated. This however, can be difficult. Considering the different use cases of a project that may be running in different architectures can be quite a struggle, combined with sometimes working with developers that may not be familiar with threat modelling in general. This talk will explore how to make threat modelling easier for open source developers through using open source tools such as OWASP Threat Dragon and Threagile, and where each is better suited than the other.
+
+Talk 2: Synthetic Identities - An AppSec Point of View, Timur Yunusov
+
+In the era of neobanks with no branches and broadly adopted eKYC standards, the entry barriers for cybercriminals are extremely low. How could FinTech win in this ongoing cat-and-mouse game? How criminals utilise gaps in workflows of the modern payment ecosystem? After looking at mobile applications and the API workflows of dozens of FinTech companies across Europe, the USA and Asia, I will provide real-world examples from both sides of the battle.
+
+**SPEAKERS**
+
+Mike Andrews(@ma)
+
+Mike Andrews is head of engineering and product at Open Raven – a VC funded startup in the data security space (and promises that this talk, in no way, is a product pitch!).  He’s previously held leadership roles at Oracle and Microsoft, joining security, engineering, and DevOps/SRE, but started out in academia researching programmer psychology and productivity, and “fell into” security via a strange convergence of bug reporting, government contracts, and early days of OWASP.  He’s the author of “How to break web software” – one of the first WebAppSec books way back in early 2000’s, and is still surprised that he’s receiving royalties off it.
+
+Dan Conn (@danjconn)
+
+Dan Conn likes to sit in the point between cyber security and development and over the past 10 years has worked as a developer in small startups, large corporates and many in between, catering for clients both public and private sector from SME size to enterprise. He has also had a strong interest in cybersecurity for just as long culminating in a postgraduate certificate in Advanced Security and Digital Forensics. Dan is now a Developer Advocate for Sonatype. When not coding, hacking, or talking about these things… you can find Dan running, skateboarding, DJ-ing or making music
+
+Timur Yunusov (@a66ot)
+
+Timur Yunusov, Payment security researcher, an application security expert with a focus on FinTech, and one of the Payment Village organisers. Some of Timur's research in the field of application security includes "Bruteforce of PHPSESSID" and "XML Out-Of-Band" shown at the BlackHat EU back in 2013 . Timur  has previously spoken at conferences such as BlackHat EU, BlackHat USA,  HackInTheBox, Nullcon, NoSuchCon, CanSecWest, Hack In Paris, ZeroNights, Positive Hack Days and at OWASP meetups.
+
+
 #### Thursday, 15th December 2022 (in-person/hybrid)
 
 Video recordings: YouTube [playlist](https://www.youtube.com/playlist?list=PLmfxTKOjvC_eZqQBBualRc55cMCDb4G12) & [full live stream](https://youtu.be/G9ZIeqC1Da8)
