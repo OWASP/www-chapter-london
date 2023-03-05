@@ -199,9 +199,7 @@ Speaking at OWASP London Chapter Events
 
 #### Call For Speakers
 
-Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP London Chapter events - please review and agree with the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail:
-
-`owasplondon (at) owasp.org`
+Call For Speakers is open - if you would like to present a talk at future OWASP London Chapter events - please review and agree with the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and submit your talk proposal here: [https://www.papercall.io/owasp-london](https://www.papercall.io/owasp-london)
 
 Next Meeting/Event(s)
 ---------------------
