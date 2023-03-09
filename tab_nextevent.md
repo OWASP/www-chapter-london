@@ -13,6 +13,10 @@ tags: london
 
 [//]: # (Comment: When updating the next event info also update the homepage)
 
+#### Tuesday, 29 March 2023 5:30pm (in-person)
+
+* OWASP London CTF - OWASP London Chapter is pleased to announce the next OWASP London Capture The Flag Tournament. Discover vulnerabilities, capture flags, win real prizes! 
+Register here: [https://www.eventbrite.co.uk/e/owasp-london-ctf-tournament-in-person-tickets-574787925157?aff=ws](https://www.eventbrite.co.uk/e/owasp-london-ctf-tournament-in-person-tickets-574787925157?aff=ws)
 
 ---
 Please follow OWASP London on [Twitter](https://twitter.com/owasplondon)/[Facebook](https://www.facebook.com/OWASPLondon)/[Meetup](https://www.meetup.com/OWASP-London/)/[EventBrite](https://www.eventbrite.co.uk/o/owasp-london-chapter-9790101329) or join our [Mailing List](https://groups.google.com/a/owasp.org/forum/#!forum/london-chapter) to be notified as soon as the next event date & location is announced
