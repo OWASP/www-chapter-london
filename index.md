@@ -97,7 +97,7 @@ The following are the list of OWASP Corporate Members who have generously aligne
        <a href="https://r2c.dev"><img src="assets/images/SemgrepLogo.png" width="240" alt="r2cLogo"/></a>
     </td>
    <td>
-      &nbsp;
+      <a href ="https://threatspike.com"><img src="assets/images/threatspikelogo.png" width="240" alt="r2cLogo"/></a>
     </td>
      <td>
        &nbsp;
