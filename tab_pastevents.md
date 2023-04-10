@@ -11,6 +11,13 @@ tags: london
 
 ## Past Events
 
+
+#### Tuesday, 29 March 2023 5:30pm (in-person)
+
+* OWASP London CTF - OWASP London Chapter is pleased to announce the next OWASP London Capture The Flag Tournament. Discover vulnerabilities, capture flags, win real prizes! 
+Register here: [https://www.eventbrite.co.uk/e/owasp-london-ctf-tournament-in-person-tickets-574787925157?aff=ws](https://www.eventbrite.co.uk/e/owasp-london-ctf-tournament-in-person-tickets-574787925157?aff=ws)
+
+
 #### Tuesday, 28 February 2023 (in-person/hybrid)
 
 Video recordings: YouTube [playlist](https://www.youtube.com/playlist?list=PLmfxTKOjvC_fWxt_SdCJ8Dw_k481ETm2Z) & [full live stream](https://www.youtube.com/watch?v=xtGHg3vegOE)
