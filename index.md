@@ -100,7 +100,7 @@ The following are the list of OWASP Corporate Members who have generously aligne
       <a href ="https://threatspike.com"><img src="assets/images/threatspikelogo.png" width="240" alt="r2cLogo"/></a>
     </td>
      <td>
-       &nbsp;
+       <a href ="https://apiiro.com)"><img src="assets/images/apiiro_logo.png" alt="apiiro_logo"/></a>
     </td>
   </tr>   
 </table>
