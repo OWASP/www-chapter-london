@@ -13,7 +13,7 @@ tags: london
 
 [//]: # (Comment: When updating the next event info also update the homepage)
 
-#### Tuesday, 30th may 2023 6:00pm (in-person)
+#### Tuesday, 30th May 2023 6:00pm (in-person)
 
 * OWASP London Chapter Meetup at Amazon London [IN-PERSON]. Details and registration:
 [https://www.eventbrite.co.uk/e/owasp-london-chapter-meetup-in-person-tickets-634995969037](https://www.eventbrite.co.uk/e/owasp-london-chapter-meetup-in-person-tickets-634995969037?aff=ws)
