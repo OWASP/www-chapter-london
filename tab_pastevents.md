@@ -20,7 +20,7 @@ Video recordings: YouTube [playlist](https://www.youtube.com/playlist?list=PLmfx
 Talks:
 
 * OWASP Introduction, Welcome and News - Sam Stepanyan
-* Talk 1: "Security Chaos Engineering: When and How You Should Break Your System" - Anais Urlichs [PDF]
+* Talk 1: "Security Chaos Engineering: When and How You Should Break Your System" - Anais Urlichs [[PDF]](assets/slides/Security_Chaos_Engineering_When_and_How_You_Should_Break_Your_System-Anais_Urlichs.pdf)
 * Talk 2: "It’s Not a Bug It’s Emergent Behaviour - Generative AI, Its Cybersecurity Risks and Benefits" - Sherif Mansour [link to Jupyter Notebook presentation](https://github.com/kerberosmansour/InfoSecOpenAIExamples/blob/main/Presentation/InfoSecTalkGenAI.ipynb)
 
 #### Tuesday, 29 March 2023 5:30pm (in-person)
