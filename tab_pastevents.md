@@ -10,7 +10,18 @@ tags: london
 ---
 
 ## Past Events
+#### Tuesday, 30th May 2023 6:00pm (in-person)
 
+Video recordings: YouTube [playlist](https://www.youtube.com/playlist?list=PLmfxTKOjvC_fQt0sdBPDUPXNajA4iQuW4)
+
+* OWASP London Chapter Meetup at Amazon London [IN-PERSON]. Details and registration:
+[https://www.eventbrite.co.uk/e/owasp-london-chapter-meetup-in-person-tickets-634995969037](https://www.eventbrite.co.uk/e/owasp-london-chapter-meetup-in-person-tickets-634995969037?aff=ws)
+
+Talks:
+
+* OWASP Introduction, Welcome and News - Sam Stepanyan
+* Talk 1: "Security Chaos Engineering: When and How You Should Break Your System" - Anais Urlichs [PDF]
+* Talk 2: "It’s Not a Bug It’s Emergent Behaviour - Generative AI, Its Cybersecurity Risks and Benefits" - Sherif Mansour [link to Jupyter Notebook presentation](https://github.com/kerberosmansour/InfoSecOpenAIExamples/blob/main/Presentation/InfoSecTalkGenAI.ipynb)
 
 #### Tuesday, 29 March 2023 5:30pm (in-person)
 
