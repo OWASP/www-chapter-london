@@ -189,7 +189,7 @@ The following is the list of organisations who have generously provided us with 
   </tr>
    <tr>
      <td><a href="https://monzo.com"><img src="assets/images/monzo.png" height="88" alt="monzologo"/></a></td>
-    <td>&nbsp;</td>
+     <td><a href="https://licelus.com"><img src="assets/images/licel_logo.png" height="88" alt="licellogo"/></a></td>
     <td>&nbsp;</td>
   </tr>
 </table>
