@@ -13,13 +13,14 @@ tags: london
 
 #### Thursday, 3rd August 2023 6:00pm (in-person)
 
-Video recordings: YouTube [playlist](https://www.youtube.com/playlist?list=PLmfxTKOjvC_dasBrh2wdnlx5nGhGYemoW)
+Video recordings: YouTube [playlist](https://www.youtube.com/playlist?list=PLmfxTKOjvC_dasBrh2wdnlx5nGhGYemoW) <br/>
+Live-Stream: [live-stream](https://youtube.com/live/4cP-Z1iyNyY?feature=share)
 
 * OWASP London Chapter Meetup [IN-PERSON] at Licel Corporation London offices in HereEast/Queen Elizabeth Olympic Park in Stratford. Details and registration: [https://www.eventbrite.co.uk/e/owasp-london-chapter-meetup-in-person-tickets-679671735457](https://www.eventbrite.co.uk/e/owasp-london-chapter-meetup-in-person-tickets-679671735457?aff=tw)
 
 TALKS:
 
-* 
+* OWASP Introduction, Welcome and News - Sam Stepanyan
 * "DevSecOps Maturity Model (DSOMM): From Theory to Enforcement " - Raz Probstein
 * "Doing More with Less: Practical Applications for Generative AI in Cybersecurity" - Matt Adams [[PDF]](assets/slides/OWASP_London-Doing_More_With_Less-Matt_Adams.pdf)
 
