@@ -13,9 +13,6 @@ tags: london
 
 [//]: # (Comment: When updating the next event info also update the homepage)
 
-#### Thursday, 3rd August 2023 6:00pm (in-person)
-
-* OWASP London Chapter Meetup [IN-PERSON] at Licel Corporation London offices in HereEast/Queen Elizabeth Olympic Park in Stratford. Details and registration: [https://www.eventbrite.co.uk/e/owasp-london-chapter-meetup-in-person-tickets-679671735457](https://www.eventbrite.co.uk/e/owasp-london-chapter-meetup-in-person-tickets-679671735457?aff=tw)
 
 
 ---
