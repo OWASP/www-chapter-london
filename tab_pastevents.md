@@ -10,6 +10,11 @@ tags: london
 ---
 
 ## Past Events
+#### Tuesday, 24th October 2023 6:00pm (in-person)
+
+* OWASP London Chapter Secure Coding Tournament at Monzo [IN-PERSON]. Details and registration: 
+
+[https://www.meetup.com/OWASP-London/events/296523070](https://www.meetup.com/OWASP-London/events/296523070)  
 
 #### Thursday, 3rd August 2023 6:00pm (in-person)
 
