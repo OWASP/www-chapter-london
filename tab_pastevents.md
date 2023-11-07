@@ -26,7 +26,7 @@ Live-Stream: [live-stream](https://youtube.com/live/4cP-Z1iyNyY?feature=share)
 TALKS:
 
 * OWASP Introduction, Welcome and News - Sam Stepanyan
-* "DevSecOps Maturity Model (DSOMM): From Theory to Enforcement " - Raz Probstein [[PDF]](/assets/slides/DSOMM_from_Theory_to_Enforcement_-_Raz_Probstein.pdf)
+* "DevSecOps Maturity Model (DSOMM): From Theory to Enforcement " - Raz Probstein [[PDF]](assets/slides/DSOMM_from_Theory_to_Enforcement_-_Raz_Probstein.pdf)
 * "Doing More with Less: Practical Applications for Generative AI in Cybersecurity" - Matt Adams [[PDF]](assets/slides/OWASP_London-Doing_More_With_Less-Matt_Adams.pdf)
 
 
