@@ -10,6 +10,37 @@ tags: london
 ---
 
 ## Past Events
+
+#### Thursday, 16th November 2023 (in-person/hybrid)
+
+Video recordings: YouTube [playlist](https://www.youtube.com/watch?v=G6cq18SHaAQ&list=PLmfxTKOjvC_diipuUyvrK0JfdbB1DyH8U) & [full live stream](https://www.youtube.com/watch?v=EVl6a_MW4VI)
+
+**Talks**
+
+* Into:  Welcome and a brief update on OWASP Projects & Conferences -  Sam Stepanyan
+* Talk 1: "Introduction to OWASP depscan - the SCA tool that is built to forget" - Prabhu Subramanian
+* Talk 2: "ChatGPT Tutorial for Developers - 10X your AWS Security Skills" - Ashish Rajan
+
+Talk 1:  "Introduction to OWASP depscan - the SCA tool that is built to forget" - Prabhu Subramanian
+
+Software composition analysis tools, both commercial and open source, have some problems. They are too noisy, constantly distracting developers and AppSec with needless pull requests and non-actionable alerts. In this talk, we introduce OWASP depscan, the SCA tool that is purpose-built to cut the noise, make security actionable, and help dev teams forget the tool even exists in their CI pipeline.
+
+Talk 2: "ChatGPT Tutorial for Developers - 10X your AWS Security Skills" - Ashish Rajan
+
+This talk will go through the foundational cloud security components of deploying AWS with security at scale traditionally. Then we will attempt the same with ChatGPT for those who are perhaps new to AWS but would like the new way of learning cloud security
+
+**Speakers**
+
+Prabhu Subramanian (@_prbh)
+
+Prabhu Subramanian is the author and OWASP leader behind projects such as CycloneDX Generator (cdxgen) and depscan. He specializes in Supply Chain Security and offers consultancy to global clients via his company, AppThreat Ltd.
+
+Ashish Rajan (@hashishrajan)
+
+Ashish Rajan is the host of the wildly popular Cloud Security Podcast, a CISO, CyberSecurity Influencer, a SANS Trainer for Cloud Security and an outspoken opinion leader on all things Cloud Security & DevSecOps.
+
+He is a frequent contributor on topics related to public cloud transformation, DevSecOps, Future Tech and the associated security challenges for practitioners and CISOs.
+
 #### Tuesday, 24th October 2023 6:00pm (in-person)
 
 * OWASP London Chapter Secure Coding Tournament at Monzo [IN-PERSON]. Details and registration: 
