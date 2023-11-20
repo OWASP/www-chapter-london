@@ -15,7 +15,7 @@ tags: london
 
 * OWASP London Chapter Meetup at Thought Machine HQ [IN-PERSON]. Details and registration: 
 
-https://www.meetup.com/owasp-london/events/297445289/
+[https://www.meetup.com/owasp-london/events/297445289/](https://www.meetup.com/owasp-london/events/297445289/)
 
 [//]: # (Comment: When updating the next event info also update the homepage)
 
