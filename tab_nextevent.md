@@ -11,6 +11,12 @@ tags: london
 
 ## Next Meeting/Event(s)
 
+#### Tuesday, 5th December 2023 6:00pm (in-person)
+
+* OWASP London Chapter Meetup at Thought Machine HQ [IN-PERSON]. Details and registration: 
+
+https://www.meetup.com/owasp-london/events/297445289/
+
 [//]: # (Comment: When updating the next event info also update the homepage)
 
 ---
