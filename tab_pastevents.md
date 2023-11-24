@@ -18,8 +18,8 @@ Video recordings: YouTube [playlist](https://www.youtube.com/watch?v=G6cq18SHaAQ
 **Talks**
 
 * Into:  Welcome and a brief update on OWASP Projects & Conferences -  Sam Stepanyan
-* Talk 1: "Introduction to OWASP depscan - the SCA tool that is built to forget" - Prabhu Subramanian
-* Talk 2: "ChatGPT Tutorial for Developers - 10X your AWS Security Skills" - Ashish Rajan
+* Talk 1: "Introduction to OWASP depscan - the SCA tool that is built to forget" - Prabhu Subramanian [[PDF]](https://github.com/OWASP/www-chapter-london/blob/master/assets/slides/Prabhu_Subramanian_Introduction_to_OWASP_dep-scan.pdf) [[Video]](https://www.youtube.com/watch?v=G6cq18SHaAQ)
+* Talk 2: "ChatGPT Tutorial for Developers - 10X your AWS Security Skills" - Ashish Rajan [[PDF]](https://github.com/OWASP/www-chapter-london/blob/master/assets/slides/Ashish_Rajan-ChatGPT_Tutorial_for_Developers_-_10X_your_AWS_Security_Skills.pdf) [[Video]](https://www.youtube.com/watch?v=6X81G2Wl7oc) 
 
 Talk 1:  "Introduction to OWASP depscan - the SCA tool that is built to forget" - Prabhu Subramanian
 
@@ -31,11 +31,11 @@ This talk will go through the foundational cloud security components of deployin
 
 **Speakers**
 
-Prabhu Subramanian (@_prbh)
+Prabhu Subramanian [@_prbh](https://twitter.com/_prbh)
 
 Prabhu Subramanian is the author and OWASP leader behind projects such as CycloneDX Generator (cdxgen) and depscan. He specializes in Supply Chain Security and offers consultancy to global clients via his company, AppThreat Ltd.
 
-Ashish Rajan (@hashishrajan)
+Ashish Rajan [@hashishrajan](https://twitter.com/hashishrajan)
 
 Ashish Rajan is the host of the wildly popular Cloud Security Podcast, a CISO, CyberSecurity Influencer, a SANS Trainer for Cloud Security and an outspoken opinion leader on all things Cloud Security & DevSecOps.
 
