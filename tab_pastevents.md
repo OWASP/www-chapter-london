@@ -11,6 +11,45 @@ tags: london
 
 ## Past Events
 
+#### Tuesday, 5th December 2023 (in-person/hybrid)
+
+Video recordings: YouTube [playlist](https://www.youtube.com/playlist?list=PLmfxTKOjvC_eXzdKNaSPOE8F-Lxl0nTHB) & [full live stream](https://www.youtube.com/watch?v=teLAKO31j7c)
+
+**TALKS**
+
+* OWASP Introduction, Welcome and News - Sam Stepanyan
+* Talk 1: "E2E Detection Testing" - George Gilligan
+* Talk 2: "5 Open Source Security Tools All Developers Should Know About" - Raz Probstein
+* Talk 3: "I Will IDOR Myself In" - Vangelis Stykas
+
+
+Talk 1: "E2E Detection Testing" - George Gilligan
+
+How do you make sure your detections work in a cloud native organisation? Software engineers have integration tests, reliability engineers have chaos engineering frameworks. Detection engineers lack an equivalent standardised approach to E2E testing. A natural approach is a binary that generates a suspicious event, validates that a suitable alert is generated in your SIEM, closes it, and reports the result. An open source Datadog tool named Threatest does just this. We are working on extending this to work with Elasticsearch, with the hope of automating a huge portion of the work of the red team, and providing constant validation for our detections.
+
+Talk 2: "5 Open Source Security Tools All Developers Should Know About" - Raz Probstein
+
+The minimum viable security (MVS) approach, enables us to easily bake security into our config files, apps, and CI/CD processes with a few simple controls - and the great part? It’s easily achievable through open-source tooling. In this talk we will focus on five critical security controls that will be integrated as part of the CI/CD pipeline by leveraging some excellent open source tools in addition to custom controls to ensure proper enforcement of MFA via Github Security. These controls will provide a foundational framework for securing your applications from the first line of code, which will make it possible to continuously iterate and evolve your security maturity all the way through advanced layers of security that come with time, as well as increased experience with your deployments, stacks, and security posture. Code examples & demos will be showcased as part of this session.
+
+Talk 3: "I Will IDOR Myself In" - Vangelis Stykas
+
+How could attackers gain control of hundreds of million devices? In this talk Vangelis explains how attackers can exploit a series of simple, yet critical API flaws that are typical “rush to market” flaws which allow an attacker to control and even use them as an initial foothold in millions of networks. Devices vary from routers to alarms and car chargers. It seems that the era of “central platform” handling that solves a variety of problems (like port forwarding) backfired by re-introducing a number of vulnerabilities that were thought to be long gone.
+
+**SPEAKERS**
+
+George Gilligan ([@ggilligan12](https://twitter.com/_prbh))
+
+George Gilligan is a security engineer at Thought Machine, where his work includes securing Kubernetes clusters, container security, intrusion detection, security testing, and implementing security policies. George participates in various CTF competitions and his CTF achievements include the Deloitte CTF Qualifier, Scottish Universities Cybersecurity Challenge and Hack Harvard 2018.
+George holds an Offensive Security Certified Professional (OSCP) certification and a BSc (Honours) degree in Computer Science and Mathematics from the University of Edinburgh.
+
+Raz Probstein ([@RazProbstein](https://twitter.com/RazProbstein))
+
+Raz comes with years of experience in both leadership and technology, having served not only as Young Ambassador to the state of Israel, as well as headhunted and selected as Young Researcher at the prestigious Weizmann Institute for multi-disciplinary scientific research. Today she serves as a Solution Engineer at Jit, coming to the role with years of experience as a FullStack Engineer and years of experience in a diversity of programming languages from Python, to Javascript and C/C#, from the elite IDF unit 81.
+
+Vangelis Stykas ([@evstykas](https://twitter.com/evstykas))
+
+Vangelis is a Chief Technology Officer at Atropos, and during his free time, Vangelis is helping start-ups secure themselves on the internet.
+
 #### Thursday, 16th November 2023 (in-person/hybrid)
 
 Video recordings: YouTube [playlist](https://www.youtube.com/watch?v=G6cq18SHaAQ&list=PLmfxTKOjvC_diipuUyvrK0JfdbB1DyH8U) & [full live stream](https://www.youtube.com/watch?v=EVl6a_MW4VI)
