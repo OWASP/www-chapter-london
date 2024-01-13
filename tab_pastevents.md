@@ -11,6 +11,48 @@ tags: london
 
 ## Past Events
 
+#### Thursday, 11th January 2024 6:00pm (in-person/hybrid)
+
+* OWASP London Chapter Meetup at Just Eat [IN-PERSON]. Details and registration:
+
+Video recordings: YouTube [playlist](https://www.youtube.com/playlist?list=PLmfxTKOjvC_dxpZBXuDe5DGFjRVngmDLx) & [full live stream](https://www.youtube.com/watch?v=ktdMBnUkTd4)
+
+**TALKS**
+* OWASP Introduction, Welcome and News - Sam Stepanyan, Sherif Mansour and Andra Lezza
+* Talk 1: "A Data-Led Approach to Cybersecurity" - Disha Mukherjee
+* Talk 2: "DevSecOps Worst Practices" - Tanya Janca
+* Talk 3: "How To Write Insecure Code and Other Stories" - Shruti Kulkarni
+
+
+
+Talk 1: "A Data-Led Approach to Cybersecurity" - Disha Mukherjee
+
+ Come along on a journey as we explore the transformative power of big data in the realm of cybersecurity. We'll dive into the data deluge, the might of data analytics in sniffing out threats, and the crucial role of real-time monitoring. Learn how a data-focused approach to security can revolutionize your defenses, from harnessing advanced analytics to envisioning the future of AI in cybersecurity. Get set to unlock the potential of big data in strengthening your systems and reducing risks. Together, let's boost security with data and chart a path towards enhanced protection against ever-evolving cyber threats.
+
+Talk 2: "DevSecOps Worst Practices" - Tanya Janca
+
+ Quite often when we read best practices we are told ‘what’ to do, but not the ‘why’. When we are told to ensure there are no false positives in the pipeline, the reason seems obvious, but not every part of DevOps is that intuitive, and not all ‘best practices’ make sense on first blush. Let’s explore tried, tested, and failed methods, and then flip them on their head, so we know not only what to do to avoid them, but also why it is important to do so, with these DevSecOps WORST practices.
+
+Talk 3: "How To Write Insecure Code and Other Stories" - Shruti Kulkarni
+
+ We live in a "speed-to-market" era. Including security controls in applications sometimes may be considered an overhead. However, if security controls are not added to applications during development, it may be challenging to add them later on. In this presentation, we will see how code can be written insecurely and really how simple it is to include the required security controls in the application.
+
+
+**SPEAKERS**
+
+Disha Mukherjee ([@DishaMukherjee](https://github.com/DishaMukherjee/))
+
+Disha is a Data Engineer on the Information Security Team at Just Eat Takeaway. Her job is all about designing, developing, and maintaining efficient data pipelines that help us make informed decisions about all things security-related.
+
+Tanya Janca ([@shehackspurple](https://twitter.com/shehackspurple))
+
+Tanya Janca, also known as SheHacksPurple, is the best-selling author of ‘Alice and Bob Learn Application Security’. She is also the founder of "We Hack Purple", an online learning community that revolves around teaching everyone to create secure software. Tanya has been coding and working in IT for over twenty five years, won countless awards, and has been everywhere from public service to tech giants, writing software, leading communities, founding companies and ‘securing all the things’. She is an award-winning public speaker, active blogger & podcaster and has delivered hundreds of talks on 6 continents. Tanya values diversity, inclusion, and kindness, which shines through in her countless initiatives. Advisor: Nord VPN, Aiya Corp Faculty: IANs ResearchFounder: We Hack Purple, OWASP DevSlop, #CyberMentoringMonday, WoSEC
+
+Shruti Kulkarni ([@shruti-s-kulkarni](https://github.com/Shruti-s-kulkarni))
+
+Shruti is a cyber security / enterprise security architect with experience in ISO27001, PCI-DSS, policies, standards, security tools, threat modelling, risk assessments. Shruti works on security strategies and collaborates with cross-functional groups to implement information security controls in software development life-cycle, service operations, service delivery such that security controls support business requirements.
+
+
 #### Tuesday, 5th December 2023 (in-person/hybrid)
 
 Video recordings: YouTube [playlist](https://www.youtube.com/playlist?list=PLmfxTKOjvC_eXzdKNaSPOE8F-Lxl0nTHB) & [full live stream](https://www.youtube.com/watch?v=teLAKO31j7c)
