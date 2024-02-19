@@ -194,6 +194,8 @@ The following is the list of organisations who have generously provided us with 
   </tr>
   <tr>
      <td><a href="https://www.sage.com/en-gb/"><img src="assets/images/Sage-logo_svg.svg" height="88" alt="sagelogo"/></a></td>
+      <td></td>
+      <td></td>
   </tr>
 </table>
 
