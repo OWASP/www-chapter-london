@@ -11,6 +11,24 @@ tags: london
 
 ## Past Events
 
+#### Thursday, 22nd February 2024 5:00pm (in-person/hybrid)
+
+* OWASP London 20th Anniversary Chapter Meetup at Google London [IN-PERSON]. Details and registration:
+
+[https://rsvp.withgoogle.com/events/20th-anniversary-owasp-london-google](https://rsvp.withgoogle.com/events/20th-anniversary-owasp-london-google)
+
+Video recordings: YouTube [playlist](https://www.youtube.com/playlist?list=PLmfxTKOjvC_dPlwx8OzwsbUoCsqtZKs5o) & [full live stream](https://www.youtube.com/watch?v=SbAVBQODDR0)
+
+
+**TALKS:**
+
+
+* OWASP Welcome & Introduction - Andra Lezza, Sam Stepanyan, Sherif Mansour
+* Session 1: "Google approach to remediating bug classes" - Harshvardhan Sharma
+* Session 2: "ModSecurity 22 Years Later: Success and Failure" - Ivan Ristic
+* Session 3: "It's 2024 and, with GenAI, we can finally make AppSec work" - Dinis Cruz
+* Session 4: "Twenty Years - So we've solved AppSec issues right?" - Daniel Cuthbert
+
 #### Thursday, 11th January 2024 6:00pm (in-person/hybrid)
 
 * OWASP London Chapter Meetup at Just Eat [IN-PERSON]. Details and registration:
