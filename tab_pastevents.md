@@ -11,6 +11,27 @@ tags: london
 
 ## Past Events
 
+#### Thursday, 18th April 2024 6:00pm (in-person/hybrid)
+
+* OWASP London Chapter Meetup at Thought Machnie HQ, London [IN-PERSON]. 
+
+Video recordings: YouTube [playlist](https://youtube.com/playlist?list=PLmfxTKOjvC_cnTCU1_TLc8Xu3q2UOaxRY&si=eUp7g73v-WITqX7n) & [full live stream](https://www.youtube.com/watch?v=A8ckEyJ2XIc)
+
+
+
+**TALKS:**
+
+* "SBOMS and why they can help make your software more secure" - Anthony Harrison
+* “The Risks of Blind Trust in Code from Strangers” - Tal Folkman
+* "Decoding Software Composition Analysis (SCA): Unveiling Pain Points" - Kaiwen Jiang [[PDF]](https://github.com/OWASP/www-chapter-london/blob/master/assets/slides/Decoding_Software_Composition_Analysis_SCA_-_Unveiling_Pain_Points%20_in_SCA_-_Kaiwen_Jiang.pdf) | [[video]](https://www.youtube.com/watch?v=QhrsMRi5QkE)
+
+**REGISTRATION:**
+
+You can register to attend this event here:
+
+[https://www.meetup.com/owasp-london/events/300319331](https://www.meetup.com/owasp-london/events/300319331)
+
+
 #### Thursday, 22nd February 2024 5:00pm (in-person/hybrid)
 
 * OWASP London 20th Anniversary Chapter Meetup at Google London [IN-PERSON]. Details and registration:
