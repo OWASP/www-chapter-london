@@ -10,23 +10,6 @@ tags: london
 ---
 
 ## Next Meeting/Event(s)
-#### Thursday, 18th April 2024 6:00pm (in-person/hybrid)
-
-* OWASP London Chapter Meetup at Thought Machnie HQ, London [IN-PERSON]. 
-
-**TALKS:**
-
-
-* “The Risks of Blind Trust in Code from Strangers” - Tal Folkman
-* "SBOMS and why they can help make your software more secure" - Anthony Harrison
-* "Decoding Software Composition Analysis (SCA): Unveiling Pain Points - Kaiwen Jiang
-
-**REGISTRATION:**
-
-You can register to attend this event here:
-
-[https://www.meetup.com/owasp-london/events/300319331](https://www.meetup.com/owasp-london/events/300319331)
-
 
 [//]: # (Comment: When updating the next event info also update the homepage)
 
