@@ -183,14 +183,14 @@ The following is the list of organisations who have generously provided us with 
 </td>
 </tr>
   <tr>
-    <td><img src="assets/images/Revolut_White_BG-B-P0.5.png" alt="Revolutlogo"/></td>
+    <td><a href="https://revolut.com"><img src="assets/images/Revolut_White_BG-B-P0.5.png" alt="Revolutlogo"/></a></td>
     <td><img src="assets/images/Photobox_logo.jpg" alt="Photobox"/></td>
-    <td><a href="https://thoughtmachine.com"><img src="assets/images/TM_Logo_Black_200.png" alt="TM logo"/></a></td>
+    <td><a href="https://thoughtmachine.net"><img src="assets/images/TM_Logo_Black_200.png" alt="TM logo"/></a></td>
   </tr>
    <tr>
      <td><a href="https://monzo.com"><img src="assets/images/monzo.png" height="88" alt="monzologo"/></a></td>
      <td><a href="https://licelus.com"><img src="assets/images/licel_logo.png" height="88" alt="licellogo"/></a></td>
-     <td><a href="https://tiktok"><img src="assets/images/tiktok_logo.png" alt="tiktok_logo"/></a></td>
+     <td><a href="https://tiktok.com"><img src="assets/images/tiktok_logo.png" alt="tiktok_logo"/></a></td>
   </tr>
   <tr>
       <td><a href="https://www.checkmarx.com/"><img src="assets/images/Checkmarx_Logo.jpg" width="200" alt="checkmarxlogo"/></a></td>
