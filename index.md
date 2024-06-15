@@ -102,7 +102,18 @@ The following are the list of OWASP Corporate Members who have generously aligne
      <td>
        <a href ="https://apiiro.com)"><img src="assets/images/apiiro_logo.png" alt="apiiro_logo"/></a>
     </td>
-  </tr>   
+  </tr>
+  <tr>
+      <td>
+          <a href="https://root.io"><img src="assets/images/rootio_logo.png"  alt="root.io_logo"/></a>
+      </td>
+      <td>
+          &nbsp;
+      </td>
+      <td>
+          &nbsp;
+      </td>
+  </tr>
 </table>
 
 
