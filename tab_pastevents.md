@@ -11,6 +11,25 @@ tags: london
 
 ## Past Events
 
+#### Thursday, 31st October 2024 6:00pm (in-person/hybrid)
+
+* OWASP London Chapter [HALLOWEEN] Meetup 
+
+Video recordings: YouTube [playlist](https://youtube.com/playlist?list=PLmfxTKOjvC_cCzhQEq3UDcBkhrbDqBKjp) & [full live stream](https://www.youtube.com/watch?v=LU7PjdDaaB0)
+
+
+**TALKS:**
+
+* "AI and AppSec: Are We Finally on the Verge of the Big Breakthrough" - Petra Vukmirovic [[video]](https://www.youtube.com/watch?v=F4Ptd8t6ttU)
+* "Proactive Risk Detection at the Design Stage" - Ella Bor [[video]](https://youtu.be/ptebU_QDIwY)
+* "Strengthening AppSec Efforts" - Jon McCoy [[video]](https://www.youtube.com/watch?v=z1IExZ2rSeU)
+
+**REGISTRATION:**
+
+You can register to attend this event here:
+
+[https://www.meetup.com/owasp-london/events/304059146](https://www.meetup.com/owasp-london/events/304059146)
+
 #### Thursday, 18th April 2024 6:00pm (in-person/hybrid)
 
 * OWASP London Chapter Meetup at Thought Machnie HQ, London [IN-PERSON]. 
