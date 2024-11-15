@@ -15,7 +15,14 @@ tags: london
 
 #### Monday, 25th November 2024 6:00pm (in-person/hybrid)
 
-* OWASP London Chapter Meetup 
+* OWASP London Chapter Meetup
+
+**This event is kindly hosted by Civo Tech Junction and sponsored by Security Compass. There is limited seating available for in-person attendees. Registration required.**
+
+**This event will be live-streamed on YouTube.** 
+
+**Recordings will be available on the OWASP London YouTube channel.** 
+
 
 Register to attend here: [https://www.meetup.com/owasp-london/events/304531909](https://www.meetup.com/owasp-london/events/304531909)
 
