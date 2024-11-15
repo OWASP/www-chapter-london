@@ -23,6 +23,12 @@ tags: london
 
 **Recordings will be available on the OWASP London YouTube channel.** 
 
+**Venue Location**: Civo Tech Junction, First Floor, 32-37 Cowper Street, London, EC2A 4AW 
+
+**Nearest Tube:** Old Street (Northern Line), Cowper Street exit - 1 min walk 
+
+**Doors Open at 6pm** for registration, pizza, drinks and networking. The talks start at 6:30pm (we start on time!).
+
 
 Register to attend here: [https://www.meetup.com/owasp-london/events/304531909](https://www.meetup.com/owasp-london/events/304531909)
 
