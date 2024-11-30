@@ -10,10 +10,27 @@ tags: london
 ---
 
 ## Past Events
+#### Monday, 25th November 2024 6:00pm (in-person/hybrid)
+
+* OWASP London Chapter Meetup
+
+This event was kindly hosted by Civo Tech Junction and sponsored by Security Compass.
+
+Video recordings: YouTube [playlist](https://www.youtube.com/playlist?list=PLmfxTKOjvC_c8gSgVjpVDS5QMC0RnlbFZ) & [full live stream](https://www.youtube.com/watch?v=MhQhKa38Ea4)
+
+**TALKS:**
+
+* "Security by Design, Not Injection" – Trevor Young
+* "OWASP Depscan v6 - The SCA Tool For Agile Builders, Creators, And Doers" - Prabhu Subramanian
+* "I know what you did last summer" - Shruti Kulkarni [[video]](https://youtu.be/ZT5ruU74gcM)
+
+Register to attend here: [https://www.meetup.com/owasp-london/events/304531909](https://www.meetup.com/owasp-london/events/304531909)
 
 #### Thursday, 31st October 2024 6:00pm (in-person/hybrid)
 
-* OWASP London Chapter [HALLOWEEN] Meetup 
+* OWASP London Chapter [HALLOWEEN] Meetup
+  
+This event was hosted by Civo Tech Junction and sponsored by Apiiro.
 
 Video recordings: YouTube [playlist](https://youtube.com/playlist?list=PLmfxTKOjvC_cCzhQEq3UDcBkhrbDqBKjp) & [full live stream](https://www.youtube.com/watch?v=LU7PjdDaaB0)
 
