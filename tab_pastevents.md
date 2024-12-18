@@ -20,8 +20,8 @@ Video recordings: YouTube [playlist](https://www.youtube.com/playlist?list=PLmfx
 
 **TALKS:**
 
-* "Security by Design, Not Injection" – Trevor Young
-* "OWASP Depscan v6 - The SCA Tool For Agile Builders, Creators, And Doers" - Prabhu Subramanian
+* "Security by Design, Not Injection" – Trevor Young [[video]](https://youtu.be/KCZfJ-60kWE)
+* "OWASP Depscan v6 - The SCA Tool For Agile Builders, Creators, And Doers" - Prabhu Subramanian [[video]](https://www.youtube.com/watch?v=J6si5EUVNaw)
 * "I know what you did last summer" - Shruti Kulkarni [[video]](https://youtu.be/ZT5ruU74gcM)
 
 Register to attend here: [https://www.meetup.com/owasp-london/events/304531909](https://www.meetup.com/owasp-london/events/304531909)
