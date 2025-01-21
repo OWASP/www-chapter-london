@@ -10,6 +10,26 @@ tags: london
 ---
 
 ## Past Events
+
+#### Wednesday, 15th January 2025 6:00pm (in-person/hybrid)
+
+* OWASP London Chapter Meetup
+
+This event was  kindly hosted a by JustEat Technolog and sponsored by Smithy.Security
+
+
+Video recordings: YouTube [playlist](https://www.youtube.com/playlist?list=PLmfxTKOjvC_eiJczcNUsQElSvErnOMkYL) & [full live stream](https://youtube.com/live/KQglFw5AgcM?feature=share)
+
+**TALKS:**
+
+* "Go Hack Yourself: API Hacking for Beginners" - Dr Katie Paxton
+* "Maturing Your Application Security Program" - Tanya Janca
+* "The news is that 2025 is the year of Agentic AI, but what IS Agentic AI?" - Spyros Gasteratos (Lightning Talk)
+
+
+Registration/details: [https://www.meetup.com/owasp-london/events/305137055/](https://www.meetup.com/owasp-london/events/305137055/)
+
+
 #### Monday, 25th November 2024 6:00pm (in-person/hybrid)
 
 * OWASP London Chapter Meetup
