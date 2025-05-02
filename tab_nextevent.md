@@ -13,26 +13,14 @@ tags: london
 
 [//]: # (Comment: When updating the next event info also update the homepage)
 
-#### Wednesday, 23 April 2025 5:30pm (in-person/hybrid)
-
-* OWASP London Chapter Meetup at Olympia London
-
-The next OWASP London Chapter in-person meetup will take place on Wednesday, 23 April 2025. Doors open at 5:30 PM, and the talks will start at 6:00 PM (please note the earlier start time than usual due to venue restrictions).
-
-This event will be held in the Keynote Theatre at Olympia London, in partnership with the UK Cyber Week Conference & Expo, which takes place at Olympia on 23–24 April.
-
-
-**TALKS:**
-
-* "Semantic OWASP: Leveraging GenAI and Graphs to Customise and Scale Security Knowledge" – Dinis Cruz
-* "Securing Apps and APIs in Production: A Practical Approach to Runtime Application Security" – John Wood & Aurélien Svevi
+#### Monday. 19 May 2025 6:00pm (in-person/hybrid)
+The next OWASP London Chapter in-person meetup will take place on Monday, 19th May 2025. Doors open at 6:00 PM, and the talks will start at 6:30 PM
 
 **REGISTRATION/DETAILS:**
 
 Register to attend the event here:
 
-[https://www.eventbrite.co.uk/e/owasp-london-chapter-meetup-at-olympia-london-tickets-1314471281989](https://www.eventbrite.co.uk/e/owasp-london-chapter-meetup-at-olympia-london-tickets-1314471281989?aff=ml)
-
+https://www.meetup.com/owasp-london/events/307603231/
 
 
 ---
