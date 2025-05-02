@@ -13,14 +13,14 @@ tags: london
 
 [//]: # (Comment: When updating the next event info also update the homepage)
 
-#### Monday. 19 May 2025 6:00pm (in-person/hybrid)
+#### Monday, 19 May 2025 6:00pm (in-person/hybrid)
 The next OWASP London Chapter in-person meetup will take place on Monday, 19th May 2025. Doors open at 6:00 PM, and the talks will start at 6:30 PM
 
 **REGISTRATION/DETAILS:**
 
 Register to attend the event here:
 
-https://www.meetup.com/owasp-london/events/307603231/
+[https://www.meetup.com/owasp-london/events/307603231/](https://www.meetup.com/owasp-london/events/307603231/)
 
 
 ---
