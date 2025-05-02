@@ -23,8 +23,8 @@ Video recordings: YouTube [playlist](https://www.youtube.com/playlist?list=PLmfx
 
 **TALKS:**
 
-* "Semantic OWASP: Leveraging GenAI and Graphs to Customise and Scale Security Knowledge" – Dinis Cruz [[video](https://www.youtube.com/watch?v=XH-qcK2yu6I)] | [[PDF](https://github.com/OWASP/www-chapter-london/blob/master/assets/slides/Semantic_OWASP_Leveraging_GenAI_and_Graphs_to_Customise_and_Scale_Security_Knowledge-Dinis-Cruz.pdf)]
-* "Securing Apps and APIs in Production: A Practical Approach to Runtime Application Security" – John Wood & Aurélien Svevi [[video](https://www.youtube.com/watch?v=udc7jcYGaD0)] | [[PDF](https://github.com/OWASP/www-chapter-london/blob/master/assets/slides/Aurelien-Svevi-John-Wood-OWASP-London-ADR.pdf)] 
+* "Semantic OWASP: Leveraging GenAI and Graphs to Customise and Scale Security Knowledge" – Dinis Cruz [[video](https://www.youtube.com/watch?v=XH-qcK2yu6I)]  [[PDF](https://github.com/OWASP/www-chapter-london/blob/master/assets/slides/Semantic_OWASP_Leveraging_GenAI_and_Graphs_to_Customise_and_Scale_Security_Knowledge-Dinis-Cruz.pdf)]
+* "Securing Apps and APIs in Production: A Practical Approach to Runtime Application Security" – John Wood & Aurélien Svevi [[video](https://www.youtube.com/watch?v=udc7jcYGaD0)]  [[PDF](https://github.com/OWASP/www-chapter-london/blob/master/assets/slides/Aurelien-Svevi-John-Wood-OWASP-London-ADR.pdf)] 
 
 **REGISTRATION/DETAILS:**
 
