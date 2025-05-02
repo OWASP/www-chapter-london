@@ -11,6 +11,29 @@ tags: london
 
 ## Past Events
 
+#### Wednesday, 23 April 2025 5:30pm (in-person/hybrid)
+
+* OWASP London Chapter Meetup at Olympia London
+
+The next OWASP London Chapter in-person meetup will take place on Wednesday, 23 April 2025. Doors open at 5:30 PM, and the talks will start at 6:00 PM (please note the earlier start time than usual due to venue restrictions).
+
+This event was held in the Keynote Theatre at Olympia London, in partnership with the UK Cyber Week Conference & Expo, which takes place at Olympia on 23–24 April.
+
+Video recordings: YouTube [playlist](https://www.youtube.com/playlist?list=PLmfxTKOjvC_dI7bgbFDO1o0ADUke7LtpR) & [full live stream](https://www.youtube.com/watch?v=uhFpUjd1R7Y)
+
+**TALKS:**
+
+* "Semantic OWASP: Leveraging GenAI and Graphs to Customise and Scale Security Knowledge" – Dinis Cruz [[video](https://www.youtube.com/watch?v=XH-qcK2yu6I)] | [[PDF](https://github.com/OWASP/www-chapter-london/blob/master/assets/slides/Semantic_OWASP_Leveraging_GenAI_and_Graphs_to_Customise_and_Scale_Security_Knowledge-Dinis-Cruz.pdf)]
+* "Securing Apps and APIs in Production: A Practical Approach to Runtime Application Security" – John Wood & Aurélien Svevi [[video](https://www.youtube.com/watch?v=udc7jcYGaD0)] | [[PDF](https://github.com/OWASP/www-chapter-london/blob/master/assets/slides/Aurelien-Svevi-John-Wood-OWASP-London-ADR.pdf)] 
+
+**REGISTRATION/DETAILS:**
+
+Register to attend the event here:
+
+[https://www.eventbrite.co.uk/e/owasp-london-chapter-meetup-at-olympia-london-tickets-1314471281989](https://www.eventbrite.co.uk/e/owasp-london-chapter-meetup-at-olympia-london-tickets-1314471281989?aff=ml)
+
+
+
 #### Wednesday, 15th January 2025 6:00pm (in-person/hybrid)
 
 * OWASP London Chapter Meetup
