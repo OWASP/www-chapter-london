@@ -16,6 +16,14 @@ tags: london
 #### Monday, 19 May 2025 6:00pm (in-person/hybrid)
 The next OWASP London Chapter in-person meetup will take place on Monday, 19th May 2025. Doors open at 6:00 PM, and the talks will start at 6:30 PM
 
+**TALKS**
+
+* OWASP Introduction, Welcome and News - Sam Stepanyan
+* "Attacks on Open Source Supply Chains: How Hackers Poison the Well" - Henrik Plate
+* "Introducing the OWASP SocialOSINTLM Project" - Brenden Miller
+* "Using LLMs To Accelerate Threat Detection" - Richard Finley Tweed
+
+
 **REGISTRATION/DETAILS:**
 
 Register to attend the event here:
