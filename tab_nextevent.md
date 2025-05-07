@@ -21,7 +21,7 @@ The next OWASP London Chapter in-person meetup will take place on Monday, 19th M
 * OWASP Introduction, Welcome and News - Sam Stepanyan
 * "Attacks on Open Source Supply Chains: How Hackers Poison the Well" - Henrik Plate
 * "Introducing the OWASP SocialOSINTLM Project" - Brenden Miller
-* "Using LLMs To Accelerate Threat Detection" - Richard Finley Tweed
+* "Using LLMs To Accelerate Threat Detection" - Richard Finlay Tweed
 
 
 **REGISTRATION/DETAILS:**
