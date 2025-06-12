@@ -11,6 +11,25 @@ tags: london
 
 ## Past Events
 
+#### Monday, 19 May 2025 6:00pm (in-person/hybrid)
+The next OWASP London Chapter in-person meetup will take place on Monday, 19th May 2025. Doors open at 6:00 PM, and the talks will start at 6:30 PM
+
+Video recordings: YouTube [playlist](https://youtube.com/playlist?list=PLmfxTKOjvC_fYEwD7C4XIgAOGKdSeJZWg&si=spUGLqokR-iWjAv1) & [full live stream](https://www.youtube.com/live/geFSrsqxxJU)
+
+**TALKS**
+
+* OWASP Introduction, Welcome and News - Sam Stepanyan
+* "Attacks on Open Source Supply Chains: How Hackers Poison the Well" - Henrik Plate [[video](https://www.youtube.com/watch?v=VclCXrKpRBo)] [[PDF](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWtVSXhnYmtpOWRsRkdnLUV2MnRZTTY2S2FXQXxBQ3Jtc0trTzBJUU44ek1WQWlKWkxBbEp0ekROV09JdWNlRDBORVdQWnN4RHRFMFduMUN2TDIyVFRsNGhLX3JNOHYyQ01ZT2hYZzFidVdabXFIcW0ydEJoM25FN3ZGQTZmSWZYZVJEYXRvcXhzNV9wSlNabk5HVQ&q=https%3A%2F%2Fgithub.com%2FOWASP%2Fwww-chapter-london%2Fraw%2Frefs%2Fheads%2Fmaster%2Fassets%2Fslides%2F20250519_Henrik_PLATE_OWASP_London.pdf&v=VclCXrKpRBo)]
+* "Introducing the OWASP SocialOSINTLM Project" - Brenden Miller [[video](https://www.youtube.com/watch?v=0FlHa1gfOZs)] [[PDF](https://github.com/OWASP/www-chapter-london/blob/master/assets/slides/Brenden-Miller-SocialOSINTLM_Presentation.pdf)]
+* "Using LLMs To Accelerate Threat Detection" - Richard Finlay Tweed [[video](https://www.youtube.com/watch?v=xuyqTmGShbU)] [[PDF](https://github.com/OWASP/www-chapter-london/blob/master/assets/slides/Using_LLMs_to_accelerate_threat_detection-OWASP_London_2025-Richard_Finlay_Tweed.pdf)]
+
+
+**REGISTRATION/DETAILS:**
+
+Register to attend the event here:
+
+[https://www.meetup.com/owasp-london/events/307603231/](https://www.meetup.com/owasp-london/events/307603231/)
+
 #### Wednesday, 23 April 2025 5:30pm (in-person/hybrid)
 
 * OWASP London Chapter Meetup at Olympia London
