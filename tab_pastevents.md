@@ -11,6 +11,22 @@ tags: london
 
 ## Past Events
 
+#### Thursday, 26 June 2025 6:00pm (in-person/hybrid)
+The next OWASP London Chapter in-person meetup will take place on Thursday, 26th June 2025. Doors open at 6:00 PM, and the talks will start at 6:30 PM
+
+Video Recodings: Youtube [playlist](https://youtube.com/playlist?list=PLmfxTKOjvC_dMu8HD32w-0SyPh92K6xyL&si=AcH5eMMcH4nyksK1)  & [full live stream](https://www.youtube.com/live/NKUqBGdDQno)
+
+**TALKS**
+
+* "You secured your code dependencies, is that enough?" - Anant Shrivastava [[video](https://youtu.be/b4hghhSYqqM)] | [[PDF](http://docs.google.com/viewer?url=https://raw.githubusercontent.com/OWASP/www-chapter-london/refs/heads/master/assets/slides/Anant-Shrivastava-OWASP-London-20250626-Slides.pdf)]
+* "AI-Second Threat Centric Agentic Approach on Vulnerabilities" - Francesco Cipollone [[video](https://youtu.be/mHFKG9KLybk)] | [[PDF](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/OWASP/www-chapter-london/refs/heads/master/assets/slides/Francesco_Cipollone-OWASPLondon20250626-AI_Second-Agentic_threat_centric_approach_on_vulnerabiltieis.pdf)]
+
+**REGISTRATION/DETAILS:**
+
+Register to attend the event here:
+
+[https://www.meetup.com/owasp-london/events/308459321/](https://www.meetup.com/owasp-london/events/308459321/)
+
 #### Monday, 19 May 2025 6:00pm (in-person/hybrid)
 The next OWASP London Chapter in-person meetup will take place on Monday, 19th May 2025. Doors open at 6:00 PM, and the talks will start at 6:30 PM
 
