@@ -11,6 +11,21 @@ tags: london
 
 ## Past Events
 
+#### Thursday, 17 July 2025 6:00pm (in-person/hybrid)
+The next OWASP London Chapter in-person meetup will take place on Thursday, 17th July 2025. Doors open at 6:00 PM, and the talks will start at 6:30 PM
+
+Video Recodings: Youtube [playlist](https://www.youtube.com/playlist?list=PLmfxTKOjvC_epSa01KIkqVSqWICVupdSr)  & [full live stream](https://youtube.com/live/01vyEb0GUSk)
+
+**TALKS**
+
+* "Server-Side Cross-Site Scripting" - Balazs Bucsay [[video](https://youtu.be/UNoUEBNhRjE)] | [[PDF](http://docs.google.com/viewer?url=https://raw.githubusercontent.com/OWASP/www-chapter-london/refs/heads/master/assets/slides/Balazs-Bucsay-Server-Side-XSS-OWASPLondon-20250717-slides.pdf)]
+* "Securing the Software Supply Chain in the Age of AI, Malware, and Compliance" - Matthew Brady [[video](https://youtu.be/LWdBkbcvMco)] 
+
+**REGISTRATION/DETAILS:**
+
+Register to attend the event here:
+[https://www.meetup.com/owasp-london/events/308850519/](https://www.meetup.com/owasp-london/events/308850519/?eventOrigin=group_past_events)
+
 #### Thursday, 26 June 2025 6:00pm (in-person/hybrid)
 The next OWASP London Chapter in-person meetup will take place on Thursday, 26th June 2025. Doors open at 6:00 PM, and the talks will start at 6:30 PM
 
