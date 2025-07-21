@@ -18,8 +18,8 @@ Video Recodings: Youtube [playlist](https://www.youtube.com/playlist?list=PLmfxT
 
 **TALKS**
 
-* "Server-Side Cross-Site Scripting" - Balazs Bucsay [[video](https://youtu.be/UNoUEBNhRjE)] | [[PDF](http://docs.google.com/viewer?url=https://raw.githubusercontent.com/OWASP/www-chapter-london/refs/heads/master/assets/slides/Balazs-Bucsay-Server-Side-XSS-OWASPLondon-20250717-slides.pdf)]
-* "Securing the Software Supply Chain in the Age of AI, Malware, and Compliance" - Matthew Brady [[video](https://youtu.be/LWdBkbcvMco)] 
+* "Server-Side Cross-Site Scripting" - Balazs Bucsay [[video]](https://youtu.be/UNoUEBNhRjE)  [[PDF]](http://docs.google.com/viewer?url=https://raw.githubusercontent.com/OWASP/www-chapter-london/refs/heads/master/assets/slides/Balazs-Bucsay-Server-Side-XSS-OWASPLondon-20250717-slides.pdf)
+* "Securing the Software Supply Chain in the Age of AI, Malware, and Compliance" - Matthew Brady [[video]](https://youtu.be/LWdBkbcvMco) [[PDF]](https://github.com/OWASP/www-chapter-london/blob/master/assets/slides/Matthew-Brady-OWASPLondon-Securing-Your-Applications-20250717.pdf)
 
 **REGISTRATION/DETAILS:**
 
@@ -33,8 +33,8 @@ Video Recodings: Youtube [playlist](https://youtube.com/playlist?list=PLmfxTKOjv
 
 **TALKS**
 
-* "You secured your code dependencies, is that enough?" - Anant Shrivastava [[video](https://youtu.be/b4hghhSYqqM)] | [[PDF](http://docs.google.com/viewer?url=https://raw.githubusercontent.com/OWASP/www-chapter-london/refs/heads/master/assets/slides/Anant-Shrivastava-OWASP-London-20250626-Slides.pdf)]
-* "AI-Second Threat Centric Agentic Approach on Vulnerabilities" - Francesco Cipollone [[video](https://youtu.be/mHFKG9KLybk)] | [[PDF](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/OWASP/www-chapter-london/refs/heads/master/assets/slides/Francesco_Cipollone-OWASPLondon20250626-AI_Second-Agentic_threat_centric_approach_on_vulnerabiltieis.pdf)]
+* "You secured your code dependencies, is that enough?" - Anant Shrivastava [video](https://youtu.be/b4hghhSYqqM)]  [[PDF](http://docs.google.com/viewer?url=https://raw.githubusercontent.com/OWASP/www-chapter-london/refs/heads/master/assets/slides/Anant-Shrivastava-OWASP-London-20250626-Slides.pdf)]
+* "AI-Second Threat Centric Agentic Approach on Vulnerabilities" - Francesco Cipollone [[video]](https://youtu.be/mHFKG9KLybk)]  [[PDF]](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/OWASP/www-chapter-london/refs/heads/master/assets/slides/Francesco_Cipollone-OWASPLondon20250626-AI_Second-Agentic_threat_centric_approach_on_vulnerabiltieis.pdf)]
 
 **REGISTRATION/DETAILS:**
 
