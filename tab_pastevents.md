@@ -11,6 +11,26 @@ tags: london
 
 ## Past Events
 
+#### Monday, 22 September 2025 6:00pm (in-person/hybrid)
+The next OWASP London Chapter in-person meetup will take place on Monday, 22nd September . Doors open at 6:00 PM, and the talks will start at 6:30 PM
+
+
+Video Recodings: Youtube [playlist](https://www.youtube.com/playlist?list=PLmfxTKOjvC_cmeuVxcnBqfSXHjr3mtRwm)
+
+**TALKS**
+
+* "Protecting your Generative AI App from the Five Deadly Risks - STOIC Security" - Jeff Watkins [slides](https://www.canva.com/design/DAGzy2IQkEI/jCPHPhHAqDlWPx3GcxiLvQ/edit)  | [video](https://www.youtube.com/watch?v=NZ1DUadwjZU)
+
+* "Scaling Threat Modeling with a Developer-Centric Approach" - Andrew Hainault & Andrea Scaduto [PDF](https://github.com/OWASP/www-chapter-london/blob/master/assets/slides/Rethinking%20Threat%20Modeling%20%20for%20Dev%20Teams%20-%20A%20Scalable%20Approach%20-%20Andrew%20Hainault-Andrea-Scaduto.pdf) | [video](https://www.youtube.com/watch?v=U6ZtOcDvc4o)
+
+**REGISTRATION/DETAILS:**
+
+Register to attend the event here:
+
+
+[https://www.meetup.com/owasp-london/events/310823103/](https://www.meetup.com/owasp-london/events/310823103)
+
+
 #### Thursday, 17 July 2025 6:00pm (in-person/hybrid)
 The next OWASP London Chapter in-person meetup will take place on Thursday, 17th July 2025. Doors open at 6:00 PM, and the talks will start at 6:30 PM
 
