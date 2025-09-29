@@ -14,7 +14,7 @@ tags: london
 [//]: # (Comment: When updating the next event info also update the homepage)
 
 #### Thursday, 2 October 2025 6:00pm (in-person/hybrid)
-The next OWASP London Chapter in-person meetup will take place on Thurday, October 2, 2025 . Doors open at 6:00 PM, and the talks will start at 6:30 PM
+The next OWASP London Chapter in-person meetup will take place on Thursday, October 2, 2025 at The Shard. Doors open at 6:00 PM, and the talks will start at 6:30 PM
 
 
 **TALKS**
@@ -27,7 +27,8 @@ The next OWASP London Chapter in-person meetup will take place on Thurday, Octob
 
 Register to attend the event here:
 
-https://www.eventbrite.co.uk/e/owasp-london-chapter-meetup-in-person-tickets-1752181314479
+[https://www.eventbrite.co.uk/e/owasp-london-chapter-meetup-in-person-tickets-1752181314479](https://www.eventbrite.co.uk/e/owasp-london-chapter-meetup-in-person-tickets-1752181314479)
+
 
 
 ---
