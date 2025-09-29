@@ -13,21 +13,21 @@ tags: london
 
 [//]: # (Comment: When updating the next event info also update the homepage)
 
-#### Monday, 22 September 2025 6:00pm (in-person/hybrid)
-The next OWASP London Chapter in-person meetup will take place on Monday, 22nd September . Doors open at 6:00 PM, and the talks will start at 6:30 PM
+#### Thursday, 2 October 2025 6:00pm (in-person/hybrid)
+The next OWASP London Chapter in-person meetup will take place on Thurday, October 2, 2025 . Doors open at 6:00 PM, and the talks will start at 6:30 PM
+
 
 **TALKS**
 
-* "Protecting your Generative AI App from the Five Deadly Risks - STOIC Security" - Jeff Watkins
-
-* "Scaling Threat Modeling with a Developer-Centric Approach" - Andrew Hainault & Andrea Scaduto
+* "Trust and Traceability: Developer Observability in the AI-Powered SDLC - Safeguarding the enterprise with superior AI risk governance" - Matias Madou, Ph.D.
+* "LLM Attacks and Defences - Prompt Hacking" - Dominic Whewell
+* Lightning Talk: "How to do multi-tool deduplication without LLMs - Stories from the Trenches" - Spyros Gasteratos
 
 **REGISTRATION/DETAILS:**
 
 Register to attend the event here:
 
-
-[https://www.meetup.com/owasp-london/events/310823103/](https://www.meetup.com/owasp-london/events/310823103)
+https://www.eventbrite.co.uk/e/owasp-london-chapter-meetup-in-person-tickets-1752181314479
 
 
 ---
