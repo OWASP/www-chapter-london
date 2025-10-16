@@ -1,0 +1,35 @@
+community:
+  - name: chapter-london
+    platform: slack
+    url: https://owasp.slack.com/archives/C1WAV9UKY
+    description: OWASP London Chapter Channel
+currency: GBP
+leaders:
+  - name: Sherif Mansour
+    email: sherif.mansour@owasp.org
+    github: kerberosmansour
+  - name: Sam Stepanyan
+    email: sam.stepanyan@owasp.org
+    github: securestep9
+  - name: Andra Lezza
+    email: andra.lezza@owasp.org
+    github: alezza
+location:
+  country: United Kingdom
+  country_code: GB
+  region: England
+  city: London
+  postal_code: SW1V 3QW
+  latitude: 51.5118606
+  longitude: -0.0780174
+meetup_group: OWASP-London
+name: OWASP London
+repositories:
+  - name: www-chapter-london
+    url: https://github.com/OWASP/www-chapter-london
+    description: OWASP Foundation Web Repository
+tags:
+  - london
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-london
