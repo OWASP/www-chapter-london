@@ -14,12 +14,13 @@ tags: london
 #### Thursday, 2 October 2025 6:00pm (in-person/hybrid)
 The next OWASP London Chapter in-person meetup will take place on Thursday, October 2, 2025 at The Shard. Doors open at 6:00 PM, and the talks will start at 6:30 PM
 
+Video Recodings: Youtube [playlist](https://www.youtube.com/playlist?list=PLmfxTKOjvC_elp6JDRKUb8QRXMbvcF49_)
 
 **TALKS**
 
-* "Trust and Traceability: Developer Observability in the AI-Powered SDLC - Safeguarding the enterprise with superior AI risk governance" - Matias Madou, Ph.D.
-* "LLM Attacks and Defences - Prompt Hacking" - Dominic Whewell
-* Lightning Talk: "How to do multi-tool deduplication without LLMs - Stories from the Trenches" - Peran Truscott
+* "Trust and Traceability: Developer Observability in the AI-Powered SDLC - Safeguarding the enterprise with superior AI risk governance" - Matias Madou, Ph.D. [slides](https://github.com/OWASP/www-chapter-london/blob/f8c1ba1d5c5b13d835e26fc42ad07e97c784affb/assets/slides/Matias_Madou-Trust_and_Traceability_Developer_Observability_in_the_AI-Powered_SDLC.pdf) | [video](https://www.youtube.com/watch?v=STW7QESXA88)
+* "LLM Attacks and Defences - Prompt Hacking" - Dominic Whewell  [slides](https://github.com/OWASP/www-chapter-london/blob/77a7ac4e51ed5645252b6c0e5ccf1948d1e598b1/assets/slides/OWASPLondon20251002-Dom-Whewell-LLMattack-and-defences.pdf) | [video](https://www.youtube.com/watch?v=RimQX7HL5Cw)
+* Lightning Talk: "How to do multi-tool deduplication without LLMs - Stories from the Trenches" - Peran Truscott [slides](https://github.com/OWASP/www-chapter-london/blob/77a7ac4e51ed5645252b6c0e5ccf1948d1e598b1/assets/slides/OWASPLondon20251002-Peran%20Truscott%20-%20Multitool%20Deduplicaton%20without%20LLMs.pdf) | [video](https://www.youtube.com/watch?v=lo8wH9on9vE)
 
 **REGISTRATION/DETAILS:**
 
