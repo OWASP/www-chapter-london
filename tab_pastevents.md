@@ -11,6 +11,24 @@ tags: london
 
 ## Past Events
 
+#### Thursday, 20 November 2025 6:00pm (in-person/hybrid)
+The next OWASP London Chapter in-person meetup will take place on Thursday, November 20th, 2025 at The Amazon London  HQ. Doors open at 6:00 PM, and the talks will start at 6:30 PM
+
+
+**TALKS**
+
+* "AI Agents Gone Rogue? Building, Defending and Attacking AI Agents" - Katie Paxton Fear
+* "Deep Dive into the OWASP Top 10 for Agentic Applications" - John Sotiropoulos
+
+**REGISTRATION/DETAILS:**
+
+Register to attend the event here (Photo ID required!):
+
+[https://www.meetup.com/owasp-london/events/311874594/](https://www.meetup.com/owasp-london/events/311874594/)
+
+Video Recodings: YouTube [playlist](https://www.youtube.com/playlist?list=PLmfxTKOjvC_fVVKfX-oSlHC6UPw9n7zh6)
+
+
 #### Thursday, 2 October 2025 6:00pm (in-person/hybrid)
 The next OWASP London Chapter in-person meetup will take place on Thursday, October 2, 2025 at The Shard. Doors open at 6:00 PM, and the talks will start at 6:30 PM
 
