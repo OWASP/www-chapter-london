@@ -26,7 +26,7 @@ Register to attend the event here (Photo ID required!):
 
 [https://www.meetup.com/owasp-london/events/311874594/](https://www.meetup.com/owasp-london/events/311874594/)
 
-Video Recodings: YouTube [playlist](https://www.youtube.com/playlist?list=PLmfxTKOjvC_fVVKfX-oSlHC6UPw9n7zh6)
+Video Recodings: YouTube [playlist](https://www.youtube.com/playlist?list=PLmfxTKOjvC_dFmGL2UMovcbOpxnM1a9td)
 
 
 #### Thursday, 2 October 2025 6:00pm (in-person/hybrid)
