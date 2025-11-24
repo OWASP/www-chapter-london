@@ -31,7 +31,7 @@ Register to attend the event here:
 ---
 #### Wednesday, 10th December 2025 1:30pm (in-person/hybrid)
 
-**OWASP Agentic AI Security Summit (with OWAPS genAI Security project)**
+**OWASP Agentic AI Security Summit (with OWASP GenAI Security project)**
 
 Register to attend the event here:
 
