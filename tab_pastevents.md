@@ -17,8 +17,8 @@ The next OWASP London Chapter in-person meetup will take place on Thursday, Nove
 
 **TALKS**
 
-* "AI Agents Gone Rogue? Building, Defending and Attacking AI Agents" - Katie Paxton Fear
-* "Deep Dive into the OWASP Top 10 for Agentic Applications" - John Sotiropoulos
+* "AI Agents Gone Rogue? Building, Defending and Attacking AI Agents" - Katie Paxton Fear [slides](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/OWASP/www-chapter-london/refs/heads/master/assets/slides/Katie_Paxton-Fear-AI_Agents_Gone_Rogue.pdf) | [video](https://www.youtube.com/watch?v=f3N2Rnos_Ic)
+* "Deep Dive into the OWASP Top 10 for Agentic Applications" - John Sotiropoulos [slides](http://docs.google.com/viewer?url=https://raw.githubusercontent.com/OWASP/www-chapter-london/refs/heads/master/assets/slides/John_Sotiropoulos-OWASP%20Top%2010%20for%20Agentic%20Applications%20-%20London%20Chapter.pdf) | [video](https://www.youtube.com/watch?v=-vXoC0UvpjY)
 
 **REGISTRATION/DETAILS:**
 
