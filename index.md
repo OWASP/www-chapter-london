@@ -206,7 +206,7 @@ The following is the list of organisations who have generously provided us with 
   <tr>
       <td><a href="https://www.checkmarx.com/"><img src="assets/images/Checkmarx_Logo.jpg" width="200" alt="checkmarxlogo"/></a></td>
       <td><a href="https://www.sage.com/en-gb/"><img src="assets/images/Sage-logo_svg.svg" height="88" alt="sagelogo"/></a></td>
-      <td></td>
+      <td><a href="https://www.tessl.io"><img src="assets/images/tessl_logo.png" height="88" alt="tessllogo"/></a></td>
   </tr>
 </table>
 
