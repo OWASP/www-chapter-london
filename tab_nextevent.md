@@ -13,20 +13,22 @@ tags: london
 
 [//]: # (Comment: When updating the next event info also update the homepage)
 
-#### Friday, 5th December 2025 6:00pm (in-person/hybrid)
-The next OWASP London Chapter in-person meetup will take place on Friday, December 5th, 2025 at the Tessl AI offices. Doors open at 6:00 PM, and the talks will start at 6:30 PM
+#### Wednesday, 21st January 2026 6:00pm (in-person/hybrid)
+The next OWASP London Chapter in-person meetup will take place on Wednesday, January 21st, 2026 at Rich Mix. Doors open at 6:00 PM, and the talks will start at 6:30 PM
 
 
 **TALKS**
 
-* "30 Tips for Secure JavaScript" - Tanya Janca
-* "Securing Vibe Coding: Addressing the Security Challenges of AI-Generated Code" - Sonya Moisset
+* "DNS Based OSINT Techniques for Product and Service Discovery - Rishi C.
+* "Race Against The Workflows: Stealing GitHub Tokens from Docker Images - Gaëtan Ferry
+* Securing the SDLC: From Container Images to AI Agents - Tharinda Basnayake
+
 
 **REGISTRATION/DETAILS:**
 
 Register to attend the event here:
 
-[https://www.meetup.com/owasp-london/events/312131658/](https://www.meetup.com/owasp-london/events/312131658/)
+[https://www.meetup.com/owasp-london/events/312721446](https://www.meetup.com/owasp-london/events/312721446)
 
 ---
 #### Wednesday, 10th December 2025 1:30pm (in-person/hybrid)
