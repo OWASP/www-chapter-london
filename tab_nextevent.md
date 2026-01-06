@@ -19,9 +19,9 @@ The next OWASP London Chapter in-person meetup will take place on Wednesday, Jan
 
 **TALKS**
 
-* "DNS Based OSINT Techniques for Product and Service Discovery - Rishi C.
-* "Race Against The Workflows: Stealing GitHub Tokens from Docker Images - Gaëtan Ferry
-* Securing the SDLC: From Container Images to AI Agents - Tharinda Basnayake
+* "DNS Based OSINT Techniques for Product and Service Discovery" - Rishi C.
+* "Race Against The Workflows: Stealing GitHub Tokens from Docker Images" - Gaëtan Ferry
+* "Securing the SDLC: From Container Images to AI Agents" - Tharinda Basnayake
 
 
 **REGISTRATION/DETAILS:**
