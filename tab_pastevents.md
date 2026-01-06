@@ -11,6 +11,38 @@ tags: london
 
 ## Past Events
 
+#### Wednesday, 10th December 2025 1:30pm (in-person/hybrid)
+
+**OWASP Agentic AI Security Summit (joint event with OWASP GenAI Security project)**
+
+Register to attend the event here:
+
+[https://luma.com/88f9nkar](https://luma.com/88f9nkar?tk=WG7bTH)
+
+Video Recordings: [YouTube](https://www.youtube.com/watch?v=YM-gC_AIjWQ)
+
+----
+
+#### Friday, 5th December 2025 6:00pm (in-person/hybrid)
+The next OWASP London Chapter in-person meetup will take place on Friday, December 5th, 2025 at the Tessl AI offices. Doors open at 6:00 PM, and the talks will start at 6:30 PM
+
+
+**TALKS**
+
+* "30 Tips for Secure JavaScript" - Tanya Janca
+* "Securing Vibe Coding: Addressing the Security Challenges of AI-Generated Code" - Sonya Moisset
+
+**REGISTRATION/DETAILS:**
+
+Register to attend the event here:
+
+[https://www.meetup.com/owasp-london/events/312131658/](https://www.meetup.com/owasp-london/events/312131658/)
+
+Video Recordings: YouTube [playlist](https://www.youtube.com/playlist?list=PLmfxTKOjvC_dqCGb0HahNMd-2O6zod6QO)
+
+---
+
+
 #### Thursday, 20 November 2025 6:00pm (in-person/hybrid)
 The next OWASP London Chapter in-person meetup will take place on Thursday, November 20th, 2025 at The Amazon London  HQ. Doors open at 6:00 PM, and the talks will start at 6:30 PM
 
@@ -26,13 +58,13 @@ Register to attend the event here (Photo ID required!):
 
 [https://www.meetup.com/owasp-london/events/311874594/](https://www.meetup.com/owasp-london/events/311874594/)
 
-Video Recodings: YouTube [playlist](https://www.youtube.com/playlist?list=PLmfxTKOjvC_dFmGL2UMovcbOpxnM1a9td)
+Video Recordings: YouTube [playlist](https://www.youtube.com/playlist?list=PLmfxTKOjvC_dFmGL2UMovcbOpxnM1a9td)
 
 
 #### Thursday, 2 October 2025 6:00pm (in-person/hybrid)
 The next OWASP London Chapter in-person meetup will take place on Thursday, October 2, 2025 at The Shard. Doors open at 6:00 PM, and the talks will start at 6:30 PM
 
-Video Recodings: Youtube [playlist](https://www.youtube.com/playlist?list=PLmfxTKOjvC_elp6JDRKUb8QRXMbvcF49_)
+Video Recordings: Youtube [playlist](https://www.youtube.com/playlist?list=PLmfxTKOjvC_elp6JDRKUb8QRXMbvcF49_)
 
 **TALKS**
 
@@ -50,7 +82,7 @@ Register to attend the event here:
 The next OWASP London Chapter in-person meetup will take place on Monday, 22nd September . Doors open at 6:00 PM, and the talks will start at 6:30 PM
 
 
-Video Recodings: Youtube [playlist](https://www.youtube.com/playlist?list=PLmfxTKOjvC_cmeuVxcnBqfSXHjr3mtRwm)
+Video Recordings: Youtube [playlist](https://www.youtube.com/playlist?list=PLmfxTKOjvC_cmeuVxcnBqfSXHjr3mtRwm)
 
 **TALKS**
 
@@ -69,7 +101,7 @@ Register to attend the event here:
 #### Thursday, 17 July 2025 6:00pm (in-person/hybrid)
 The next OWASP London Chapter in-person meetup will take place on Thursday, 17th July 2025. Doors open at 6:00 PM, and the talks will start at 6:30 PM
 
-Video Recodings: Youtube [playlist](https://www.youtube.com/playlist?list=PLmfxTKOjvC_epSa01KIkqVSqWICVupdSr)  & [full live stream](https://youtube.com/live/01vyEb0GUSk)
+Video Recordings: Youtube [playlist](https://www.youtube.com/playlist?list=PLmfxTKOjvC_epSa01KIkqVSqWICVupdSr)  & [full live stream](https://youtube.com/live/01vyEb0GUSk)
 
 **TALKS**
 
@@ -84,7 +116,7 @@ Register to attend the event here:
 #### Thursday, 26 June 2025 6:00pm (in-person/hybrid)
 The next OWASP London Chapter in-person meetup will take place on Thursday, 26th June 2025. Doors open at 6:00 PM, and the talks will start at 6:30 PM
 
-Video Recodings: Youtube [playlist](https://youtube.com/playlist?list=PLmfxTKOjvC_dMu8HD32w-0SyPh92K6xyL&si=AcH5eMMcH4nyksK1)  & [full live stream](https://www.youtube.com/live/NKUqBGdDQno)
+Video Recordings: Youtube [playlist](https://youtube.com/playlist?list=PLmfxTKOjvC_dMu8HD32w-0SyPh92K6xyL&si=AcH5eMMcH4nyksK1)  & [full live stream](https://www.youtube.com/live/NKUqBGdDQno)
 
 **TALKS**
 
