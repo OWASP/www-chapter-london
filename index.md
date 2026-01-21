@@ -108,7 +108,7 @@ The following are the list of OWASP Corporate Members who have generously aligne
           <a href="https://root.io"><img src="assets/images/rootio_logo.png"  alt="root.io_logo"/></a>
       </td>
       <td>
-          &nbsp;
+          <a href="https://www.nuaware.com"><img src="assets/images/nuaware_logo.png"  alt="nuaware_logo"/></a>
       </td>
       <td>
           &nbsp;
