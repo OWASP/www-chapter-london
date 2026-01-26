@@ -111,7 +111,7 @@ The following are the list of OWASP Corporate Members who have generously aligne
           <a href="https://www.nuaware.com"><img height="68" src="assets/images/nuaware_logo.png"  alt="nuaware_logo"/></a>
       </td>
       <td>
-          &nbsp;
+        <a href="https://www.gitguardian.com"><img height="68" src="assets/images/gitguardian_logo.png" alt="gitguardian_logo"/></a>
       </td>
   </tr>
 </table>
