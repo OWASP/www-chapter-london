@@ -11,6 +11,26 @@ tags: london
 
 ## Past Events
 
+
+#### Wednesday, 21st January 2026 6:00pm (in-person/hybrid)
+The next OWASP London Chapter in-person meetup will take place on Wednesday, January 21st, 2026 at Rich Mix. Doors open at 6:00 PM, and the talks will start at 6:30 PM
+
+
+**TALKS**
+
+* "DNS Based OSINT Techniques for Product and Service Discovery" - Rishi C.
+* "Race Against The Workflows: Stealing GitHub Tokens from Docker Images" - Gaëtan Ferry
+* "Securing the SDLC: From Container Images to AI Agents" - Tharinda Basnayake
+
+
+**REGISTRATION/DETAILS:**
+
+Register to attend the event here:
+
+[https://www.meetup.com/owasp-london/events/312721446](https://www.meetup.com/owasp-london/events/312721446)
+
+Video Recordings: [YouTube](https://www.youtube.com/playlist?list=PLmfxTKOjvC_dBiLsEefE0A23cp9xO-DF_)
+
 #### Wednesday, 10th December 2025 1:30pm (in-person/hybrid)
 
 **OWASP Agentic AI Security Summit (joint event with OWASP GenAI Security project)**
