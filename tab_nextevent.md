@@ -11,12 +11,6 @@ tags: london
 
 ## Next Meeting/Event(s)
 
-#### Tuesday, 14 April 2026 6:00pm (in-person/hybrid)
-
-The next OWASP London Chapter in-person meetup will take place on April 14th, 2026
-Register to attend here:
-
-[https://www.eventbrite.co.uk/e/owasp-london-chapter-meetup-in-person-tickets-1986801166773](https://www.eventbrite.co.uk/e/owasp-london-chapter-meetup-in-person-tickets-1986801166773?aff=ws)
 
 [//]: # (Comment: When updating the next event info also update the homepage)
 
