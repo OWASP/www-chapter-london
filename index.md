@@ -231,12 +231,12 @@ Please visit <a href="http://www.meetup.com/OWASP-London">http://www.meetup.com/
 
 Video Recordings of Past Events
 --------------------------------
-You can watch the recordings of talks presented at OWASP London events on our YouTube channel: https://www.youtube.com/OWASPLondon
+You can watch the recordings of talks presented at OWASP London events on our YouTube channel: [https://www.youtube.com/OWASPLondon](https://www.youtube.com/OWASPLondon)
 
 Please [SUBSCRIBE](https://www.youtube.com/OWASPLondon?sub_confirmation=1) to our YouTube channel to get notified when new videos get published.
 
 Updates on Social Media and Mailing List
 ---------------------
-Please follow OWASP London Chapter on <a href="https://twitter.com/OWASPLondon">Twiter</a>/<a href="https://facebook.com/OWASPLondon">Facebook</a>/<a href="https://meetup.com/OWASP-London">MeetUp</a>/<a href="https://owasplondon.eventbrite.com">EventBrite</a>/<a href="https://www.linkedin.com/company/owasplondon">LinkedIN</a> and <a href="https://groups.google.com/a/owasp.org/forum/#!forum/london-chapter/join">sign up to our mailing list</a> to be notified about the upcoming OWASP London Chapter events.
+Please follow OWASP London Chapter on <a href="https://twitter.com/OWASPLondon">Twiter</a>/<a href="https://facebook.com/OWASPLondon">Facebook</a>/<a href="https://meetup.com/OWASP-London">MeetUp</a>/<a href="https://owasplondon.eventbrite.com">EventBrite</a>/<a href="https://www.linkedin.com/company/owasplondon">LinkedIn</a> and <a href="https://groups.google.com/a/owasp.org/forum/#!forum/london-chapter/join">sign up to our mailing list</a> to be notified about the upcoming OWASP London Chapter events.
 
 ---
