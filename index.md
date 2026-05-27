@@ -231,7 +231,7 @@ Please visit <a href="http://www.meetup.com/OWASP-London">http://www.meetup.com/
 
 Video Recordings of Past Events
 --------------------------------
-You can watch the recordings of talks presented at OWASP London events on our YouTube channel: https://www.youtube.com/OWASPLondon
+You can watch the recordings of talks presented at OWASP London events on our YouTube channel: [https://www.youtube.com/OWASPLondon](https://www.youtube.com/OWASPLondon)
 
 Please [SUBSCRIBE](https://www.youtube.com/OWASPLondon?sub_confirmation=1) to our YouTube channel to get notified when new videos get published.
 
