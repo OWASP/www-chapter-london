@@ -237,6 +237,6 @@ Please [SUBSCRIBE](https://www.youtube.com/OWASPLondon?sub_confirmation=1) to ou
 
 Updates on Social Media and Mailing List
 ---------------------
-Please follow OWASP London Chapter on <a href="https://twitter.com/OWASPLondon">Twiter</a>/<a href="https://facebook.com/OWASPLondon">Facebook</a>/<a href="https://meetup.com/OWASP-London">MeetUp</a>/<a href="https://owasplondon.eventbrite.com">EventBrite</a>/<a href="https://www.linkedin.com/company/owasplondon">LinkedIN</a> and <a href="https://groups.google.com/a/owasp.org/forum/#!forum/london-chapter/join">sign up to our mailing list</a> to be notified about the upcoming OWASP London Chapter events.
+Please follow OWASP London Chapter on <a href="https://twitter.com/OWASPLondon">Twiter</a>/<a href="https://facebook.com/OWASPLondon">Facebook</a>/<a href="https://meetup.com/OWASP-London">MeetUp</a>/<a href="https://owasplondon.eventbrite.com">EventBrite</a>/<a href="https://www.linkedin.com/company/owasplondon">LinkedIn</a> and <a href="https://groups.google.com/a/owasp.org/forum/#!forum/london-chapter/join">sign up to our mailing list</a> to be notified about the upcoming OWASP London Chapter events.
 
 ---
