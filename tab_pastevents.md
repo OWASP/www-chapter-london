@@ -11,6 +11,15 @@ tags: london
 
 ## Past Events
 
+#### Tuesday, 30 June 2026 6:00pm (in-person/hybrid)
+
+The next OWASP London Chapter in-person meetup will take place on June 30, 2026
+Register to attend here:
+
+[https://www.eventbrite.co.uk/e/owasp-london-chapter-meetup-in-person-tickets-1992013900199](https://www.eventbrite.co.uk/e/owasp-london-chapter-meetup-in-person-tickets-1992013900199?aff=ws)
+
+Video Recordings: YouTube [playlist](https://www.youtube.com/playlist?list=PLGqp5UN7vKYk)
+
 #### Thursday, 4 June 2026 10:00am (in-person)
 
 OWASP AI Security Summit is taking place at Infosecurity Europe 2026 on Thursday, 4 June 2026 at ExCeL London at 10am
