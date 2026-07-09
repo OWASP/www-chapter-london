@@ -13,11 +13,23 @@ tags: london
 
 [//]: # (Comment: When updating the next event info also update the homepage)
 
-#### THursday, 16 July 2026 6:00pm (in-person/hybrid)
+#### Thursday, 16 July 2026 6:00pm (in-person/hybrid)
 
-The next OWASP London Chapter in-person meetup will take place on July 16, 2026 - save the date!
+The next OWASP London Chapter in-person meetup will take place on July 16, 2026, 6pm.
 
-The details and registration will be announced soon. 
+TALKS:
+
+* "Steal the Session, Skip the Login: How Real Attacks Move from Session Replay to Broken AuthZ and MCP Abuse" - Viola Lykova
+
+* "Testing LLM Application in the Real World" - Donato Capitella
+
+REGISTRATION:
+
+
+Register to attend this event here:
+
+[https://www.eventbrite.co.uk/e/owasp-london-chapter-meetup-in-person-tickets-1993451949443](https://www.eventbrite.co.uk/e/owasp-london-chapter-meetup-in-person-tickets-1993451949443?aff=ws)
+
 
 
 ---
