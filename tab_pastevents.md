@@ -11,6 +11,26 @@ tags: london
 
 ## Past Events
 
+### Monday, 28 September 2026 6:00pm (in-person/hybrid)
+
+The next OWASP London Chapter in-person meetup will take place on September 28th, 2026, 6pm.
+
+TALKS:
+
+* "A Story from the Frontline: When the Security Scanner Gets Popped" - Chris Holman
+
+* "SAML - Yep, it's Broken" - Glyn Wintle
+
+
+REGISTRATION:
+
+
+Register to attend this event here:
+
+[https://www.eventbrite.co.uk/e/owasp-london-chapter-meetup-in-person-tickets-2000885198491](https://www.eventbrite.co.uk/e/owasp-london-chapter-meetup-in-person-tickets-2000885198491?aff=ws)
+
+Video Recordings: YouTube [playlist](https://www.youtube.com/playlist?list=PLTBeecr19Q8U)
+
 #### Thursday, 16 July 2026 6:00pm (in-person/hybrid)
 
 The next OWASP London Chapter in-person meetup will take place on July 16, 2026, 6pm.
