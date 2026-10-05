@@ -13,6 +13,21 @@ tags: london
 
 [//]: # (Comment: When updating the next event info also update the homepage)
 
+### Wednesday, 7 October 2026 6:00pm (in-person/hybrid)
+
+The next OWASP London Chapter in-person meetup will take place on October 7th, 2026, 6pm.
+
+TALKS:
+
+* "Platform as a Product: What happens when we treat security as a user?" - Hannah Foxwell
+* "Judgement Day is Now: Machine speed defense in the Age of AI based attacks" - Bhavin Bhatt
+* "Agentic AppSec for the AI Era" - Emmanuel Gonzalez Carmona
+
+REGISTRATION:
+
+You can register to attend this event here:
+
+[https://www.eventbrite.co.uk/e/owasp-london-chapter-meetup-in-person-tickets-2002101621846](https://www.eventbrite.co.uk/e/owasp-london-chapter-meetup-in-person-tickets-2002101621846?aff=ws)
 
 
 ---
